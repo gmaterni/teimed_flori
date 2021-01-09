@@ -1,0 +1,7 @@
+{
+    "merge_dir": {
+        "dir":"txt/tor1/eps",
+        "pattern":"*.txt",
+        "out_path": "txt/tor1/floritor1.txt"
+    }
+}

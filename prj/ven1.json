@@ -1,0 +1,7 @@
+{
+    "exe": [
+        "prjmgr.py prj/ven1_merge.json",
+        "prjmgr.py prj/ven1_txt.json",
+        "prjmgr.py prj/ven1_xml.json"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "merge_dir": {
+        "dir":"txt/tou1/eps",
+        "pattern":"*.txt",
+        "out_path": "txt/tou1/floritou1.txt"
+    }
+}

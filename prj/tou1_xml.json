@@ -1,0 +1,32 @@
+{
+    "exe": [
+        [
+            "teimlineword2.py",
+            "-i txt/tou1/xx.txt",
+            "-o txt/tou1/x2.xml",
+            "-s G -n 'pb:1,cb:1,lg:1,l:1'"
+        ],
+        [
+            "teimxmllint.py",
+            "-i txt/tou1/x2.xml ",
+            "-o txt/tou1/x3.xml "
+        ],
+        [
+            "teimspan2.py",
+            "-i txt/tou1/x3.xml",
+            "-o txt/tou1/x4.xml"
+        ],
+        [
+            "teimnote.py",
+            "-i txt/tou1/x4.xml",
+            "-o txt/tou1/x5.xml",
+            "-n fl_note.csv"
+        ],
+        [
+            "teimxmllint.py",
+            "-i txt/tou1/x5.xml",
+            "-o txt/floritou1.xml "
+        ]
+
+    ]
+}

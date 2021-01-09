@@ -1,0 +1,10 @@
+{
+    "exe": [
+        [
+            "teimxml.py ",
+            "-i txt/ven1/floriven1.txt",
+            "-t fl_teimed_tags.csv",
+            "-o txt/ven1/xx.txt"
+        ]
+    ]
+}

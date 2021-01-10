@@ -2,7 +2,7 @@
     "exe": [
         [
             "teimlineword2.py",
-            "-i txt/par1/xx.txt",
+            "-i txt/par1/x0.txt",
             "-o txt/par1/x1.xml",
             "-s G -n 'pb:1,cb:1,lg:1,l:1'"
         ],

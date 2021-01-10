@@ -4,7 +4,7 @@
             "teimxml.py ",
             "-i txt/tou1/floritou1.txt",
             "-t fl_teimed_tags.csv",
-            "-o txt/tou1/xx.txt"
+            "-o txt/tou1/x0.txt"
         ]
     ]
 }

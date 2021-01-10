@@ -1,8 +1,24 @@
 {
   "remove_dir": [
     {
-      "dir": "html/par1/txt",
-      "pattern": "par1_list.html"
+      "dir": "txt/par1",
+      "pattern": "*.*"
+    },
+    {
+      "dir": "txt/tor1",
+      "pattern": "*.*"
+    },
+    {
+      "dir": "txt/tou1",
+      "pattern": "*.*"
+    },
+    {
+      "dir": "txt/ven1",
+      "pattern": "*.*"
+    },
+    {
+      "dir": "log/",
+      "pattern": "*.*"
     }
   ]
 }

@@ -3,28 +3,28 @@
         [
             "teimlineword2.py",
             "-i txt/ven1/xx.txt",
-            "-o txt/ven1/x2.xml",
+            "-o txt/ven1/x1.xml",
             "-s G -n 'pb:1,cb:1,lg:1,l:1'"
         ],
         [
             "teimxmllint.py",
-            "-i txt/ven1/x2.xml ",
-            "-o txt/ven1/x3.xml "
+            "-i txt/ven1/x1.xml ",
+            "-o txt/ven1/x2.xml "
         ],
         [
             "teimspan2.py",
-            "-i txt/ven1/x3.xml",
-            "-o txt/ven1/x4.xml"
+            "-i txt/ven1/x2.xml",
+            "-o txt/ven1/x3.xml"
         ],
         [
             "teimnote.py",
-            "-i txt/ven1/x4.xml",
-            "-o txt/ven1/x5.xml",
+            "-i txt/ven1/x3.xml",
+            "-o txt/ven1/x4.xml",
             "-n fl_note.csv"
         ],
         [
             "teimxmllint.py",
-            "-i txt/ven1/x5.xml",
+            "-i txt/ven1/x4.xml",
             "-o txt/floriven1.xml "
         ]
 

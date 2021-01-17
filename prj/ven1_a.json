@@ -1,0 +1,31 @@
+{
+    "exe": [
+        [
+            "teimspan.py",
+            "-i txt/ven1/x1.xml",
+            "-o txt/ven1/x2.xml"
+        ],
+        [
+            "teimnote.py",
+            "-i txt/ven1/x2.xml",
+            "-o txt/ven1/x3.xml",
+            "-n fl_note.csv"
+        ]
+    ],
+    "include": {
+        "host": "txt/teitemplate.xml",
+        "dest": "txt/ven1/x4.xml",
+        "params": [],
+        "files": [
+            "XML_MANO|txt/ven1/x3.xml"
+        ]
+    },
+    "exe.1": [
+        [
+            "teimxmllint.py",
+            "-i txt/ven1/x4.xml",
+            "-o txt/floriven1.xml "
+        ]
+    ]
+
+}

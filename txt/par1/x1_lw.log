@@ -1,0 +1,1466 @@
+
+<l n="1" xml:id="Gl1"><w xml:id="Gl1w1" >Cil</w><w xml:id="Gl1w2" >qi</w><w xml:id="Gl1w3" >a</w><w xml:id="Gl1w4" >cuer</w><w xml:id="Gl1w5" >de</w><w xml:id="Gl1w6" ><c ana="#lram-c">u</c>asalage</w></l>
+1) ['Cil', 'qi', 'a', 'cuer', 'de', '', 'asalage', '']
+2) ['', '', '', '', '', 'u', '', '']
+<w>Cil</w>
+<w>qi</w>
+<w>a</w>
+<w>cuer</w>
+<w>de</w>
+<w><c ana="#lram-c">u</c>asalage</w>
+1) ['u', '']
+
+<l n="2" xml:id="Gl2"><w xml:id="Gl2w1" >[E</w><w xml:id="Gl2w2" ><c ana="#lram-c">u</c>elt]</w><w xml:id="Gl2w3" >amer</w><w xml:id="Gl2w4" >[de</w><w xml:id="Gl2w5" >fin]</w><w xml:id="Gl2w6" >corage</w><pc xml:id="Gl2pc1" resp="#ed">,</pc></l>
+1) ['[E', '', 'elt]', 'amer', '[de', 'fin]', 'corage', ',', '']
+2) ['', 'u', '', '', '', '', '', '', '']
+<w>[E</w>
+<w><c ana="#lram-c">u</c>elt]</w>
+1) ['u', '']
+<w>amer</w>
+<w>[de</w>
+<w>fin]</w>
+<w>corage</w>
+<pc resp="#ed">,</pc>
+
+<l n="3" xml:id="Gl3"><w xml:id="Gl3w1" >Si</w><w xml:id="Gl3w2" >doit</w><w xml:id="Gl3w3" >o<c ana="#hiat">i</c>r</w><w xml:id="Gl3w4" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl3w5" >escouter</w></l>
+1) ['Si', 'doit', '', 'r', '', '', '', 'escouter', '']
+2) ['', '', 'i', '', '', '', '', '', '']
+3) ['', '', '', '', 'et', '', '', '', '']
+<w>Si</w>
+<w>doit</w>
+<w>o<c ana="#hiat">i</c>r</w>
+1) ['i', '']
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>escouter</w>
+
+<l n="4" xml:id="Gl4"><w xml:id="Gl4w1" >Ce</w><w xml:id="Gl4w2" >que</w><persName ref="#AYM"><forename><w xml:id="Gl4w3" >aimes</w></forename></persName><w xml:id="Gl4w4" ><c ana="#lram-c">u</c>ealt</w><w xml:id="Gl4w5" >reconter</w><pc xml:id="Gl4pc1" resp="#ed">:</pc></l>
+1) ['Ce', 'que', '', '', '', '', 'ealt', 'reconter', ':', '']
+2) ['', '', '', '', '', 'u', '', '', '', '']
+3) ['', '', 'aimes', '', '', '', '', '', '', '']
+<w>Ce</w>
+<w>que</w>
+<persName ref="#AYM"><forename><w>aimes</w></forename></persName>
+2) ['aimes', '', '']
+<w><c ana="#lram-c">u</c>ealt</w>
+1) ['u', '']
+<w>reconter</w>
+<pc resp="#ed">:</pc>
+
+<l n="5" xml:id="Gl5"><w xml:id="Gl5w1" >Assez</w><w xml:id="Gl5w2" >[i</w><w xml:id="Gl5w3" >puet]</w><w xml:id="Gl5w4" >[de</w><w xml:id="Gl5w5" >bien]</w><w xml:id="Gl5w6" >entendre</w></l>
+1) ['Assez', '[i', 'puet]', '[de', 'bien]', 'entendre', '']
+<w>Assez</w>
+<w>[i</w>
+<w>puet]</w>
+<w>[de</w>
+<w>bien]</w>
+<w>entendre</w>
+
+<l n="6" xml:id="Gl6"><w xml:id="Gl6w1" >[Si</w><w xml:id="Gl6w2" >de]</w><w xml:id="Gl6w3" >buen</w><w xml:id="Gl6w4" >cuer</w><w xml:id="Gl6w5" ><c ana="#lram-c">u</c>ealt</w><w xml:id="Gl6w6" >entendre</w><pc xml:id="Gl6pc1" resp="#ed">.</pc></l>
+1) ['[Si', 'de]', 'buen', 'cuer', '', 'ealt', 'entendre', '.', '']
+2) ['', '', '', '', 'u', '', '', '', '']
+<w>[Si</w>
+<w>de]</w>
+<w>buen</w>
+<w>cuer</w>
+<w><c ana="#lram-c">u</c>ealt</w>
+1) ['u', '']
+<w>entendre</w>
+<pc resp="#ed">.</pc>
+
+<l n="7" xml:id="Gl7"><w xml:id="Gl7w1" ><hi rend="init-flour">O</hi>R</w><w xml:id="Gl7w2" >oez</w><pc xml:id="Gl7pc1" resp="#ed">,</pc><w xml:id="Gl7w3" >seignors</w><pc xml:id="Gl7pc2" resp="#ed">,</pc><w xml:id="Gl7w4" >[_que</w><w xml:id="Gl7w5" ><c ana="#lram-c">i</c>e</w><w xml:id="Gl7w6" >di]</w><pc xml:id="Gl7pc3" resp="#ed">.</pc></l>
+1) ['', 'R', 'oez', ',', 'seignors', ',', '[_que', '', 'e', 'di]', '.', '']
+2) ['O', '', '', '', '', '', '', 'i', '', '', '', '']
+<w><hi rend="init-flour">O</hi>R</w>
+1) ['O', '']
+<w>oez</w>
+<pc resp="#ed">,</pc>
+<w>seignors</w>
+<pc resp="#ed">,</pc>
+<w>[_que</w>
+<w><c ana="#lram-c">i</c>e</w>
+1) ['i', '']
+<w>di]</w>
+<pc resp="#ed">.</pc>
+
+<l n="8" xml:id="Gl8"><persName ref="#AYM"><forename><w xml:id="Gl8w1" >Aimes</w></forename></persName><w xml:id="Gl8w2" >por</w><persName ref="#ANA"><forename><w xml:id="Gl8w3" >anali</w></forename></persName></l>
+1) ['', '', '', 'por', '', '', '', '']
+3) ['Aimes', '', '', '', 'anali', '', '', '']
+<persName ref="#AYM"><forename><w>Aimes</w></forename></persName>
+2) ['Aimes', '', '']
+<w>por</w>
+<persName ref="#ANA"><forename><w>anali</w></forename></persName>
+2) ['anali', '', '']
+
+<l n="9" xml:id="Gl9"><w xml:id="Gl9w1" >Fist</w><w xml:id="Gl9w2" >le</w><w xml:id="Gl9w3" >romains</w><w xml:id="Gl9w4" >tant</w><w xml:id="Gl9w5" >saige<expan corresp="#ab-ctr-mt">m<ex>en</ex>t</expan></w></l>
+1) ['Fist', 'le', 'romains', 'tant', '', '', '', '']
+2) ['', '', '', '', '', 't', '', '']
+3) ['', '', '', '', 'en', '', '', '']
+<w>Fist</w>
+<w>le</w>
+<w>romains</w>
+<w>tant</w>
+<w>saige<expan corresp="#ab-ctr-mt">m<ex>en</ex>t</expan></w>
+1) ['', 't', '']
+2) ['en', '', '']
+
+<l n="10" xml:id="Gl10"><w xml:id="Gl10w1" >Que</w><w xml:id="Gl10w2" >teus</w><w xml:id="Gl10w3" ana="#elis">l</w><w xml:id="Gl10w4" >o<c ana="#hiat">i</c>ra</w><w xml:id="Gl10w5" >que</w><w xml:id="Gl10w6" >[ne</w><w xml:id="Gl10w7" ana="#elis">l</w><w xml:id="Gl10w8" >intent]</w></l>
+1) ['Que', 'teus', 'l', '', 'ra', 'que', '[ne', 'l', 'intent]', '']
+2) ['', '', '', 'i', '', '', '', '', '', '']
+<w>Que</w>
+<w>teus</w>
+<w ana="#elis">l</w>
+<w>o<c ana="#hiat">i</c>ra</w>
+1) ['i', '']
+<w>que</w>
+<w>[ne</w>
+<w ana="#elis">l</w>
+<w>intent]</w>
+
+<l n="11" xml:id="Gl11"><w xml:id="Gl11w1" >Por quoi</w><w xml:id="Gl11w2" >[il</w><w xml:id="Gl11w3" >fu]</w><w xml:id="Gl11w4" >[_<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl11w5" >feiz]</w><w xml:id="Gl11w6" >[_<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl11w7" >diz]</w><pc xml:id="Gl11pc1" resp="#ed">.</pc></l>
+1) ['Por quoi', '[il', 'fu]', '', '', '', 'feiz]', '', '', '', 'diz]', '.', '']
+3) ['', '', '', 'et', '', '', '', 'et', '', '', '', '', '']
+<w>Por quoi</w>
+<w>[il</w>
+<w>fu]</w>
+<w>[_<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>feiz]</w>
+<w>[_<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>diz]</w>
+<pc resp="#ed">.</pc>
+
+<l n="12" xml:id="Gl12"><w xml:id="Gl12w1" >Por</w><persName ref="#ANA"><forename><w xml:id="Gl12w2" >analin</w></forename></persName><w xml:id="Gl12w3" >fu</w><w xml:id="Gl12w4" >[en</w><w xml:id="Gl12w5" >escriz]</w><pc xml:id="Gl12pc1" resp="#ed">.</pc></l>
+1) ['Por', '', '', '', 'fu', '[en', 'escriz]', '.', '']
+3) ['', 'analin', '', '', '', '', '', '', '']
+<w>Por</w>
+<persName ref="#ANA"><forename><w>analin</w></forename></persName>
+2) ['analin', '', '']
+<w>fu</w>
+<w>[en</w>
+<w>escriz]</w>
+<pc resp="#ed">.</pc>
+
+<l n="13" xml:id="Gl13"><w xml:id="Gl13w1" >Toz</w><w xml:id="Gl13w2" ><c ana="#lram-c">i</c>ors</w><w xml:id="Gl13w3" >iert</w><w xml:id="Gl13w4" >mais</w><w xml:id="Gl13w5" >[en</w><w xml:id="Gl13w6" >remenbrance]</w><pc xml:id="Gl13pc1" resp="#ed">.</pc></l>
+1) ['Toz', '', 'ors', 'iert', 'mais', '[en', 'remenbrance]', '.', '']
+2) ['', 'i', '', '', '', '', '', '', '']
+<w>Toz</w>
+<w><c ana="#lram-c">i</c>ors</w>
+1) ['i', '']
+<w>iert</w>
+<w>mais</w>
+<w>[en</w>
+<w>remenbrance]</w>
+<pc resp="#ed">.</pc>
+
+<l n="14" xml:id="Gl14"><w xml:id="Gl14w1" ><c ana="#lram-v">J</c>l</w><w xml:id="Gl14w2" >ne</w><w xml:id="Gl14w3" >fu</w><w xml:id="Gl14w4" >mie</w><w xml:id="Gl14w5" >faiz</w><w xml:id="Gl14w6" >[en</w><placeName type="region" ref="#FRA"><name><w xml:id="Gl14w7" >france]</w></name></placeName></l>
+1) ['', 'l', 'ne', 'fu', 'mie', 'faiz', '[en', '', '', '', '']
+2) ['J', '', '', '', '', '', '', '', '', '', '']
+3) ['', '', '', '', '', '', '', 'france]', '', '', '']
+<w><c ana="#lram-v">J</c>l</w>
+1) ['J', '']
+<w>ne</w>
+<w>fu</w>
+<w>mie</w>
+<w>faiz</w>
+<w>[en</w>
+<placeName type="region" ref="#FRA"><name><w>france]</w></name></placeName>
+2) ['france]', '', '']
+
+<l n="15" xml:id="Gl15"><w xml:id="Gl15w1" >Mais</w><w xml:id="Gl15w2" >[en</w><w xml:id="Gl15w3" >la</w><w xml:id="Gl15w4" >lengue]</w><w xml:id="Gl15w5" >de</w><w xml:id="Gl15w6" >françois</w></l>
+1) ['Mais', '[en', 'la', 'lengue]', 'de', 'françois', '']
+<w>Mais</w>
+<w>[en</w>
+<w>la</w>
+<w>lengue]</w>
+<w>de</w>
+<w>françois</w>
+
+<l n="16" xml:id="Gl16"><w xml:id="Gl16w1" >[Le</w><w xml:id="Gl16w2" >fist]</w><persName ref="#AYM"><forename><w xml:id="Gl16w3" >aimes</w></forename></persName><w xml:id="Gl16w4" >[_en</w><placeName type="city" ref="#LIO"><name><w xml:id="Gl16w5" >lionois]</w></name></placeName><pc xml:id="Gl16pc1" resp="#ed">.</pc></l>
+1) ['[Le', 'fist]', '', '', '', '[_en', '', '', '', '.', '']
+3) ['', '', 'aimes', '', '', '', 'lionois]', '', '', '', '']
+<w>[Le</w>
+<w>fist]</w>
+<persName ref="#AYM"><forename><w>aimes</w></forename></persName>
+2) ['aimes', '', '']
+<w>[_en</w>
+<placeName type="city" ref="#LIO"><name><w>lionois]</w></name></placeName>
+2) ['lionois]', '', '']
+<pc resp="#ed">.</pc>
+
+<l n="17" xml:id="Gl17"><persName ref="#AYM"><forename><w xml:id="Gl17w1" ><hi rend="init-flour">A</hi><c ana="#lram-v">J</c>mes</w></forename></persName><w xml:id="Gl17w2" ><add place="marg">mist</add></w><w xml:id="Gl17w3" ana="#elis">s</w><w xml:id="Gl17w4" >entencion</w><pc xml:id="Gl17pc1" resp="#ed">.</pc></l>
+1) ['', '', '', '', '', '', '', 's', 'entencion', '.', '']
+2) ['', '', '', '', '', 'mist', '', '', '', '', '']
+3) ['', '', 'mes', '', '', '', '', '', '', '', '']
+4) ['A', 'J', '', '', '', '', '', '', '', '', '']
+<persName ref="#AYM"><forename><w><hi rend="init-flour">A</hi><c ana="#lram-v">J</c>mes</w></forename></persName>
+2) ['', '', 'mes', '', '']
+3) ['A', 'J', '', '', '']
+<w><add place="marg">mist</add></w>
+1) ['mist', '']
+<w ana="#elis">s</w>
+<w>entencion</w>
+<pc resp="#ed">.</pc>
+
+<l n="18" xml:id="Gl18"><w xml:id="Gl18w1" >Le</w><w xml:id="Gl18w2" >romains</w><w xml:id="Gl18w3" >fist</w><w xml:id="Gl18w4" >[<c ana= "#diacr-desamb">a</c></w><placeName type="city" ref="#CHA"><name><w xml:id="Gl18w5" >chastilon]</w></name></placeName></l>
+1) ['Le', 'romains', 'fist', '', '', '', '', '', '']
+2) ['', '', '', 'a', '', '', '', '', '']
+3) ['', '', '', '', '', 'chastilon]', '', '', '']
+<w>Le</w>
+<w>romains</w>
+<w>fist</w>
+<w>[<c ana= "#diacr-desamb">a</c></w>
+1) ['a', '']
+<placeName type="city" ref="#CHA"><name><w>chastilon]</w></name></placeName>
+2) ['chastilon]', '', '']
+
+<l n="19" xml:id="Gl19"><w xml:id="Gl19w1" >[De</w><persName ref="#FIL"><forename><w xml:id="Gl19w2" >filipon]</w></forename><w xml:id="Gl19w3" >de</w><placeName type="region" ref="#MAC"><name><w xml:id="Gl19w4" >macedoine</w></name></placeName></persName></l>
+1) ['[De', '', '', '', '', '', '', '', '']
+2) ['', '', '', 'de', '', '', '', '', '']
+3) ['', 'filipon]', '', '', '', '', '', '', '']
+4) ['', '', '', '', 'macedoine', '', '', '', '']
+<w>[De</w>
+<persName ref="#FIL"><forename><w>filipon]</w></forename><w>de</w><placeName type="region" ref="#MAC"><name><w>macedoine</w></name></placeName></persName>
+1) ['', '', 'de', '', '', '', '']
+2) ['filipon]', '', '', '', '', '', '']
+3) ['', '', '', 'macedoine', '', '', '']
+
+<l n="20" xml:id="Gl20"><w xml:id="Gl20w1" >Qui</w><w xml:id="Gl20w2" >fu</w><w xml:id="Gl20w3" >noriz</w><w xml:id="Gl20w4" >[en</w><placeName type="city" ref="#BAB"><name><w xml:id="Gl20w5" >babilone]</w></name></placeName><pc xml:id="Gl20pc1" resp="#ed">,</pc></l>
+1) ['Qui', 'fu', 'noriz', '[en', '', '', '', ',', '']
+3) ['', '', '', '', 'babilone]', '', '', '', '']
+<w>Qui</w>
+<w>fu</w>
+<w>noriz</w>
+<w>[en</w>
+<placeName type="city" ref="#BAB"><name><w>babilone]</w></name></placeName>
+2) ['babilone]', '', '']
+<pc resp="#ed">,</pc>
+
+<l n="21" xml:id="Gl21"><w xml:id="Gl21w1" >Et</w><w xml:id="Gl21w2" >del</w><w xml:id="Gl21w3" >[fil</w><w xml:id="Gl21w4" >au</w><persName ref="#MAT"><roleName><w xml:id="Gl21w5" >duc]</w></roleName><forename><w xml:id="Gl21w6" >mataquaz</w></forename></persName></l>
+1) ['Et', 'del', '[fil', 'au', '', '', '', '', '', '']
+3) ['', '', '', '', 'duc]', '', 'mataquaz', '', '', '']
+<w>Et</w>
+<w>del</w>
+<w>[fil</w>
+<w>au</w>
+<persName ref="#MAT"><roleName><w>duc]</w></roleName><forename><w>mataquaz</w></forename></persName>
+2) ['duc]', '', 'mataquaz', '', '']
+
+<l n="22" xml:id="Gl22"><w xml:id="Gl22w1" >[_Qui</w><w xml:id="Gl22w2" >estoit]</w><w xml:id="Gl22w3" >sire</w><w xml:id="Gl22w4" >de</w><placeName type="city" ref="#DUR"><name><w xml:id="Gl22w5" >duraz</w></name></placeName><pc xml:id="Gl22pc1" resp="#ed">:</pc></l>
+1) ['[_Qui', 'estoit]', 'sire', 'de', '', '', '', ':', '']
+3) ['', '', '', '', 'duraz', '', '', '', '']
+<w>[_Qui</w>
+<w>estoit]</w>
+<w>sire</w>
+<w>de</w>
+<placeName type="city" ref="#DUR"><name><w>duraz</w></name></placeName>
+2) ['duraz', '', '']
+<pc resp="#ed">:</pc>
+
+<l n="23" xml:id="Gl23"><persName ref="#FLO"><forename><w xml:id="Gl23w1" >Floriemont</w></forename></persName><w xml:id="Gl23w2" >ot</w><w xml:id="Gl23w3" >nom</w><w xml:id="Gl23w4" >[en</w><w xml:id="Gl23w5" >françois]</w><pc xml:id="Gl23pc1" resp="#ed">,</pc></l>
+1) ['', '', '', 'ot', 'nom', '[en', 'françois]', ',', '']
+3) ['Floriemont', '', '', '', '', '', '', '', '']
+<persName ref="#FLO"><forename><w>Floriemont</w></forename></persName>
+2) ['Floriemont', '', '']
+<w>ot</w>
+<w>nom</w>
+<w>[en</w>
+<w>françois]</w>
+<pc resp="#ed">,</pc>
+
+<l n="24" xml:id="Gl24"><persName ref="#FLO"><forename><w xml:id="Gl24w1" >Elleneos</w></forename></persName><w xml:id="Gl24w2" >dit</w><w xml:id="Gl24w3" >[en</w><w xml:id="Gl24w4" >greçois]</w><pc xml:id="Gl24pc1" resp="#ed">.</pc></l>
+1) ['', '', '', 'dit', '[en', 'greçois]', '.', '']
+3) ['Elleneos', '', '', '', '', '', '', '']
+<persName ref="#FLO"><forename><w>Elleneos</w></forename></persName>
+2) ['Elleneos', '', '']
+<w>dit</w>
+<w>[en</w>
+<w>greçois]</w>
+<pc resp="#ed">.</pc>
+
+<l n="25" xml:id="Gl25"><w xml:id="Gl25w1" >Rois</w><w xml:id="Gl25w2" >fu</w><w xml:id="Gl25w3" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl25w4" >si</w><w xml:id="Gl25w5" >conquist</w><w xml:id="Gl25w6" >assez</w><pc xml:id="Gl25pc1" resp="#ed">,</pc></l>
+1) ['Rois', 'fu', '', '', '', 'si', 'conquist', 'assez', ',', '']
+3) ['', '', 'et', '', '', '', '', '', '', '']
+<w>Rois</w>
+<w>fu</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>si</w>
+<w>conquist</w>
+<w>assez</w>
+<pc resp="#ed">,</pc>
+
+<l n="26" xml:id="Gl26"><w xml:id="Gl26w1" >Dirai</w><w xml:id="Gl26w2" ><c ana="#lram-c">u</c>os</w><w xml:id="Gl26w3" >en</w><w xml:id="Gl26w4" >si</w><w xml:id="Gl26w5" ana="#elis">m</w><w xml:id="Gl26w6" >escotez</w></l>
+1) ['Dirai', '', 'os', 'en', 'si', 'm', 'escotez', '']
+2) ['', 'u', '', '', '', '', '', '']
+<w>Dirai</w>
+<w><c ana="#lram-c">u</c>os</w>
+1) ['u', '']
+<w>en</w>
+<w>si</w>
+<w ana="#elis">m</w>
+<w>escotez</w>
+
+<l n="27" xml:id="Gl27"><w xml:id="Gl27w1" ><hi rend="init-flour">P</hi>Or</w><w xml:id="Gl27w2" >assiege</w><w xml:id="Gl27w3" >[<c ana= "#diacr-desamb">a</c></w><placeName type="city" ref="#CHA"><name><w xml:id="Gl27w4" >chastillon]</w></name></placeName></l>
+1) ['', 'Or', 'assiege', '', '', '', '', '', '']
+2) ['P', '', '', 'a', '', '', '', '', '']
+3) ['', '', '', '', '', 'chastillon]', '', '', '']
+<w><hi rend="init-flour">P</hi>Or</w>
+1) ['P', '']
+<w>assiege</w>
+<w>[<c ana= "#diacr-desamb">a</c></w>
+1) ['a', '']
+<placeName type="city" ref="#CHA"><name><w>chastillon]</w></name></placeName>
+2) ['chastillon]', '', '']
+
+<l n="28" xml:id="Gl28"><w xml:id="Gl28w1" >Estoit</w><persName ref="#AYM"><forename><w xml:id="Gl28w2" >aimes</w></forename></persName><w xml:id="Gl28w3" >une</w><w xml:id="Gl28w4" >saison</w></l>
+1) ['Estoit', '', '', '', 'une', 'saison', '']
+3) ['', 'aimes', '', '', '', '', '']
+<w>Estoit</w>
+<persName ref="#AYM"><forename><w>aimes</w></forename></persName>
+2) ['aimes', '', '']
+<w>une</w>
+<w>saison</w>
+
+<l n="29" xml:id="Gl29"><w xml:id="Gl29w1" >E</w><w xml:id="Gl29w2" >porpensa</w><w xml:id="Gl29w3" >soi</w><w xml:id="Gl29w4" >del</w><w xml:id="Gl29w5" >estoire</w></l>
+1) ['E', 'porpensa', 'soi', 'del', 'estoire', '']
+<w>E</w>
+<w>porpensa</w>
+<w>soi</w>
+<w>del</w>
+<w>estoire</w>
+
+<l n="30" xml:id="Gl30"><w xml:id="Gl30w1" ana="#elis">Qu</w><w xml:id="Gl30w2" >il</w><w xml:id="Gl30w3" >a<c ana="#lram-c">u</c>oit</w><w xml:id="Gl30w4" >[en</w><w xml:id="Gl30w5" >sa]</w><w xml:id="Gl30w6" >memoire</w><pc xml:id="Gl30pc1" resp="#ed">.</pc></l>
+1) ['Qu', 'il', '', 'oit', '[en', 'sa]', 'memoire', '.', '']
+2) ['', '', 'u', '', '', '', '', '', '']
+<w ana="#elis">Qu</w>
+<w>il</w>
+<w>a<c ana="#lram-c">u</c>oit</w>
+1) ['u', '']
+<w>[en</w>
+<w>sa]</w>
+<w>memoire</w>
+<pc resp="#ed">.</pc>
+
+<l n="31" xml:id="Gl31"><w xml:id="Gl31w1" ><c ana="#lram-v">J</c>l</w><w xml:id="Gl31w2" ana="#elis">l</w><w xml:id="Gl31w3" >a<c ana="#lram-c">u</c>oit</w><w xml:id="Gl31w4" >[en</w><placeName type="region" ref="#GRE"><name><w xml:id="Gl31w5" >grece]</w></name></placeName><w xml:id="Gl31w6" ><c ana="#lram-c">u</c>e<c ana="#hiat">u</c>e</w></l>
+1) ['', 'l', 'l', '', 'oit', '[en', '', '', '', '', '', 'e', '']
+2) ['J', '', '', 'u', '', '', '', '', '', 'u', 'u', '', '']
+3) ['', '', '', '', '', '', 'grece]', '', '', '', '', '', '']
+<w><c ana="#lram-v">J</c>l</w>
+1) ['J', '']
+<w ana="#elis">l</w>
+<w>a<c ana="#lram-c">u</c>oit</w>
+1) ['u', '']
+<w>[en</w>
+<placeName type="region" ref="#GRE"><name><w>grece]</w></name></placeName>
+2) ['grece]', '', '']
+<w><c ana="#lram-c">u</c>e<c ana="#hiat">u</c>e</w>
+1) ['u', 'u', '']
+
+<l n="32" xml:id="Gl32"><w xml:id="Gl32w1" >Mes</w><w xml:id="Gl32w2" ana="#elis">n</w><w xml:id="Gl32w3" >est</w><w xml:id="Gl32w4" >pas</w><w xml:id="Gl32w5" >par</w><w xml:id="Gl32w6" >tot</w><w xml:id="Gl32w7" >se<c ana="#hiat">u</c>e</w><pc xml:id="Gl32pc1" resp="#ed">;</pc></l>
+1) ['Mes', 'n', 'est', 'pas', 'par', 'tot', '', 'e', ';', '']
+2) ['', '', '', '', '', '', 'u', '', '', '']
+<w>Mes</w>
+<w ana="#elis">n</w>
+<w>est</w>
+<w>pas</w>
+<w>par</w>
+<w>tot</w>
+<w>se<c ana="#hiat">u</c>e</w>
+1) ['u', '']
+<pc resp="#ed">;</pc>
+
+<l n="33" xml:id="Gl33"><w xml:id="Gl33w1" ><c ana="#diacr-desamb">A</c></w><placeName type="city" ref="#FIP"><name><w xml:id="Gl33w2" >filipoble</w></name></placeName><w xml:id="Gl33w3" >la</w><w xml:id="Gl33w4" >tro<c ana="#lram-c">u</c>a</w><pc xml:id="Gl33pc1" resp="#ed">,</pc></l>
+1) ['', '', '', '', '', 'la', '', 'a', ',', '']
+2) ['A', '', '', '', '', '', 'u', '', '', '']
+3) ['', '', 'filipoble', '', '', '', '', '', '', '']
+<w><c ana="#diacr-desamb">A</c></w>
+1) ['A', '']
+<placeName type="city" ref="#FIP"><name><w>filipoble</w></name></placeName>
+2) ['filipoble', '', '']
+<w>la</w>
+<w>tro<c ana="#lram-c">u</c>a</w>
+1) ['u', '']
+<pc resp="#ed">,</pc>
+
+<l n="34" xml:id="Gl34"><w xml:id="Gl34w1" ><c ana="#diacr-desamb">A</c></w><placeName type="city" ref="#CHA"><name><w xml:id="Gl34w2" >chastillon</w></name></placeName><w xml:id="Gl34w3" ana="#elis">l</w><w xml:id="Gl34w4" >[en</w><w xml:id="Gl34w5" >aporta]</w><pc xml:id="Gl34pc1" resp="#ed">;</pc></l>
+1) ['', '', '', '', '', 'l', '[en', 'aporta]', ';', '']
+2) ['A', '', '', '', '', '', '', '', '', '']
+3) ['', '', 'chastillon', '', '', '', '', '', '', '']
+<w><c ana="#diacr-desamb">A</c></w>
+1) ['A', '']
+<placeName type="city" ref="#CHA"><name><w>chastillon</w></name></placeName>
+2) ['chastillon', '', '']
+<w ana="#elis">l</w>
+<w>[en</w>
+<w>aporta]</w>
+<pc resp="#ed">;</pc>
+
+<l n="35" xml:id="Gl35"><w xml:id="Gl35w1" >Ensi</w><w xml:id="Gl35w2" >come</w><w xml:id="Gl35w3" >il</w><w xml:id="Gl35w4" ana="#elis">l</w><w xml:id="Gl35w5" >a<c ana="#lram-c">u</c>oit</w><w xml:id="Gl35w6" >aprise</w></l>
+1) ['Ensi', 'come', 'il', 'l', '', 'oit', 'aprise', '']
+2) ['', '', '', '', 'u', '', '', '']
+<w>Ensi</w>
+<w>come</w>
+<w>il</w>
+<w ana="#elis">l</w>
+<w>a<c ana="#lram-c">u</c>oit</w>
+1) ['u', '']
+<w>aprise</w>
+
+<l n="36" xml:id="Gl36"><w xml:id="Gl36w1" ana="#elis">L</w><w xml:id="Gl36w2" >[a</w><w xml:id="Gl36w3" >de</w><w xml:id="Gl36w4" >latin]</w><w xml:id="Gl36w5" >[en</w><w xml:id="Gl36w6" >roman]</w><w xml:id="Gl36w7" >mise</w><pc xml:id="Gl36pc1" resp="#ed">.</pc></l>
+1) ['L', '[a', 'de', 'latin]', '[en', 'roman]', 'mise', '.', '']
+<w ana="#elis">L</w>
+<w>[a</w>
+<w>de</w>
+<w>latin]</w>
+<w>[en</w>
+<w>roman]</w>
+<w>mise</w>
+<pc resp="#ed">.</pc>
+
+<l n="37" xml:id="Gl37"><persName ref="#AYM"><forename><w xml:id="Gl37w1" ><hi rend="init-flour">A</hi><c ana="#lram-v">J</c>mes</w></forename><w xml:id="Gl37w2" >de</w><placeName type="city" ref="#VAR"><name><w xml:id="Gl37w3" ><c ana="#lram-c">u</c>arienes</w></name></placeName></persName><w xml:id="Gl37w4" >retrait</w></l>
+1) ['', '', '', '', '', '', '', '', '', '', 'retrait', '']
+2) ['', '', '', '', 'de', '', '', '', '', '', '', '']
+3) ['', '', 'mes', '', '', '', '', '', '', '', '', '']
+4) ['A', 'J', '', '', '', '', 'arienes', '', '', '', '', '']
+5) ['', '', '', '', '', 'u', '', '', '', '', '', '']
+<persName ref="#AYM"><forename><w><hi rend="init-flour">A</hi><c ana="#lram-v">J</c>mes</w></forename><w>de</w><placeName type="city" ref="#VAR"><name><w><c ana="#lram-c">u</c>arienes</w></name></placeName></persName>
+1) ['', '', '', '', 'de', '', '', '', '', '']
+2) ['', '', 'mes', '', '', '', '', '', '', '']
+3) ['A', 'J', '', '', '', '', 'arienes', '', '', '']
+4) ['', '', '', '', '', 'u', '', '', '', '']
+<w>retrait</w>
+
+<l n="38" xml:id="Gl38"><w xml:id="Gl38w1" >Dels</w><w xml:id="Gl38w2" >anc<c ana="#hiat">i</c>ens</w><w xml:id="Gl38w3" >ce</w><w xml:id="Gl38w4" ana="#elis">qu</w><w xml:id="Gl38w5" >il</w><w xml:id="Gl38w6" >ont</w><w xml:id="Gl38w7" >fait</w><pc xml:id="Gl38pc1" resp="#ed">.</pc></l>
+1) ['Dels', '', 'ens', 'ce', 'qu', 'il', 'ont', 'fait', '.', '']
+2) ['', 'i', '', '', '', '', '', '', '', '']
+<w>Dels</w>
+<w>anc<c ana="#hiat">i</c>ens</w>
+1) ['i', '']
+<w>ce</w>
+<w ana="#elis">qu</w>
+<w>il</w>
+<w>ont</w>
+<w>fait</w>
+<pc resp="#ed">.</pc>
+
+<l n="39" xml:id="Gl39"><w xml:id="Gl39w1" >Les</w><w xml:id="Gl39w2" >faiz</w><w xml:id="Gl39w3" >conte</w><w xml:id="Gl39w4" >[des</w><w xml:id="Gl39w5" >anc<c ana="#hiat">i</c>ens]</w></l>
+1) ['Les', 'faiz', 'conte', '[des', '', 'ens]', '']
+2) ['', '', '', '', 'i', '', '']
+<w>Les</w>
+<w>faiz</w>
+<w>conte</w>
+<w>[des</w>
+<w>anc<c ana="#hiat">i</c>ens]</w>
+1) ['i', '']
+
+<l n="40" xml:id="Gl40"><w xml:id="Gl40w1" >Que</w><w xml:id="Gl40w2" >toz</w><w xml:id="Gl40w3" >cels</w><w xml:id="Gl40w4" >[_qui</w><w xml:id="Gl40w5" >ont]</w><w xml:id="Gl40w6" >les</w><w xml:id="Gl40w7" >cuers</w><w xml:id="Gl40w8" ><c ana="#lram-c">u</c>eins</w></l>
+1) ['Que', 'toz', 'cels', '[_qui', 'ont]', 'les', 'cuers', '', 'eins', '']
+2) ['', '', '', '', '', '', '', 'u', '', '']
+<w>Que</w>
+<w>toz</w>
+<w>cels</w>
+<w>[_qui</w>
+<w>ont]</w>
+<w>les</w>
+<w>cuers</w>
+<w><c ana="#lram-c">u</c>eins</w>
+1) ['u', '']
+
+<l n="41" xml:id="Gl41"><w xml:id="Gl41w1" >Aient</w><w xml:id="Gl41w2" >[de</w><w xml:id="Gl41w3" >lor]</w><w xml:id="Gl41w4" >pro<c ana="#hiat">e</c>che</w><w xml:id="Gl41w5" >en<c ana="#lram-c">u</c>ie</w></l>
+1) ['Aient', '[de', 'lor]', '', 'che', '', 'ie', '']
+2) ['', '', '', 'e', '', 'u', '', '']
+<w>Aient</w>
+<w>[de</w>
+<w>lor]</w>
+<w>pro<c ana="#hiat">e</c>che</w>
+1) ['e', '']
+<w>en<c ana="#lram-c">u</c>ie</w>
+1) ['u', '']
+
+<l n="42" xml:id="Gl42"><w xml:id="Gl42w1" >Por</w><w xml:id="Gl42w2" >amender</w><w xml:id="Gl42w3" >lor</w><w xml:id="Gl42w4" >fause</w><w xml:id="Gl42w5" ><c ana="#lram-c">u</c>ie</w><pc xml:id="Gl42pc1" resp="#ed">.</pc></l>
+1) ['Por', 'amender', 'lor', 'fause', '', 'ie', '.', '']
+2) ['', '', '', '', 'u', '', '', '']
+<w>Por</w>
+<w>amender</w>
+<w>lor</w>
+<w>fause</w>
+<w><c ana="#lram-c">u</c>ie</w>
+1) ['u', '']
+<pc resp="#ed">.</pc>
+
+<l n="43" xml:id="Gl43"><w xml:id="Gl43w1" ><hi rend="init-flour">P</hi>Or</w><w xml:id="Gl43w2" >[les</w><w xml:id="Gl43w3" >anc<c ana="#hiat">i</c>ens]</w><w xml:id="Gl43w4" >remenbrer</w></l>
+1) ['', 'Or', '[les', '', 'ens]', 'remenbrer', '']
+2) ['P', '', '', 'i', '', '', '']
+<w><hi rend="init-flour">P</hi>Or</w>
+1) ['P', '']
+<w>[les</w>
+<w>anc<c ana="#hiat">i</c>ens]</w>
+1) ['i', '']
+<w>remenbrer</w>
+
+<l n="44" xml:id="Gl44"><w xml:id="Gl44w1" ><c ana="#lram-c">V</c>os</w><w xml:id="Gl44w2" ><c ana="#lram-c">u</c>ueil</w><w xml:id="Gl44w3" >dire</w><w xml:id="Gl44w4" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl44w5" >raconter</w></l>
+1) ['', 'os', '', 'ueil', 'dire', '', '', '', 'raconter', '']
+2) ['V', '', 'u', '', '', '', '', '', '', '']
+3) ['', '', '', '', '', 'et', '', '', '', '']
+<w><c ana="#lram-c">V</c>os</w>
+1) ['V', '']
+<w><c ana="#lram-c">u</c>ueil</w>
+1) ['u', '']
+<w>dire</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>raconter</w>
+
+<l n="45" xml:id="Gl45"><w xml:id="Gl45w1" >Einsi</w><w xml:id="Gl45w2" >com</w><w xml:id="Gl45w3" >ai</w><w xml:id="Gl45w4" >[en</w><w xml:id="Gl45w5" >escriz]</w><w xml:id="Gl45w6" >tro<c ana="#lram-c">u</c><c ana="#e-ton">e</c></w></l>
+1) ['Einsi', 'com', 'ai', '[en', 'escriz]', '', '', '', '']
+2) ['', '', '', '', '', 'u', 'e', '', '']
+<w>Einsi</w>
+<w>com</w>
+<w>ai</w>
+<w>[en</w>
+<w>escriz]</w>
+<w>tro<c ana="#lram-c">u</c><c ana="#e-ton">e</c></w>
+1) ['u', 'e', '']
+
+<l n="46" xml:id="Gl46"><w xml:id="Gl46w1" ana="#elis">D</w><w xml:id="Gl46w2" >une</w><w xml:id="Gl46w3" >stoire</w><w xml:id="Gl46w4" >[la</w><w xml:id="Gl46w5" ><c ana="#lram-c">u</c>erit<c ana="#e-ton">e</c>]</w><pc xml:id="Gl46pc1" resp="#ed">.</pc></l>
+1) ['D', 'une', 'stoire', '[la', '', '', ']', '.', '']
+2) ['', '', '', '', 'u', 'e', '', '', '']
+<w ana="#elis">D</w>
+<w>une</w>
+<w>stoire</w>
+<w>[la</w>
+<w><c ana="#lram-c">u</c>erit<c ana="#e-ton">e</c>]</w>
+1) ['u', 'e', '']
+<pc resp="#ed">.</pc>
+
+<l n="47" xml:id="Gl47"><w xml:id="Gl47w1" ><c ana="#diacr-desamb">A</c></w><w xml:id="Gl47w2" >ceus</w><w xml:id="Gl47w3" >qui</w><w xml:id="Gl47w4" >firent</w><w xml:id="Gl47w5" >li</w><w xml:id="Gl47w6" >buen faiz</w></l>
+1) ['', '', 'ceus', 'qui', 'firent', 'li', 'buen faiz', '']
+2) ['A', '', '', '', '', '', '', '']
+<w><c ana="#diacr-desamb">A</c></w>
+1) ['A', '']
+<w>ceus</w>
+<w>qui</w>
+<w>firent</w>
+<w>li</w>
+<w>buen faiz</w>
+
+<l n="48" xml:id="Gl48"><w xml:id="Gl48w1" >Por</w><w xml:id="Gl48w2" >quoi</w><w xml:id="Gl48w3" >li</w><w xml:id="Gl48w4" >conte</w><w xml:id="Gl48w5" >sont</w><w xml:id="Gl48w6" >retraiz</w></l>
+1) ['Por', 'quoi', 'li', 'conte', 'sont', 'retraiz', '']
+<w>Por</w>
+<w>quoi</w>
+<w>li</w>
+<w>conte</w>
+<w>sont</w>
+<w>retraiz</w>
+
+<l n="49" xml:id="Gl49"><w xml:id="Gl49w1" >De<c ana="#lram-c">u</c>ons</w><w xml:id="Gl49w2" >nos</w><w xml:id="Gl49w3" >toz</w><w xml:id="Gl49w4" ><c ana="#lram-c">i</c>orz</w><w xml:id="Gl49w5" >entendre</w><pc xml:id="Gl49pc1" resp="#ed">,</pc></l>
+1) ['', 'ons', 'nos', 'toz', '', 'orz', 'entendre', ',', '']
+2) ['u', '', '', '', 'i', '', '', '', '']
+<w>De<c ana="#lram-c">u</c>ons</w>
+1) ['u', '']
+<w>nos</w>
+<w>toz</w>
+<w><c ana="#lram-c">i</c>orz</w>
+1) ['i', '']
+<w>entendre</w>
+<pc resp="#ed">,</pc>
+
+<l n="50" xml:id="Gl50"><w xml:id="Gl50w1" >Car</w><w xml:id="Gl50w2" >ad<c ana="#e-ton">e</c>s</w><w xml:id="Gl50w3" >[i</w><w xml:id="Gl50w4" >puet]</w><w xml:id="Gl50w5" >hom</w><w xml:id="Gl50w6" >aprendre</w></l>
+1) ['Car', '', 's', '[i', 'puet]', 'hom', 'aprendre', '']
+2) ['', 'e', '', '', '', '', '', '']
+<w>Car</w>
+<w>ad<c ana="#e-ton">e</c>s</w>
+1) ['e', '']
+<w>[i</w>
+<w>puet]</w>
+<w>hom</w>
+<w>aprendre</w>
+
+<l n="51" xml:id="Gl51"><w xml:id="Gl51w1" >Que</w><w xml:id="Gl51w2" >cil</w><w xml:id="Gl51w3" >mantenoient</w><w xml:id="Gl51w4" >henor</w><pc xml:id="Gl51pc1" resp="#ed">,</pc></l>
+1) ['Que', 'cil', 'mantenoient', 'henor', ',', '']
+<w>Que</w>
+<w>cil</w>
+<w>mantenoient</w>
+<w>henor</w>
+<pc resp="#ed">,</pc>
+
+<l n="52" xml:id="Gl52"><w xml:id="Gl52w1" >Pro<c ana="#hiat">e</c>che</w><pc xml:id="Gl52pc1" resp="#ed">,</pc><w xml:id="Gl52w2" >foi</w><w xml:id="Gl52w3" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl52w4" >amor</w><pc xml:id="Gl52pc2" resp="#ed">.</pc></l>
+1) ['', 'che', ',', 'foi', '', '', '', 'amor', '.', '']
+2) ['e', '', '', '', '', '', '', '', '', '']
+3) ['', '', '', '', 'et', '', '', '', '', '']
+<w>Pro<c ana="#hiat">e</c>che</w>
+1) ['e', '']
+<pc resp="#ed">,</pc>
+<w>foi</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>amor</w>
+<pc resp="#ed">.</pc>
+
+<l n="53" xml:id="Gl53"><w xml:id="Gl53w1" ><c ana="#diacr-desamb">A</c></w><w xml:id="Gl53w2" >cels</w><w xml:id="Gl53w3" >tens</w><w xml:id="Gl53w4" >estoit</w><w xml:id="Gl53w5" >amors</w><w xml:id="Gl53w6" ><c ana="#lram-c">u</c>i<c ana="#lram-c">u</c>er</w></l>
+1) ['', '', 'cels', 'tens', 'estoit', 'amors', '', '', 'er', '']
+2) ['A', '', '', '', '', '', 'u', 'u', '', '']
+<w><c ana="#diacr-desamb">A</c></w>
+1) ['A', '']
+<w>cels</w>
+<w>tens</w>
+<w>estoit</w>
+<w>amors</w>
+<w><c ana="#lram-c">u</c>i<c ana="#lram-c">u</c>er</w>
+1) ['u', 'u', '']
+
+<l n="54" xml:id="Gl54"><w xml:id="Gl54w1" >Qui</w><w xml:id="Gl54w2" >or</w><w xml:id="Gl54w3" >est</w><w xml:id="Gl54w4" >morte</w><w xml:id="Gl54w5" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl54w6" >chaiti<c ana="#lram-c">u</c>er</w><pc xml:id="Gl54pc1" resp="#ed">;</pc></l>
+1) ['Qui', 'or', 'est', 'morte', '', '', '', '', 'er', ';', '']
+2) ['', '', '', '', '', '', '', 'u', '', '', '']
+3) ['', '', '', '', 'et', '', '', '', '', '', '']
+<w>Qui</w>
+<w>or</w>
+<w>est</w>
+<w>morte</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>chaiti<c ana="#lram-c">u</c>er</w>
+1) ['u', '']
+<pc resp="#ed">;</pc>
+
+<l n="55" xml:id="Gl55"><w xml:id="Gl55w1" >De</w><w xml:id="Gl55w2" ><c ana="#lram-c">i</c>oie</w><w xml:id="Gl55w3" >[_fu</w><w xml:id="Gl55w4" >dame]</w><w xml:id="Gl55w5" >[_<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl55w6" >ro<c ana="#hiat">i</c>ne]</w><pc xml:id="Gl55pc1" resp="#ed">,</pc></l>
+1) ['De', '', 'oie', '[_fu', 'dame]', '', '', '', '', 'ne]', ',', '']
+2) ['', 'i', '', '', '', '', '', '', 'i', '', '', '']
+3) ['', '', '', '', '', 'et', '', '', '', '', '', '']
+<w>De</w>
+<w><c ana="#lram-c">i</c>oie</w>
+1) ['i', '']
+<w>[_fu</w>
+<w>dame]</w>
+<w>[_<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>ro<c ana="#hiat">i</c>ne]</w>
+1) ['i', '']
+<pc resp="#ed">,</pc>
+
+<l n="56" xml:id="Gl56"><w xml:id="Gl56w1" >Or</w><w xml:id="Gl56w2" >est</w><w xml:id="Gl56w3" >a<c ana="#lram-c">u</c>aire</w><w xml:id="Gl56w4" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl56w5" >frarine</w><pc xml:id="Gl56pc1" resp="#ed">;</pc></l>
+1) ['Or', 'est', '', 'aire', '', '', '', 'frarine', ';', '']
+2) ['', '', 'u', '', '', '', '', '', '', '']
+3) ['', '', '', '', 'et', '', '', '', '', '']
+<w>Or</w>
+<w>est</w>
+<w>a<c ana="#lram-c">u</c>aire</w>
+1) ['u', '']
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>frarine</w>
+<pc resp="#ed">;</pc>
+
+<l n="57" xml:id="Gl57"><w xml:id="Gl57w1" >Lors</w><w xml:id="Gl57w2" >estoit</w><w xml:id="Gl57w3" ana="#elis">d</w><w xml:id="Gl57w4" >onor</w><w xml:id="Gl57w5" >coronee</w><pc xml:id="Gl57pc1" resp="#ed">,</pc></l>
+1) ['Lors', 'estoit', 'd', 'onor', 'coronee', ',', '']
+<w>Lors</w>
+<w>estoit</w>
+<w ana="#elis">d</w>
+<w>onor</w>
+<w>coronee</w>
+<pc resp="#ed">,</pc>
+
+<l n="58" xml:id="Gl58"><w xml:id="Gl58w1" >Or</w><w xml:id="Gl58w2" >est</w><w xml:id="Gl58w3" >por</w><w xml:id="Gl58w4" >con<c ana="#lram-c">u</c>oitisie</w><w xml:id="Gl58w5" >tuee</w><pc xml:id="Gl58pc1" resp="#ed">;</pc></l>
+1) ['Or', 'est', 'por', '', 'oitisie', 'tuee', ';', '']
+2) ['', '', '', 'u', '', '', '', '']
+<w>Or</w>
+<w>est</w>
+<w>por</w>
+<w>con<c ana="#lram-c">u</c>oitisie</w>
+1) ['u', '']
+<w>tuee</w>
+<pc resp="#ed">;</pc>
+
+<l n="59" xml:id="Gl59"><w xml:id="Gl59w1" >Ne</w><w xml:id="Gl59w2" >a<c ana="#lram-c">u</c>oit</w><w xml:id="Gl59w3" >pas</w><w xml:id="Gl59w4" >en<c ana="#lram-c">i</c>an</w><w xml:id="Gl59w5" >ne</w><w xml:id="Gl59w6" ><c ana="#lram-c">u</c>ice</w><pc xml:id="Gl59pc1" resp="#ed">,</pc></l>
+1) ['Ne', '', 'oit', 'pas', '', 'an', 'ne', '', 'ice', ',', '']
+2) ['', 'u', '', '', 'i', '', '', 'u', '', '', '']
+<w>Ne</w>
+<w>a<c ana="#lram-c">u</c>oit</w>
+1) ['u', '']
+<w>pas</w>
+<w>en<c ana="#lram-c">i</c>an</w>
+1) ['i', '']
+<w>ne</w>
+<w><c ana="#lram-c">u</c>ice</w>
+1) ['u', '']
+<pc resp="#ed">,</pc>
+
+<l n="60" xml:id="Gl60"><w xml:id="Gl60w1" >Mais</w><w xml:id="Gl60w2" >or</w><w xml:id="Gl60w3" >[se</w><w xml:id="Gl60w4" >muert]</w><w xml:id="Gl60w5" >par</w><w xml:id="Gl60w6" >a<c ana="#lram-c">u</c>arice</w><pc xml:id="Gl60pc1" resp="#ed">.</pc></l>
+1) ['Mais', 'or', '[se', 'muert]', 'par', '', 'arice', '.', '']
+2) ['', '', '', '', '', 'u', '', '', '']
+<w>Mais</w>
+<w>or</w>
+<w>[se</w>
+<w>muert]</w>
+<w>par</w>
+<w>a<c ana="#lram-c">u</c>arice</w>
+1) ['u', '']
+<pc resp="#ed">.</pc>
+
+<l n="61" xml:id="Gl61"><w xml:id="Gl61w1" >[<hi rend="init-flour">O</hi>R</w><w xml:id="Gl61w2" >ne]</w><w xml:id="Gl61w3" ><c ana="#lram-c">u</c>uelt</w><w xml:id="Gl61w4" >pas</w><w xml:id="Gl61w5" >amor</w><w xml:id="Gl61w6" >noblece</w><pc xml:id="Gl61pc1" resp="#ed">,</pc></l>
+1) ['', 'R', 'ne]', '', 'uelt', 'pas', 'amor', 'noblece', ',', '']
+2) ['O', '', '', 'u', '', '', '', '', '', '']
+<w>[<hi rend="init-flour">O</hi>R</w>
+1) ['O', '']
+<w>ne]</w>
+<w><c ana="#lram-c">u</c>uelt</w>
+1) ['u', '']
+<w>pas</w>
+<w>amor</w>
+<w>noblece</w>
+<pc resp="#ed">,</pc>
+
+<l n="62" xml:id="Gl62"><w xml:id="Gl62w1" >Mais</w><w xml:id="Gl62w2" >celui</w><w xml:id="Gl62w3" ><c ana="#lram-c">u</c>ealt</w><w xml:id="Gl62w4" >[qui</w><w xml:id="Gl62w5" >a]</w><w xml:id="Gl62w6" >richece</w><pc xml:id="Gl62pc1" resp="#ed">,</pc></l>
+1) ['Mais', 'celui', '', 'ealt', '[qui', 'a]', 'richece', ',', '']
+2) ['', '', 'u', '', '', '', '', '', '']
+<w>Mais</w>
+<w>celui</w>
+<w><c ana="#lram-c">u</c>ealt</w>
+1) ['u', '']
+<w>[qui</w>
+<w>a]</w>
+<w>richece</w>
+<pc resp="#ed">,</pc>
+
+<l n="63" xml:id="Gl63"><w xml:id="Gl63w1" >[O</w><w xml:id="Gl63w2" >soit]</w><w xml:id="Gl63w3" >gentils</w><w xml:id="Gl63w4" >[o</w><w xml:id="Gl63w5" >soit]</w><w xml:id="Gl63w6" ><c ana="#lram-c">u</c>ilains</w><pc xml:id="Gl63pc1" resp="#ed">;</pc></l>
+1) ['[O', 'soit]', 'gentils', '[o', 'soit]', '', 'ilains', ';', '']
+2) ['', '', '', '', '', 'u', '', '', '']
+<w>[O</w>
+<w>soit]</w>
+<w>gentils</w>
+<w>[o</w>
+<w>soit]</w>
+<w><c ana="#lram-c">u</c>ilains</w>
+1) ['u', '']
+<pc resp="#ed">;</pc>
+
+<l n="64" xml:id="Gl64"><w xml:id="Gl64w1" >Amors</w><w xml:id="Gl64w2" >tint</w><w xml:id="Gl64w3" >[par</w><w xml:id="Gl64w4" >toz]</w><w xml:id="Gl64w5" >leus</w><w xml:id="Gl64w6" >sez</w><w xml:id="Gl64w7" >mais</w><pc xml:id="Gl64pc1" resp="#ed">.</pc></l>
+1) ['Amors', 'tint', '[par', 'toz]', 'leus', 'sez', 'mais', '.', '']
+<w>Amors</w>
+<w>tint</w>
+<w>[par</w>
+<w>toz]</w>
+<w>leus</w>
+<w>sez</w>
+<w>mais</w>
+<pc resp="#ed">.</pc>
+
+<l n="65" xml:id="Gl65"><w xml:id="Gl65w1" ana="#elis">S</w><w xml:id="Gl65w2" >il</w><w xml:id="Gl65w3" >est</w><w xml:id="Gl65w4" ><c ana="#lram-c">u</c>illains</w><w xml:id="Gl65w5" >cul<c ana="#lram-c">u</c>erz</w><w xml:id="Gl65w6" >pro<c ana="#lram-c">u</c><c ana="#e-ton">e</c>z</w><pc xml:id="Gl65pc1" resp="#ed">,</pc></l>
+1) ['S', 'il', 'est', '', 'illains', '', 'erz', '', '', 'z', ',', '']
+2) ['', '', '', 'u', '', 'u', '', 'u', 'e', '', '', '']
+<w ana="#elis">S</w>
+<w>il</w>
+<w>est</w>
+<w><c ana="#lram-c">u</c>illains</w>
+1) ['u', '']
+<w>cul<c ana="#lram-c">u</c>erz</w>
+1) ['u', '']
+<w>pro<c ana="#lram-c">u</c><c ana="#e-ton">e</c>z</w>
+1) ['u', 'e', '']
+<pc resp="#ed">,</pc>
+
+<l n="66" xml:id="Gl66"><w xml:id="Gl66w1" >Sol</w><w xml:id="Gl66w2" ana="#elis">qu</w><w xml:id="Gl66w3" >il</w><w xml:id="Gl66w4" >ait</w><w xml:id="Gl66w5" ana="#elis">d</w><w xml:id="Gl66w6" >a<c ana="#lram-c">u</c>oir</w><w xml:id="Gl66w7" >assez</w></l>
+1) ['Sol', 'qu', 'il', 'ait', 'd', '', 'oir', 'assez', '']
+2) ['', '', '', '', '', 'u', '', '', '']
+<w>Sol</w>
+<w ana="#elis">qu</w>
+<w>il</w>
+<w>ait</w>
+<w ana="#elis">d</w>
+<w>a<c ana="#lram-c">u</c>oir</w>
+1) ['u', '']
+<w>assez</w>
+
+<l n="67" xml:id="Gl67"><w xml:id="Gl67w1" >Bien</w><w xml:id="Gl67w2" >est</w><w xml:id="Gl67w3" >ser<c ana="#lram-c">u</c>iz</w><w xml:id="Gl67w4" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl67w5" ><gap reason="damage"/></w><pc xml:id="Gl67pc1" resp="#ed">.</pc></l>
+1) ['Bien', 'est', '', 'iz', '', '', '', '', '', '']
+2) ['', '', 'u', '', '', '', '', '', '.', '']
+3) ['', '', '', '', 'et', '', '', '', '', '']
+<w>Bien</w>
+<w>est</w>
+<w>ser<c ana="#lram-c">u</c>iz</w>
+1) ['u', '']
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w><gap reason="damage"/></w>
+<pc resp="#ed">.</pc>
+
+<l n="68" xml:id="Gl68"><w xml:id="Gl68w1" >Meis</w><w xml:id="Gl68w2" >[il</w><w xml:id="Gl68w3" ana="#elis">n</w><w xml:id="Gl68w4" >est]</w><w xml:id="Gl68w5" ><expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan></w><w xml:id="Gl68w6" >tost</w><w xml:id="Gl68w7" >dece<c ana="#hiat">u</c>z</w></l>
+1) ['Meis', '[il', 'n', 'est]', '', '', '', 'tost', '', 'z', '']
+2) ['', '', '', '', '', 'lt', '', '', 'u', '', '']
+3) ['', '', '', '', 'u', '', '', '', '', '', '']
+<w>Meis</w>
+<w>[il</w>
+<w ana="#elis">n</w>
+<w>est]</w>
+<w><expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan></w>
+1) ['', 'lt', '']
+2) ['u', '', '']
+<w>tost</w>
+<w>dece<c ana="#hiat">u</c>z</w>
+1) ['u', '']
+
+<l n="69" xml:id="Gl69"><w xml:id="Gl69w1" >Quar</w><w xml:id="Gl69w2" >il</w><w xml:id="Gl69w3" >[ne</w><w xml:id="Gl69w4" >set]</w><w xml:id="Gl69w5" >ne</w><w xml:id="Gl69w6" >il</w><w xml:id="Gl69w7" >[ne</w><w xml:id="Gl69w8" ><c ana="#lram-c">u</c>oit]</w></l>
+1) ['Quar', 'il', '[ne', 'set]', 'ne', 'il', '[ne', '', 'oit]', '']
+2) ['', '', '', '', '', '', '', 'u', '', '']
+<w>Quar</w>
+<w>il</w>
+<w>[ne</w>
+<w>set]</w>
+<w>ne</w>
+<w>il</w>
+<w>[ne</w>
+<w><c ana="#lram-c">u</c>oit]</w>
+1) ['u', '']
+
+<l n="70" xml:id="Gl70"><w xml:id="Gl70w1" >Comant</w><w xml:id="Gl70w2" >li</w><w xml:id="Gl70w3" >a<c ana="#lram-c">u</c>oir</w><w xml:id="Gl70w4" >le</w><w xml:id="Gl70w5" >dechoit</w><pc xml:id="Gl70pc1" resp="#ed">:</pc></l>
+1) ['Comant', 'li', '', 'oir', 'le', 'dechoit', ':', '']
+2) ['', '', 'u', '', '', '', '', '']
+<w>Comant</w>
+<w>li</w>
+<w>a<c ana="#lram-c">u</c>oir</w>
+1) ['u', '']
+<w>le</w>
+<w>dechoit</w>
+<pc resp="#ed">:</pc>
+
+<l n="71" xml:id="Gl71"><w xml:id="Gl71w1" >Quant</w><w xml:id="Gl71w2" >il</w><w xml:id="Gl71w3" >conquiert</w><w xml:id="Gl71w4" ana="#elis">n</w><w xml:id="Gl71w5" >[a</w><w xml:id="Gl71w6" ><c ana="#lram-c">i</c>oie]</w><w xml:id="Gl71w7" ><c ana="#lram-c">u</c>aine</w></l>
+1) ['Quant', 'il', 'conquiert', 'n', '[a', '', 'oie]', '', 'aine', '']
+2) ['', '', '', '', '', 'i', '', 'u', '', '']
+<w>Quant</w>
+<w>il</w>
+<w>conquiert</w>
+<w ana="#elis">n</w>
+<w>[a</w>
+<w><c ana="#lram-c">i</c>oie]</w>
+1) ['i', '']
+<w><c ana="#lram-c">u</c>aine</w>
+1) ['u', '']
+
+<l n="72" xml:id="Gl72"><w xml:id="Gl72w1" >Et</w><w xml:id="Gl72w2" >quant</w><w xml:id="Gl72w3" >[le</w><w xml:id="Gl72w4" >pert]</w><w xml:id="Gl72w5" >dolor</w><w xml:id="Gl72w6" >certaine</w><pc xml:id="Gl72pc1" resp="#ed">;</pc></l>
+1) ['Et', 'quant', '[le', 'pert]', 'dolor', 'certaine', ';', '']
+<w>Et</w>
+<w>quant</w>
+<w>[le</w>
+<w>pert]</w>
+<w>dolor</w>
+<w>certaine</w>
+<pc resp="#ed">;</pc>
+
+<l n="73" xml:id="Gl73"><w xml:id="Gl73w1" >Ne</w><w xml:id="Gl73w2" ana="#encl">l</w><w xml:id="Gl73w3" >puet</w><w xml:id="Gl73w4" >pas</w><w xml:id="Gl73w5" >garder</w><w xml:id="Gl73w6" >longement</w></l>
+1) ['Ne', 'l', 'puet', 'pas', 'garder', 'longement', '']
+<w>Ne</w>
+<w ana="#encl">l</w>
+<w>puet</w>
+<w>pas</w>
+<w>garder</w>
+<w>longement</w>
+
+<l n="74" xml:id="Gl74"><w xml:id="Gl74w1" ana="#elis">Qu</w><w xml:id="Gl74w2" >il</w><w xml:id="Gl74w3" >ne</w><w xml:id="Gl74w4" ana="#encl">l</w><w xml:id="Gl74w5" >perde</w><w xml:id="Gl74w6" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl74w7" ana="#elis">qu</w><w xml:id="Gl74w8" >il</w><w xml:id="Gl74w9" >ne</w><w xml:id="Gl74w10" ana="#encl">l</w><w xml:id="Gl74w11" ><gap reason="damage"/></w><pc xml:id="Gl74pc1" resp="#ed">.</pc></l>
+1) ['Qu', 'il', 'ne', 'l', 'perde', '', '', '', 'qu', 'il', 'ne', 'l', '', '', '']
+2) ['', '', '', '', '', '', '', '', '', '', '', '', '', '.', '']
+3) ['', '', '', '', '', 'et', '', '', '', '', '', '', '', '', '']
+<w ana="#elis">Qu</w>
+<w>il</w>
+<w>ne</w>
+<w ana="#encl">l</w>
+<w>perde</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w ana="#elis">qu</w>
+<w>il</w>
+<w>ne</w>
+<w ana="#encl">l</w>
+<w><gap reason="damage"/></w>
+<pc resp="#ed">.</pc>
+
+<l n="75" xml:id="Gl75"><w xml:id="Gl75w1" >A<c ana="#lram-c">u</c>oir<expan corresp="#ab-tild-ap"><ex>s</ex></expan></w><w xml:id="Gl75w2" >est</w><w xml:id="Gl75w3" >perduz</w><w xml:id="Gl75w4" >mainte</w><w xml:id="Gl75w5" >part</w><pc xml:id="Gl75pc1" resp="#ed">:</pc></l>
+1) ['', '', '', '', 'est', 'perduz', 'mainte', 'part', ':', '']
+2) ['u', '', '', '', '', '', '', '', '', '']
+3) ['', 's', '', '', '', '', '', '', '', '']
+<w>A<c ana="#lram-c">u</c>oir<expan corresp="#ab-tild-ap"><ex>s</ex></expan></w>
+1) ['u', '', '', '']
+2) ['', 's', '', '']
+<w>est</w>
+<w>perduz</w>
+<w>mainte</w>
+<w>part</w>
+<pc resp="#ed">:</pc>
+
+<l n="76" xml:id="Gl76"><w xml:id="Gl76w1" >A<c ana="#lram-c">u</c>oir<expan corresp="#ab-tild-ap"><ex>s</ex></expan></w><w xml:id="Gl76w2" ana="#elis">n</w><w xml:id="Gl76w3" >est</w><w xml:id="Gl76w4" ><c ana="#lram-c">i</c>a</w><w xml:id="Gl76w5" >sanz</w><w xml:id="Gl76w6" >regart</w><pc xml:id="Gl76pc1" resp="#ed">,</pc></l>
+1) ['', '', '', '', 'n', 'est', '', 'a', 'sanz', 'regart', ',', '']
+2) ['u', '', '', '', '', '', 'i', '', '', '', '', '']
+3) ['', 's', '', '', '', '', '', '', '', '', '', '']
+<w>A<c ana="#lram-c">u</c>oir<expan corresp="#ab-tild-ap"><ex>s</ex></expan></w>
+1) ['u', '', '', '']
+2) ['', 's', '', '']
+<w ana="#elis">n</w>
+<w>est</w>
+<w><c ana="#lram-c">i</c>a</w>
+1) ['i', '']
+<w>sanz</w>
+<w>regart</w>
+<pc resp="#ed">,</pc>
+
+<l n="77" xml:id="Gl77"><w xml:id="Gl77w1" >Por</w><w xml:id="Gl77w2" >robeor</w><w xml:id="Gl77w3" >[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl77w4" >por]</w><w xml:id="Gl77w5" >enbler</w><pc xml:id="Gl77pc1" resp="#ed">,</pc></l>
+1) ['Por', 'robeor', '', '', '', 'por]', 'enbler', ',', '']
+3) ['', '', 'et', '', '', '', '', '', '']
+<w>Por</w>
+<w>robeor</w>
+<w>[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>por]</w>
+<w>enbler</w>
+<pc resp="#ed">,</pc>
+
+<l n="78" xml:id="Gl78"><w xml:id="Gl78w1" ana="#elis">Qu</w><w xml:id="Gl78w2" >il</w><w xml:id="Gl78w3" >pert</w><w xml:id="Gl78w4" >[en</w><w xml:id="Gl78w5" >terre]</w><w xml:id="Gl78w6" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl78w7" >pert</w><w xml:id="Gl78w8" >[en</w><w xml:id="Gl78w9" >mer]</w><pc xml:id="Gl78pc1" resp="#ed">;</pc></l>
+1) ['Qu', 'il', 'pert', '[en', 'terre]', '', '', '', 'pert', '[en', 'mer]', ';', '']
+3) ['', '', '', '', '', 'et', '', '', '', '', '', '', '']
+<w ana="#elis">Qu</w>
+<w>il</w>
+<w>pert</w>
+<w>[en</w>
+<w>terre]</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>pert</w>
+<w>[en</w>
+<w>mer]</w>
+<pc resp="#ed">;</pc>
+
+<l n="79" xml:id="Gl79"><w xml:id="Gl79w1" >Por</w><w xml:id="Gl79w2" >mal</w><w xml:id="Gl79w3" >seignor</w><w xml:id="Gl79w4" >pert</w><w xml:id="Gl79w5" >[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl79w6" >por</w><w xml:id="Gl79w7" >gerre]</w><pc xml:id="Gl79pc1" resp="#ed">;</pc></l>
+1) ['Por', 'mal', 'seignor', 'pert', '', '', '', 'por', 'gerre]', ';', '']
+3) ['', '', '', '', 'et', '', '', '', '', '', '']
+<w>Por</w>
+<w>mal</w>
+<w>seignor</w>
+<w>pert</w>
+<w>[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>por</w>
+<w>gerre]</w>
+<pc resp="#ed">;</pc>
+
+<l n="80" xml:id="Gl80"><w xml:id="Gl80w1" >Quant</w><w xml:id="Gl80w2" >muert</w><w xml:id="Gl80w3" >pert</w><w xml:id="Gl80w4" ana="#elis">l</w><w xml:id="Gl80w5" >a<c ana="#lram-c">u</c>oir</w><w xml:id="Gl80w6" >[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl80w7" >la</w><w xml:id="Gl80w8" >t<expan corresp="#ab-tild-ang-hor"><ex>er</ex></expan>re]</w><pc xml:id="Gl80pc1" resp="#ed">,</pc></l>
+1) ['Quant', 'muert', 'pert', 'l', '', 'oir', '', '', '', 'la', '', '', 're]', ',', '']
+2) ['', '', '', '', 'u', '', '', '', '', '', '', '', '', '', '']
+3) ['', '', '', '', '', '', 'et', '', '', '', 'er', '', '', '', '']
+<w>Quant</w>
+<w>muert</w>
+<w>pert</w>
+<w ana="#elis">l</w>
+<w>a<c ana="#lram-c">u</c>oir</w>
+1) ['u', '']
+<w>[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>la</w>
+<w>t<expan corresp="#ab-tild-ang-hor"><ex>er</ex></expan>re]</w>
+2) ['er', '', '']
+<pc resp="#ed">,</pc>
+
+<l n="81" xml:id="Gl81"><w xml:id="Gl81w1" >Lors</w><w xml:id="Gl81w2" >lasse</w><w xml:id="Gl81w3" >tot</w><w xml:id="Gl81w4" >[_<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl81w5" >le</w><w xml:id="Gl81w6" >gerpist]</w><pc xml:id="Gl81pc1" resp="#ed">.</pc></l>
+1) ['Lors', 'lasse', 'tot', '', '', '', 'le', 'gerpist]', '.', '']
+3) ['', '', '', 'et', '', '', '', '', '', '']
+<w>Lors</w>
+<w>lasse</w>
+<w>tot</w>
+<w>[_<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>le</w>
+<w>gerpist]</w>
+<pc resp="#ed">.</pc>
+
+<l n="82" xml:id="Gl82"><w xml:id="Gl82w1" >Teuz</w><w xml:id="Gl82w2" >li</w><w xml:id="Gl82w3" >despent</w><w xml:id="Gl82w4" >qui</w><w xml:id="Gl82w5" >ne</w><w xml:id="Gl82w6" ana="#encl">l</w><w xml:id="Gl82w7" ><expan corresp="#ab-tir-9"><ex>con</ex></expan>quist</w><pc xml:id="Gl82pc1" resp="#ed">.</pc></l>
+1) ['Teuz', 'li', 'despent', 'qui', 'ne', 'l', '', '', 'quist', '.', '']
+3) ['', '', '', '', '', '', 'con', '', '', '', '']
+<w>Teuz</w>
+<w>li</w>
+<w>despent</w>
+<w>qui</w>
+<w>ne</w>
+<w ana="#encl">l</w>
+<w><expan corresp="#ab-tir-9"><ex>con</ex></expan>quist</w>
+2) ['con', '', '']
+<pc resp="#ed">.</pc>
+
+<l n="83" xml:id="Gl83"><w xml:id="Gl83w1" >Ne</w><w xml:id="Gl83w2" ana="#encl">l</w><w xml:id="Gl83w3" >[_di</w><w xml:id="Gl83w4" >pas]</w><w xml:id="Gl83w5" >por</w><w xml:id="Gl83w6" >ce</w><w xml:id="Gl83w7" >que</w><w xml:id="Gl83w8" >doner</w></l>
+1) ['Ne', 'l', '[_di', 'pas]', 'por', 'ce', 'que', 'doner', '']
+<w>Ne</w>
+<w ana="#encl">l</w>
+<w>[_di</w>
+<w>pas]</w>
+<w>por</w>
+<w>ce</w>
+<w>que</w>
+<w>doner</w>
+
+<l n="84" xml:id="Gl84"><w xml:id="Gl84w1" >[_Ne</w><w xml:id="Gl84w2" >puet]</w><w xml:id="Gl84w3" ana="#elis">l</w><w xml:id="Gl84w4" >en</w><w xml:id="Gl84w5" ><expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan></w><w xml:id="Gl84w6" >sanz</w><w xml:id="Gl84w7" >conquister</w><pc xml:id="Gl84pc1" resp="#ed">:</pc></l>
+1) ['[_Ne', 'puet]', 'l', 'en', '', '', '', 'sanz', 'conquister', ':', '']
+2) ['', '', '', '', '', 'lt', '', '', '', '', '']
+3) ['', '', '', '', 'u', '', '', '', '', '', '']
+<w>[_Ne</w>
+<w>puet]</w>
+<w ana="#elis">l</w>
+<w>en</w>
+<w><expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan></w>
+1) ['', 'lt', '']
+2) ['u', '', '']
+<w>sanz</w>
+<w>conquister</w>
+<pc resp="#ed">:</pc>
+
+<l n="85" xml:id="Gl85"><w xml:id="Gl85w1" >Qui</w><w xml:id="Gl85w2" ><expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan></w><w xml:id="Gl85w3" >despent</w><w xml:id="Gl85w4" >[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl85w5" >poi]</w><w xml:id="Gl85w6" >amasse</w></l>
+1) ['Qui', '', '', '', 'despent', '', '', '', 'poi]', 'amasse', '']
+2) ['', '', 'lt', '', '', '', '', '', '', '', '']
+3) ['', 'u', '', '', '', 'et', '', '', '', '', '']
+<w>Qui</w>
+<w><expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan></w>
+1) ['', 'lt', '']
+2) ['u', '', '']
+<w>despent</w>
+<w>[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>poi]</w>
+<w>amasse</w>
+
+<l n="86" xml:id="Gl86"><w xml:id="Gl86w1" >Tost</w><w xml:id="Gl86w2" >pert</w><w xml:id="Gl86w3" >son</w><w xml:id="Gl86w4" >pris</w><pc xml:id="Gl86pc1" resp="#ed">,</pc><w xml:id="Gl86w5" >[_la</w><w xml:id="Gl86w6" >honte]</w><w xml:id="Gl86w7" >lasse</w><pc xml:id="Gl86pc2" resp="#ed">;</pc></l>
+1) ['Tost', 'pert', 'son', 'pris', ',', '[_la', 'honte]', 'lasse', ';', '']
+<w>Tost</w>
+<w>pert</w>
+<w>son</w>
+<w>pris</w>
+<pc resp="#ed">,</pc>
+<w>[_la</w>
+<w>honte]</w>
+<w>lasse</w>
+<pc resp="#ed">;</pc>
+
+<l n="87" xml:id="Gl87"><w xml:id="Gl87w1" >Et</w><w xml:id="Gl87w2" >qui</w><w xml:id="Gl87w3" >conquiert</w><w xml:id="Gl87w4" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl87w5" >ne</w><w xml:id="Gl87w6" >despent</w></l>
+1) ['Et', 'qui', 'conquiert', '', '', '', 'ne', 'despent', '']
+3) ['', '', '', 'et', '', '', '', '', '']
+<w>Et</w>
+<w>qui</w>
+<w>conquiert</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>ne</w>
+<w>despent</w>
+
+<l n="88" xml:id="Gl88"><w xml:id="Gl88w1" ><c ana="#lram-v">J</c>l</w><w xml:id="Gl88w2" >est</w><w xml:id="Gl88w3" >a<c ana="#hiat">i</c>z</w><w xml:id="Gl88w4" >[_da</w><w xml:id="Gl88w5" >toute]</w><w xml:id="Gl88w6" >gent</w><pc xml:id="Gl88pc1" resp="#ed">.</pc></l>
+1) ['', 'l', 'est', '', 'z', '[_da', 'toute]', 'gent', '.', '']
+2) ['J', '', '', 'i', '', '', '', '', '', '']
+<w><c ana="#lram-v">J</c>l</w>
+1) ['J', '']
+<w>est</w>
+<w>a<c ana="#hiat">i</c>z</w>
+1) ['i', '']
+<w>[_da</w>
+<w>toute]</w>
+<w>gent</w>
+<pc resp="#ed">.</pc>
+
+<l n="89" xml:id="Gl89"><w xml:id="Gl89w1" >[Li</w><w xml:id="Gl89w2" >uns]</w><w xml:id="Gl89w3" >sans</w><w xml:id="Gl89w4" ana="#elis">l</w><w xml:id="Gl89w5" >autre</w><w xml:id="Gl89w6" ana="#elis">n</w><w xml:id="Gl89w7" >[a</w><w xml:id="Gl89w8" >mestiers]</w><pc xml:id="Gl89pc1" resp="#ed">:</pc></l>
+1) ['[Li', 'uns]', 'sans', 'l', 'autre', 'n', '[a', 'mestiers]', ':', '']
+<w>[Li</w>
+<w>uns]</w>
+<w>sans</w>
+<w ana="#elis">l</w>
+<w>autre</w>
+<w ana="#elis">n</w>
+<w>[a</w>
+<w>mestiers]</w>
+<pc resp="#ed">:</pc>
+
+<l n="90" xml:id="Gl90"><w xml:id="Gl90w1" >Poi</w><w xml:id="Gl90w2" ><c ana="#lram-c">u</c>aut</w><w xml:id="Gl90w3" >conquerre</w><w xml:id="Gl90w4" >sanz</w><w xml:id="Gl90w5" >doners</w><pc xml:id="Gl90pc1" resp="#ed">,</pc></l>
+1) ['Poi', '', 'aut', 'conquerre', 'sanz', 'doners', ',', '']
+2) ['', 'u', '', '', '', '', '', '']
+<w>Poi</w>
+<w><c ana="#lram-c">u</c>aut</w>
+1) ['u', '']
+<w>conquerre</w>
+<w>sanz</w>
+<w>doners</w>
+<pc resp="#ed">,</pc>
+
+<l n="91" xml:id="Gl91"><w xml:id="Gl91w1" >Quar</w><w xml:id="Gl91w2" >[_li</w><w xml:id="Gl91w3" >uns]</w><w xml:id="Gl91w4" >[<c ana= "#diacr-desamb">a</c></w><w xml:id="Gl91w5" ana="#elis">l</w><w xml:id="Gl91w6" >autre]</w><w xml:id="Gl91w7" >aidier</w><pc xml:id="Gl91pc1" resp="#ed">.</pc></l>
+1) ['Quar', '[_li', 'uns]', '', '', 'l', 'autre]', 'aidier', '.', '']
+2) ['', '', '', 'a', '', '', '', '', '', '']
+<w>Quar</w>
+<w>[_li</w>
+<w>uns]</w>
+<w>[<c ana= "#diacr-desamb">a</c></w>
+1) ['a', '']
+<w ana="#elis">l</w>
+<w>autre]</w>
+<w>aidier</w>
+<pc resp="#ed">.</pc>
+
+<l n="92" xml:id="Gl92"><w xml:id="Gl92w1" >Et</w><w xml:id="Gl92w2" >qui</w><w xml:id="Gl92w3" >despent</w><w xml:id="Gl92w4" >sanz</w><w xml:id="Gl92w5" >conquistier</w><pc xml:id="Gl92pc1" resp="#ed">,</pc></l>
+1) ['Et', 'qui', 'despent', 'sanz', 'conquistier', ',', '']
+<w>Et</w>
+<w>qui</w>
+<w>despent</w>
+<w>sanz</w>
+<w>conquistier</w>
+<pc resp="#ed">,</pc>
+
+<l n="93" xml:id="Gl93"><w xml:id="Gl93w1" >Om</w><w xml:id="Gl93w2" ana="#elis">l</w><w xml:id="Gl93w3" >a</w><w xml:id="Gl93w4" ><c ana="#lram-c">u</c>e<c ana="#hiat">u</c></w><w xml:id="Gl93w5" >[de</w><w xml:id="Gl93w6" >mainte]</w><w xml:id="Gl93w7" >gent</w></l>
+1) ['Om', 'l', 'a', '', '', '', '[de', 'mainte]', 'gent', '']
+2) ['', '', '', 'u', 'u', '', '', '', '', '']
+<w>Om</w>
+<w ana="#elis">l</w>
+<w>a</w>
+<w><c ana="#lram-c">u</c>e<c ana="#hiat">u</c></w>
+1) ['u', 'u', '']
+<w>[de</w>
+<w>mainte]</w>
+<w>gent</w>
+
+<l n="94" xml:id="Gl94"><w xml:id="Gl94w1" >Que</w><w xml:id="Gl94w2" ana="#elis">d</w><w xml:id="Gl94w3" >auques</w><w xml:id="Gl94w4" ><c ana="#lram-c">u</c>ienent</w><w xml:id="Gl94w5" >[<c ana= "#diacr-desamb">a</c></w><w xml:id="Gl94w6" >noient]</w><pc xml:id="Gl94pc1" resp="#ed">.</pc></l>
+1) ['Que', 'd', 'auques', '', 'ienent', '', '', 'noient]', '.', '']
+2) ['', '', '', 'u', '', 'a', '', '', '', '']
+<w>Que</w>
+<w ana="#elis">d</w>
+<w>auques</w>
+<w><c ana="#lram-c">u</c>ienent</w>
+1) ['u', '']
+<w>[<c ana= "#diacr-desamb">a</c></w>
+1) ['a', '']
+<w>noient]</w>
+<pc resp="#ed">.</pc>
+
+<l n="95" xml:id="Gl95"><w xml:id="Gl95w1" >Buen</w><w xml:id="Gl95w2" >princes</w><w xml:id="Gl95w3" >doit</w><w xml:id="Gl95w4" >toz</w><w xml:id="Gl95w5" ><c ana="#lram-c">i</c>orz</w><w xml:id="Gl95w6" >despe<expan corresp="#ab-tild-nas"><ex>n</ex></expan>dre</w></l>
+1) ['Buen', 'princes', 'doit', 'toz', '', 'orz', '', '', 'dre', '']
+2) ['', '', '', '', 'i', '', '', '', '', '']
+3) ['', '', '', '', '', '', 'n', '', '', '']
+<w>Buen</w>
+<w>princes</w>
+<w>doit</w>
+<w>toz</w>
+<w><c ana="#lram-c">i</c>orz</w>
+1) ['i', '']
+<w>despe<expan corresp="#ab-tild-nas"><ex>n</ex></expan>dre</w>
+2) ['n', '', '']
+
+<l n="96" xml:id="Gl96"><w xml:id="Gl96w1" >Et</w><w xml:id="Gl96w2" >conquister</w><pc xml:id="Gl96pc1" resp="#ed">,</pc><w xml:id="Gl96w3" >doner</w><w xml:id="Gl96w4" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl96w5" >prendre</w><pc xml:id="Gl96pc2" resp="#ed">,</pc></l>
+1) ['Et', 'conquister', ',', 'doner', '', '', '', 'prendre', ',', '']
+3) ['', '', '', '', 'et', '', '', '', '', '']
+<w>Et</w>
+<w>conquister</w>
+<pc resp="#ed">,</pc>
+<w>doner</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>prendre</w>
+<pc resp="#ed">,</pc>
+
+<l n="97" xml:id="Gl97"><w xml:id="Gl97w1" >Car</w><w xml:id="Gl97w2" >largeche</w><w xml:id="Gl97w3" >est</w><w xml:id="Gl97w4" >mere</w><w xml:id="Gl97w5" ana="#elis">d</w><w xml:id="Gl97w6" >onor</w></l>
+1) ['Car', 'largeche', 'est', 'mere', 'd', 'onor', '']
+<w>Car</w>
+<w>largeche</w>
+<w>est</w>
+<w>mere</w>
+<w ana="#elis">d</w>
+<w>onor</w>
+
+<l n="98" xml:id="Gl98"><w xml:id="Gl98w1" >Et</w><w xml:id="Gl98w2" >de</w><w xml:id="Gl98w3" >pro<c ana="#hiat">e</c>che</w><w xml:id="Gl98w4" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl98w5" ana="#elis">d</w><w xml:id="Gl98w6" >amor</w><pc xml:id="Gl98pc1" resp="#ed">.</pc></l>
+1) ['Et', 'de', '', 'che', '', '', '', 'd', 'amor', '.', '']
+2) ['', '', 'e', '', '', '', '', '', '', '', '']
+3) ['', '', '', '', 'et', '', '', '', '', '', '']
+<w>Et</w>
+<w>de</w>
+<w>pro<c ana="#hiat">e</c>che</w>
+1) ['e', '']
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w ana="#elis">d</w>
+<w>amor</w>
+<pc resp="#ed">.</pc>
+
+<l n="99" xml:id="Gl99"><w xml:id="Gl99w1" >Einsi</w><w xml:id="Gl99w2" >puet</w><w xml:id="Gl99w3" >del</w><w xml:id="Gl99w4" >segle</w><w xml:id="Gl99w5" ><c ana="#lram-c">i</c>oir</w><pc xml:id="Gl99pc1" resp="#ed">,</pc></l>
+1) ['Einsi', 'puet', 'del', 'segle', '', 'oir', ',', '']
+2) ['', '', '', '', 'i', '', '', '']
+<w>Einsi</w>
+<w>puet</w>
+<w>del</w>
+<w>segle</w>
+<w><c ana="#lram-c">i</c>oir</w>
+1) ['i', '']
+<pc resp="#ed">,</pc>
+
+<l n="100" xml:id="Gl100"><w xml:id="Gl100w1" >Amor</w><w xml:id="Gl100w2" >[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl100w3" >henor]</w><w xml:id="Gl100w4" >mantenir</w></l>
+1) ['Amor', '', '', '', 'henor]', 'mantenir', '']
+3) ['', 'et', '', '', '', '', '']
+<w>Amor</w>
+<w>[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>henor]</w>
+<w>mantenir</w>
+
+<l n="101" xml:id="Gl101"><w xml:id="Gl101w1" >Dont</w><w xml:id="Gl101w2" >il</w><w xml:id="Gl101w3" >ert</w><w xml:id="Gl101w4" >del</w><w xml:id="Gl101w5" >segle</w><w xml:id="Gl101w6" >lo<c ana="#e-ton">e</c>z</w></l>
+1) ['Dont', 'il', 'ert', 'del', 'segle', '', 'z', '']
+2) ['', '', '', '', '', 'e', '', '']
+<w>Dont</w>
+<w>il</w>
+<w>ert</w>
+<w>del</w>
+<w>segle</w>
+<w>lo<c ana="#e-ton">e</c>z</w>
+1) ['e', '']
+
+<l n="102" xml:id="Gl102"><w xml:id="Gl102w1" >Et</w><w xml:id="Gl102w2" >apr<c ana="#e-ton">e</c>s</w><w xml:id="Gl102w3" >[sa</w><w xml:id="Gl102w4" >mort]</w><w xml:id="Gl102w5" >remenbr<c ana="#e-ton">e</c>z</w><pc xml:id="Gl102pc1" resp="#ed">.</pc></l>
+1) ['Et', '', 's', '[sa', 'mort]', '', 'z', '.', '']
+2) ['', 'e', '', '', '', 'e', '', '', '']
+<w>Et</w>
+<w>apr<c ana="#e-ton">e</c>s</w>
+1) ['e', '']
+<w>[sa</w>
+<w>mort]</w>
+<w>remenbr<c ana="#e-ton">e</c>z</w>
+1) ['e', '']
+<pc resp="#ed">.</pc>
+
+<l n="103" xml:id="Gl103"><w xml:id="Gl103w1" >[<hi rend="init-flour">D</hi>E</w><w xml:id="Gl103w2" >ce]</w><w xml:id="Gl103w3" >me</w><w xml:id="Gl103w4" ><c ana="#lram-c">u</c>ueil</w><w xml:id="Gl103w5" >atant</w><w xml:id="Gl103w6" >laissir</w><pc xml:id="Gl103pc1" resp="#ed">,</pc></l>
+1) ['', 'E', 'ce]', 'me', '', 'ueil', 'atant', 'laissir', ',', '']
+2) ['D', '', '', '', 'u', '', '', '', '', '']
+<w>[<hi rend="init-flour">D</hi>E</w>
+1) ['D', '']
+<w>ce]</w>
+<w>me</w>
+<w><c ana="#lram-c">u</c>ueil</w>
+1) ['u', '']
+<w>atant</w>
+<w>laissir</w>
+<pc resp="#ed">,</pc>
+
+<l n="104" xml:id="Gl104"><w xml:id="Gl104w1" >[<c ana="#diacr-desamb">A</c></w><w xml:id="Gl104w2" >mon]</w><w xml:id="Gl104w3" >conte</w><w xml:id="Gl104w4" >doi</w><w xml:id="Gl104w5" >repairer</w><pc xml:id="Gl104pc1" resp="#ed">.</pc></l>
+1) ['', '', 'mon]', 'conte', 'doi', 'repairer', '.', '']
+2) ['A', '', '', '', '', '', '', '']
+<w>[<c ana="#diacr-desamb">A</c></w>
+1) ['A', '']
+<w>mon]</w>
+<w>conte</w>
+<w>doi</w>
+<w>repairer</w>
+<pc resp="#ed">.</pc>
+
+<l n="105" xml:id="Gl105"><w xml:id="Gl105w1" >Seignor</w><pc xml:id="Gl105pc1" resp="#ed">,</pc><w xml:id="Gl105w2" >[_<c ana="#lram-c">i</c>e</w><w xml:id="Gl105w3" >sai</w><w xml:id="Gl105w4" >assez]</w><w xml:id="Gl105w5" >de</w><w xml:id="Gl105w6" >fi</w></l>
+1) ['Seignor', ',', '', 'e', 'sai', 'assez]', 'de', 'fi', '']
+2) ['', '', 'i', '', '', '', '', '', '']
+<w>Seignor</w>
+<pc resp="#ed">,</pc>
+<w>[_<c ana="#lram-c">i</c>e</w>
+1) ['i', '']
+<w>sai</w>
+<w>assez]</w>
+<w>de</w>
+<w>fi</w>
+
+<l n="106" xml:id="Gl106"><w xml:id="Gl106w1" >Que</w><w xml:id="Gl106w2" ana="#elis">d</w><persName ref="#ALE"><forename><w xml:id="Gl106w3" >alixandre</w></forename></persName><w xml:id="Gl106w4" >a<c ana="#lram-c">u</c>ez</w><w xml:id="Gl106w5" >o<c ana="#hiat">i</c></w><pc xml:id="Gl106pc1" resp="#ed">,</pc></l>
+1) ['Que', 'd', '', '', '', '', 'ez', '', '', ',', '']
+2) ['', '', '', '', '', 'u', '', 'i', '', '', '']
+3) ['', '', 'alixandre', '', '', '', '', '', '', '', '']
+<w>Que</w>
+<w ana="#elis">d</w>
+<persName ref="#ALE"><forename><w>alixandre</w></forename></persName>
+2) ['alixandre', '', '']
+<w>a<c ana="#lram-c">u</c>ez</w>
+1) ['u', '']
+<w>o<c ana="#hiat">i</c></w>
+1) ['i', '']
+<pc resp="#ed">,</pc>
+
+<l n="107" xml:id="Gl107"><w xml:id="Gl107w1" >Mais</w><w xml:id="Gl107w2" >[_ne</w><w xml:id="Gl107w3" >sa<c ana="#lram-c">u</c>ez]</w><w xml:id="Gl107w4" >encore</w><w xml:id="Gl107w5" >pas</w></l>
+1) ['Mais', '[_ne', '', 'ez]', 'encore', 'pas', '']
+2) ['', '', 'u', '', '', '', '']
+<w>Mais</w>
+<w>[_ne</w>
+<w>sa<c ana="#lram-c">u</c>ez]</w>
+1) ['u', '']
+<w>encore</w>
+<w>pas</w>
+
+<l n="108" xml:id="Gl108"><w xml:id="Gl108w1" >Dont</w><w xml:id="Gl108w2" >fu</w><w xml:id="Gl108w3" >[sa</w><w xml:id="Gl108w4" >mere]</w><persName ref="#OLI"><forename><w xml:id="Gl108w5" >olinpias</w></forename></persName><pc xml:id="Gl108pc1" resp="#ed">;</pc></l>
+1) ['Dont', 'fu', '[sa', 'mere]', '', '', '', ';', '']
+3) ['', '', '', '', 'olinpias', '', '', '', '']
+<w>Dont</w>
+<w>fu</w>
+<w>[sa</w>
+<w>mere]</w>
+<persName ref="#OLI"><forename><w>olinpias</w></forename></persName>
+2) ['olinpias', '', '']
+<pc resp="#ed">;</pc>
+
+<l n="109" xml:id="Gl109"><w xml:id="Gl109w1" >Del</w><persName ref="#FIL"><roleName><w xml:id="Gl109w2" >roi</w></roleName><forename><w xml:id="Gl109w3" >filipon</w></forename></persName><w xml:id="Gl109w4" >[ne</w><w xml:id="Gl109w5" >sa<c ana="#lram-c">u</c>ez]</w></l>
+1) ['Del', '', '', '', '', '', '[ne', '', 'ez]', '']
+2) ['', '', '', '', '', '', '', 'u', '', '']
+3) ['', 'roi', '', 'filipon', '', '', '', '', '', '']
+<w>Del</w>
+<persName ref="#FIL"><roleName><w>roi</w></roleName><forename><w>filipon</w></forename></persName>
+2) ['roi', '', 'filipon', '', '']
+<w>[ne</w>
+<w>sa<c ana="#lram-c">u</c>ez]</w>
+1) ['u', '']
+
+<l n="110" xml:id="Gl110"><w xml:id="Gl110w1" >Qui</w><w xml:id="Gl110w2" >fu</w><w xml:id="Gl110w3" >son</w><w xml:id="Gl110w4" >pere</w><w xml:id="Gl110w5" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl110w6" >dont</w><w xml:id="Gl110w7" >[fu</w><w xml:id="Gl110w8" >n<c ana="#e-ton">e</c>z]</w><pc xml:id="Gl110pc1" resp="#ed">.</pc></l>
+1) ['Qui', 'fu', 'son', 'pere', '', '', '', 'dont', '[fu', '', 'z]', '.', '']
+2) ['', '', '', '', '', '', '', '', '', 'e', '', '', '']
+3) ['', '', '', '', 'et', '', '', '', '', '', '', '', '']
+<w>Qui</w>
+<w>fu</w>
+<w>son</w>
+<w>pere</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>dont</w>
+<w>[fu</w>
+<w>n<c ana="#e-ton">e</c>z]</w>
+1) ['e', '']
+<pc resp="#ed">.</pc>
+
+<l n="111" xml:id="Gl111"><w xml:id="Gl111w1" >Je</w><w xml:id="Gl111w2" ana="#encl">l</w><w xml:id="Gl111w3" >dirai</w><pc xml:id="Gl111pc1" resp="#ed">,</pc><w xml:id="Gl111w4" >que</w><w xml:id="Gl111w5" ana="#elis">l</w><w xml:id="Gl111w6" >ai</w><w xml:id="Gl111w7" >[en</w><w xml:id="Gl111w8" >memoire]</w><pc xml:id="Gl111pc2" resp="#ed">.</pc></l>
+1) ['Je', 'l', 'dirai', ',', 'que', 'l', 'ai', '[en', 'memoire]', '.', '']
+<w>Je</w>
+<w ana="#encl">l</w>
+<w>dirai</w>
+<pc resp="#ed">,</pc>
+<w>que</w>
+<w ana="#elis">l</w>
+<w>ai</w>
+<w>[en</w>
+<w>memoire]</w>
+<pc resp="#ed">.</pc>
+
+<l n="112" xml:id="Gl112"><w xml:id="Gl112w1" >Or</w><w xml:id="Gl112w2" >eschoutez</w><w xml:id="Gl112w3" ><expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan></w><w xml:id="Gl112w4" >riche</w><w xml:id="Gl112w5" >estoire</w></l>
+1) ['Or', 'eschoutez', '', '', '', 'riche', 'estoire', '']
+2) ['', '', '', 'lt', '', '', '', '']
+3) ['', '', 'u', '', '', '', '', '']
+<w>Or</w>
+<w>eschoutez</w>
+<w><expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan></w>
+1) ['', 'lt', '']
+2) ['u', '', '']
+<w>riche</w>
+<w>estoire</w>
+
+<l n="113" xml:id="Gl113"><w xml:id="Gl113w1" >Des</w><w xml:id="Gl113w2" >rois</w><pc xml:id="Gl113pc1" resp="#ed">,</pc><w xml:id="Gl113w3" >des</w><w xml:id="Gl113w4" >princes</w><w xml:id="Gl113w5" >qui</w><w xml:id="Gl113w6" >[i</w><w xml:id="Gl113w7" >sont]</w><pc xml:id="Gl113pc2" resp="#ed">,</pc></l>
+1) ['Des', 'rois', ',', 'des', 'princes', 'qui', '[i', 'sont]', ',', '']
+<w>Des</w>
+<w>rois</w>
+<pc resp="#ed">,</pc>
+<w>des</w>
+<w>princes</w>
+<w>qui</w>
+<w>[i</w>
+<w>sont]</w>
+<pc resp="#ed">,</pc>
+
+<l n="114" xml:id="Gl114"><w xml:id="Gl114w1" >Li</w><w xml:id="Gl114w2" >plus</w><w xml:id="Gl114w3" >est</w><w xml:id="Gl114w4" >del</w><persName ref="#FLO"><roleName><w xml:id="Gl114w5" >roi</w></roleName><forename><w xml:id="Gl114w6" >floriemont</w></forename></persName><pc xml:id="Gl114pc1" resp="#ed">.</pc></l>
+1) ['Li', 'plus', 'est', 'del', '', '', '', '', '', '.', '']
+3) ['', '', '', '', 'roi', '', 'floriemont', '', '', '', '']
+<w>Li</w>
+<w>plus</w>
+<w>est</w>
+<w>del</w>
+<persName ref="#FLO"><roleName><w>roi</w></roleName><forename><w>floriemont</w></forename></persName>
+2) ['roi', '', 'floriemont', '', '']
+<pc resp="#ed">.</pc>
+
+<l n="115" xml:id="Gl115"><w xml:id="Gl115w1" ><hi rend="init-flour">C</hi>E</w><w xml:id="Gl115w2" >dit</w><persName ref="#AYM"><forename><w xml:id="Gl115w3" >aimes</w></forename></persName><pc xml:id="Gl115pc1" resp="#ed">,</pc><w xml:id="Gl115w4" >or</w><w xml:id="Gl115w5" >escoutez</w></l>
+1) ['', 'E', 'dit', '', '', '', ',', 'or', 'escoutez', '']
+2) ['C', '', '', '', '', '', '', '', '', '']
+3) ['', '', '', 'aimes', '', '', '', '', '', '']
+<w><hi rend="init-flour">C</hi>E</w>
+1) ['C', '']
+<w>dit</w>
+<persName ref="#AYM"><forename><w>aimes</w></forename></persName>
+2) ['aimes', '', '']
+<pc resp="#ed">,</pc>
+<w>or</w>
+<w>escoutez</w>
+
+<l n="116" xml:id="Gl116"><w xml:id="Gl116w1" ><c ana="#lram-c">V</c>os</w><w xml:id="Gl116w2" >qu<subst><del rend="transf">i</del><add place="sup">e</add></subst></w><w xml:id="Gl116w3" >[li</w><w xml:id="Gl116w4" >belz]</w><w xml:id="Gl116w5" >diz</w><w xml:id="Gl116w6" >entendez</w></l>
+1) ['', 'os', '', '', '', '', '[li', 'belz]', 'diz', 'entendez', '']
+2) ['V', '', '', '', '', '', '', '', '', '', '']
+3) ['', '', 'i', 'e', '', '', '', '', '', '', '']
+<w><c ana="#lram-c">V</c>os</w>
+1) ['V', '']
+<w>qu<subst><del rend="transf">i</del><add place="sup">e</add></subst></w>
+2) ['i', 'e', '', '']
+<w>[li</w>
+<w>belz]</w>
+<w>diz</w>
+<w>entendez</w>
+
+<l n="117" xml:id="Gl117"><w xml:id="Gl117w1" ><choice><sic>Qua</sic><corr>quar</corr></choice></w><w xml:id="Gl117w2" >ici</w><w xml:id="Gl117w3" >porons</w><w xml:id="Gl117w4" >tro<c ana="#lram-c">u</c>er</w><w xml:id="Gl117w5" >+la</w><w xml:id="Gl117w6" >flor</w></l>
+1) ['', '', '', '', 'ici', 'porons', '', 'er', '+la', 'flor', '']
+2) ['', '', '', '', '', '', 'u', '', '', '', '']
+3) ['Qua', 'quar', '', '', '', '', '', '', '', '', '']
+<w><choice><sic>Qua</sic><corr>quar</corr></choice></w>
+2) ['Qua', 'quar', '', '']
+<w>ici</w>
+<w>porons</w>
+<w>tro<c ana="#lram-c">u</c>er</w>
+1) ['u', '']
+<w>+la</w>
+<w>flor</w>
+
+<l n="118" xml:id="Gl118"><w xml:id="Gl118w1" >De</w><w xml:id="Gl118w2" >contes</w><w xml:id="Gl118w3" >li</w><w xml:id="Gl118w4" >buen</w><w xml:id="Gl118w5" >conteor</w><pc xml:id="Gl118pc1" resp="#ed">,</pc></l>
+1) ['De', 'contes', 'li', 'buen', 'conteor', ',', '']
+<w>De</w>
+<w>contes</w>
+<w>li</w>
+<w>buen</w>
+<w>conteor</w>
+<pc resp="#ed">,</pc>
+
+<l n="119" xml:id="Gl119"><w xml:id="Gl119w1" ana="#elis">D</w><w xml:id="Gl119w2" >amor</w><w xml:id="Gl119w3" >[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl119w4" >de]</w><w xml:id="Gl119w5" >che<c ana="#lram-c">u</c>aleries</w><pc xml:id="Gl119pc1" resp="#ed">,</pc></l>
+1) ['D', 'amor', '', '', '', 'de]', '', 'aleries', ',', '']
+2) ['', '', '', '', '', '', 'u', '', '', '']
+3) ['', '', 'et', '', '', '', '', '', '', '']
+<w ana="#elis">D</w>
+<w>amor</w>
+<w>[<expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>de]</w>
+<w>che<c ana="#lram-c">u</c>aleries</w>
+1) ['u', '']
+<pc resp="#ed">,</pc>
+
+<l n="120" xml:id="Gl120"><w xml:id="Gl120w1" ana="#elis">D</w><w xml:id="Gl120w2" >a<c ana="#lram-c">u</c>entures</w><w xml:id="Gl120w3" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl120w4" >de</w><w xml:id="Gl120w5" >cortesies</w><pc xml:id="Gl120pc1" resp="#ed">,</pc></l>
+1) ['D', '', 'entures', '', '', '', 'de', 'cortesies', ',', '']
+2) ['', 'u', '', '', '', '', '', '', '', '']
+3) ['', '', '', 'et', '', '', '', '', '', '']
+<w ana="#elis">D</w>
+<w>a<c ana="#lram-c">u</c>entures</w>
+1) ['u', '']
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w>de</w>
+<w>cortesies</w>
+<pc resp="#ed">,</pc>
+
+<l n="121" xml:id="Gl121"><w xml:id="Gl121w1" >Et</w><w xml:id="Gl121w2" >de</w><w xml:id="Gl121w3" >largece</w><w xml:id="Gl121w4" ><expan corresp="#ab-tir-7"><ex>et</ex></expan></w><w xml:id="Gl121w5" ana="#elis">d</w><w xml:id="Gl121w6" >onor</w><pc xml:id="Gl121pc1" resp="#ed">.</pc></l>
+1) ['Et', 'de', 'largece', '', '', '', 'd', 'onor', '.', '']
+3) ['', '', '', 'et', '', '', '', '', '', '']
+<w>Et</w>
+<w>de</w>
+<w>largece</w>
+<w><expan corresp="#ab-tir-7"><ex>et</ex></expan></w>
+2) ['et', '', '']
+<w ana="#elis">d</w>
+<w>onor</w>
+<pc resp="#ed">.</pc>
+
+<l n="122" xml:id="Gl122"><w xml:id="Gl122w1" >Or</w><w xml:id="Gl122w2" >faites</w><w xml:id="Gl122w3" >pais</w><pc xml:id="Gl122pc1" resp="#ed">,</pc><w xml:id="Gl122w4" >o<c ana="#hiat">i</c>ez</w><w xml:id="Gl122w5" >seignor</w><pc xml:id="Gl122pc2" resp="#ed">.</pc></l>
+1) ['Or', 'faites', 'pais', ',', '', 'ez', 'seignor', '.', '']
+2) ['', '', '', '', 'i', '', '', '', '']
+<w>Or</w>
+<w>faites</w>
+<w>pais</w>
+<pc resp="#ed">,</pc>
+<w>o<c ana="#hiat">i</c>ez</w>
+1) ['i', '']
+<w>seignor</w>
+<pc resp="#ed">.</pc>

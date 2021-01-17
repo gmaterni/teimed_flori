@@ -2,10 +2,10 @@
 log/
 bin/
 back/
-txt/
 
 *.sh
 .vscode/
 .history/
 __pycache__/
 *.code-workspace
+*.sublime-*

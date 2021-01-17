@@ -1,32 +1,37 @@
 {
     "exe": [
         [
-            "teimlineword2.py",
+            "teimlineword.py",
             "-i txt/ven1/x0.txt",
             "-o txt/ven1/x1.xml",
             "-s G -n 'pb:1,cb:1,lg:1,l:1'"
         ],
         [
-            "teimxmllint.py",
-            "-i txt/ven1/x1.xml ",
-            "-o txt/ven1/x2.xml "
-        ],
-        [
-            "teimspan2.py",
-            "-i txt/ven1/x2.xml",
-            "-o txt/ven1/x3.xml"
+            "teimspan.py",
+            "-i txt/ven1/x1.xml",
+            "-o txt/ven1/x2.xml"
         ],
         [
             "teimnote.py",
-            "-i txt/ven1/x3.xml",
-            "-o txt/ven1/x4.xml",
-            "-n fl_note.csv"
-        ],
+            "-i txt/ven1/x2.xml",
+            "-o txt/ven1/x3.xml",
+            "-n cfg/fl_note.csv"
+        ]
+    ],
+    "include": {
+        "host": "cfg/tei.xml",
+        "dest": "txt/ven1/x4.xml",
+        "params": [],
+        "files": [
+            "XML_MANO|txt/ven1/x3.xml"
+        ]
+    },
+    "exe.1": [
         [
             "teimxmllint.py",
             "-i txt/ven1/x4.xml",
             "-o txt/floriven1.xml "
         ]
-
     ]
+
 }

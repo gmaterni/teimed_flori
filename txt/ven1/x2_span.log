@@ -1,0 +1,637 @@
+Controllo direct./monolog
+
+ODRD      from:Gl237w3              {que
+CDRMO     to  :Gl242w6              uis}
+
+ODRD      from:Gl259w1              {Frere
+CDRMO     to  :Gl259w6              }
+
+ODRD      from:Gl260w1              {Oi
+CDRMO     to  :Gl260w5              mer}
+
+ODRD      from:Gl261w1              {Biau
+CDRMO     to  :Gl261w5              moi]}
+
+ODRD      from:Gl262w1              {Ne
+CDRMO     to  :Gl262w3              uoir}
+
+ODRD      from:Gl262w4              {dites
+CDRMO     to  :Gl262w5              por coi}
+
+ODRD      from:Gl263w1              {Quar
+CDRMO     to  :Gl263w8              pais}
+
+ODRD      from:Gl264w1              {Je
+CDRMO     to  :Gl268w6              saisement}
+
+ODRD      from:Gl269w3              {n
+CDRMO     to  :Gl272w6              signor}
+
+ODRD      from:Gl273w1              {Freres
+CDRMO     to  :Gl281w4              remanes}
+
+ODRD      from:Gl282w1              {Frere
+CDRMO     to  :Gl283w5              plait}
+
+ODRD      from:Gl284w1              {[Las
+CDRMO     to  :Gl285w7              }
+
+ODRD      from:Gl286w1              {Si
+CDRMO     to  :Gl289w6              bexogn}
+
+ODRD      from:Gl290w1              {Frere
+CDRMO     to  :Gl294w6              pooir}
+
+ODRD      from:Gl311w1              {Sire
+CDRMO     to  :Gl328w8              uenger}
+
+ODRD      from:Gl335w1              {Pere
+CDRMO     to  :Gl353w6              quites}
+
+ODRD      from:Gl354w3              {frere
+CDRMO     to  :Gl360w7              }
+
+ ERROR  missing { or {_
+CDRMO     to  :Gl374w5              seoir}
+
+ODRD      from:Gl378w1              {Sire
+CDRMO     to  :Gl380w8              lais}
+
+ ERROR  missing { or {_
+CDRMO     to  :Gl392w7              honores}
+
+ODRD      from:Gl407w4              {seignur
+CDRMO     to  :Gl410w5              demorer}
+
+ODRD      from:Gl413w4              {tort
+CDRMO     to  :Gl416w6              targier}
+
+ODRD      from:Gl417w3              {meruoiles
+CDRMO     to  :Gl426w6              }
+
+ODRD      from:Gl438w6              {[a
+
+Controllo agglutination
+
+OAGGLS    from:Gl1w2                [qui
+CAGGL     to  :Gl1w3                a]
+
+OAGGLS    from:Gl2w1                [E
+CAGGL     to  :Gl2w2                uuelt]
+
+OAGGLS    from:Gl3w5                [e
+CAGGL     to  :Gl3w6                escolter]
+
+OAGGLS    from:Gl12w1               [Por
+CAGGL     to  :Gl12w2               analuina]
+
+OAGGLS    from:Gl13w4               [en
+CAGGL     to  :Gl13w5               iert]
+
+OAGGLU    from:Gl14w1               [_Jl
+CAGGL     to  :Gl14w3               fu]
+
+OAGGLU    from:Gl15w2               [_en
+CAGGL     to  :Gl15w3               la]
+
+OAGGLS    from:Gl16w4               [en
+CAGGL     to  :Gl16w5               lionors]
+
+OAGGLS    from:Gl18w4               [a
+CAGGL     to  :Gl18w5               chastelluz]
+
+OAGGLU    from:Gl21w2               [_del
+CAGGL     to  :Gl21w3               fis]
+
+OAGGLS    from:Gl21w4               [au
+CAGGL     to  :Gl21w5               duc]
+
+OAGGLS    from:Gl23w4               [en
+CAGGL     to  :Gl23w5               francois]
+
+OAGGLS    from:Gl24w3               [in
+CAGGL     to  :Gl24w4               greçois]
+
+OAGGLS    from:Gl26w3               [en
+CAGGL     to  :Gl26w4               si]
+
+OAGGLS    from:Gl27w3               [a
+CAGGL     to  :Gl27w4               castelluz]
+
+OAGGLS    from:Gl29w4               [de
+CAGGL     to  :Gl29w6               estorie]
+
+OAGGLS    from:Gl30w4               [in
+CAGGL     to  :Gl30w5               sa]
+
+OAGGLS    from:Gl33w3               [la
+CAGGL     to  :Gl33w4               troua]
+
+OAGGLS    from:Gl35w3               [il
+CAGGL     to  :Gl35w5               auoit]
+
+OAGGLS    from:Gl40w7               [cors
+CAGGL     to  :Gl40w8               uains]
+
+OAGGLS    from:Gl44w4               [et
+CAGGL     to  :Gl44w5               conter]
+
+OAGGLS    from:Gl50w3               [i
+CAGGL     to  :Gl50w4               poit]
+
+OAGGLS    from:Gl53w2               [ceu
+CAGGL     to  :Gl53w3               tans]
+
+OAGGLS    from:Gl55w5               [e
+CAGGL     to  :Gl55w6               roine]
+
+OAGGLU    from:Gl59w4               [_en
+CAGGL     to  :Gl59w5               li]
+
+OAGGLS    from:Gl61w1               [OR
+CAGGL     to  :Gl61w2               ne]
+
+OAGGLS    from:Gl62w4               [chi
+CAGGL     to  :Gl62w5               a]
+
+OAGGLS    from:Gl63w1               [O
+CAGGL     to  :Gl63w2               soit]
+
+OAGGLS    from:Gl63w4               [o
+CAGGL     to  :Gl63w5               soit]
+
+OAGGLS    from:Gl77w4               [en
+CAGGL     to  :Gl77w5               tere]
+
+OAGGLS    from:Gl77w8               [in
+CAGGL     to  :Gl77w9               mer]
+
+OAGGLS    from:Gl79w5               [e
+CAGGL     to  :Gl79w6               por]
+
+OAGGLS    from:Gl80w7               [la
+CAGGL     to  :Gl80w8               tere]
+
+OAGGLS    from:Gl83w4               [por
+CAGGL     to  :Gl83w5               ce]
+
+OAGGLS    from:Gl86w6               [o
+CAGGL     to  :Gl86w7               il]
+
+OAGGLS    from:Gl87w4               [e
+CAGGL     to  :Gl87w5               ne]
+
+OAGGLS    from:Gl90w5               [a
+CAGGL     to  :Gl90w7               autre]
+
+OAGGLS    from:Gl94w5               [a
+CAGGL     to  :Gl94w6               neient]
+
+OAGGLS    from:Gl103w1              [DE
+CAGGL     to  :Gl103w2              ce]
+
+OAGGLU    from:Gl110w1              [_Qui
+CAGGL     to  :Gl110w3              ses]
+
+OAGGLS    from:Gl111w4              [che
+CAGGL     to  :Gl111w6              ai]
+
+OAGGLS    from:Gl111w7              [en
+CAGGL     to  :Gl111w8              momoire]
+
+OAGGLS    from:Gl113w6              [i
+CAGGL     to  :Gl113w7              sont]
+
+OAGGLU    from:Gl119w3              [_e
+CAGGL     to  :Gl119w4              de]
+
+OAGGLU    from:Gl121w1              [_Or
+CAGGL     to  :Gl121w2              faites]
+
+OAGGLS    from:Gl124w2              [ne
+CAGGL     to  :Gl124w4              enpire]
+
+OAGGLS    from:Gl127w4              [i
+CAGGL     to  :Gl127w5              fu]
+
+OAGGLU    from:Gl129w5              [_ne
+CAGGL     to  :Gl129w6              uos]
+
+OAGGLS    from:Gl130w6              [ne
+CAGGL     to  :Gl130w9              oist]
+
+OAGGLS    from:Gl131w2              [de
+CAGGL     to  :Gl131w4              estorie]
+
+OAGGLS    from:Gl132w3              [la
+CAGGL     to  :Gl132w4              fin]
+
+OAGGLU    from:Gl133w4              [_que
+CAGGL     to  :Gl133w5              ie]
+
+OAGGLS    from:Gl135w2              [en
+OAGGLS    from:Gl136w5              [de
+CAGGL     to  :Gl136w6              sa]
+
+OAGGLU    from:Gl142w2              [_il
+CAGGL     to  :Gl142w4              nes]
+
+OAGGLS    from:Gl143w1              [Sa
+CAGGL     to  :Gl143w2              mere]
+
+OAGGLS    from:Gl147w3              [a
+CAGGL     to  :Gl147w4              feme]
+
+OAGGLS    from:Gl149w6              [de
+CAGGL     to  :Gl149w8              tere]
+
+OAGGLS    from:Gl151w3              [i
+CAGGL     to  :Gl151w4              osa]
+
+OAGGLS    from:Gl153w1              [Jl
+CAGGL     to  :Gl153w2              e]
+
+OAGGLS    from:Gl158w1              [Le
+CAGGL     to  :Gl158w2              uoir]
+
+OAGGLS    from:Gl160w4              [de
+CAGGL     to  :Gl160w5              ses]
+
+OAGGLS    from:Gl161w4              [le
+CAGGL     to  :Gl161w5              cortois]
+
+OAGGLS    from:Gl167w3              [i
+CAGGL     to  :Gl167w4              mist]
+
+OAGGLS    from:Gl169w5              [en
+ ERROR missing ]
+
+OAGGLS    from:Gl173w6              [de
+CAGGL     to  :Gl173w7              mer]
+
+OAGGLS    from:Gl174w1              [Pora
+CAGGL     to  :Gl174w2              il]
+
+OAGGLS    from:Gl174w4              [en
+ ERROR missing ]
+
+OAGGLS    from:Gl176w1              [Ja
+CAGGL     to  :Gl176w2              plus]
+
+OAGGLS    from:Gl178w3              [a
+CAGGL     to  :Gl178w4              mant]
+
+OAGGLS    from:Gl181w2              [a
+CAGGL     to  :Gl181w4              aler]
+
+OAGGLS    from:Gl181w6              [au
+CAGGL     to  :Gl181w7              retor]
+
+OAGGLS    from:Gl184w1              [Vn
+CAGGL     to  :Gl184w2              ore]
+
+OAGGLS    from:Gl184w3              [en
+CAGGL     to  :Gl184w4              pais]
+
+OAGGLS    from:Gl184w7              [en
+CAGGL     to  :Gl184w8              guere]
+
+OAGGLS    from:Gl185w4              [de
+CAGGL     to  :Gl185w5              sa]
+
+OAGGLS    from:Gl195w3              [de
+CAGGL     to  :Gl195w4              sa]
+
+OAGGLS    from:Gl207w5              [en
+CAGGL     to  :Gl207w6              geste]
+
+OAGGLS    from:Gl208w3              [a
+CAGGL     to  :Gl208w4              cele]
+
+OAGGLS    from:Gl209w3              [i
+CAGGL     to  :Gl209w4              dona]
+
+OAGGLS    from:Gl209w5              [a
+CAGGL     to  :Gl209w7              gent]
+
+OAGGLS    from:Gl210w4              [e
+CAGGL     to  :Gl210w5              de]
+
+OAGGLU    from:Gl212w1              [_E
+CAGGL     to  :Gl212w2              par]
+
+OAGGLS    from:Gl212w4              [e
+CAGGL     to  :Gl212w5              par]
+
+OAGGLS    from:Gl214w4              [a
+CAGGL     to  :Gl214w5              soi]
+
+OAGGLS    from:Gl219w1              [Por
+CAGGL     to  :Gl219w2              ce]
+
+OAGGLS    from:Gl224w3              [e
+CAGGL     to  :Gl224w5              argent]
+
+OAGGLS    from:Gl224w6              [e
+CAGGL     to  :Gl224w8              or]
+
+OAGGLS    from:Gl225w4              [en
+CAGGL     to  :Gl225w5              strage]
+
+OAGGLS    from:Gl240w2              [en
+CAGGL     to  :Gl240w3              uerai]
+
+OAGGLS    from:Gl246w4              [ne
+CAGGL     to  :Gl246w5              uit]
+
+OAGGLS    from:Gl247w2              [li
+CAGGL     to  :Gl247w3              uns]
+
+OAGGLS    from:Gl248w1              [De
+CAGGL     to  :Gl248w2              ci]
+
+OAGGLS    from:Gl251w3              [i
+CAGGL     to  :Gl251w4              met]
+
+OAGGLS    from:Gl251w5              [e
+CAGGL     to  :Gl251w6              sum]
+
+OAGGLS    from:Gl253w3              [a
+CAGGL     to  :Gl253w4              dire]
+
+OAGGLS    from:Gl254w3              [ni
+CAGGL     to  :Gl254w5              ses]
+
+OAGGLS    from:Gl259w3              [en
+CAGGL     to  :Gl259w4              uos]
+
+OAGGLS    from:Gl261w4              [o
+CAGGL     to  :Gl261w5              moi]}
+
+OAGGLS    from:Gl263w6              [en
+CAGGL     to  :Gl263w7              ceste]
+
+OAGGLU    from:Gl266w4              [_e
+CAGGL     to  :Gl266w5              de]
+
+OAGGLS    from:Gl271w3              [e
+CAGGL     to  :Gl271w4              ge]
+
+OAGGLS    from:Gl272w2              [do
+CAGGL     to  :Gl272w3              ge]
+
+OAGGLS    from:Gl274w3              [o
+CAGGL     to  :Gl274w4              uos]
+
+OAGGLS    from:Gl275w3              [en
+ ERROR missing ]
+
+OAGGLS    from:Gl276w2              [la
+CAGGL     to  :Gl276w3              manteront]
+
+OAGGLS    from:Gl281w2              [o
+CAGGL     to  :Gl281w3              moi]
+
+OAGGLS    from:Gl284w1              {[Las
+CAGGL     to  :Gl284w2              que]
+
+OAGGLS    from:Gl284w4              [ai
+CAGGL     to  :Gl284w5              ge]
+
+OAGGLS    from:Gl287w2              [la
+CAGGL     to  :Gl287w4              ge]
+
+OAGGLS    from:Gl289w1              [Se
+CAGGL     to  :Gl289w2              ge]
+
+OAGGLS    from:Gl290w2              [ia
+CAGGL     to  :Gl290w3              ne]
+
+OAGGLS    from:Gl297w6              [la
+CAGGL     to  :Gl297w7              cite]
+
+OAGGLS    from:Gl298w1              [En
+CAGGL     to  :Gl298w2              ploroient]
+
+OAGGLS    from:Gl300w3              [a
+CAGGL     to  :Gl300w4              cheual]
+
+OAGGLS    from:Gl300w6              [a
+CAGGL     to  :Gl300w7              pie]
+
+OAGGLU    from:Gl302w3              [_la
+CAGGL     to  :Gl302w4              cite]
+
+OAGGLS    from:Gl309w1              [Jl
+CAGGL     to  :Gl309w2              est]
+
+OAGGLS    from:Gl310w2              [le
+CAGGL     to  :Gl310w3              mis]
+
+OAGGLS    from:Gl310w4              [a
+CAGGL     to  :Gl310w5              raixum]
+
+OAGGLS    from:Gl313w2              [au
+ ERROR missing ]
+
+OAGGLS    from:Gl315w6              [e
+CAGGL     to  :Gl315w7              leger]
+
+OAGGLS    from:Gl319w1              [Le
+CAGGL     to  :Gl319w2              menor]
+
+OAGGLS    from:Gl319w5              [o
+CAGGL     to  :Gl319w6              toi]
+
+OAGGLU    from:Gl320w1              [_Jl
+CAGGL     to  :Gl320w3              aura]
+
+OAGGLS    from:Gl320w6              [ece
+CAGGL     to  :Gl320w7              croi]
+
+OAGGLS    from:Gl321w4              [ne
+CAGGL     to  :Gl321w5              a]
+
+OAGGLS    from:Gl323w5              [en
+CAGGL     to  :Gl323w7              tere]
+
+OAGGLS    from:Gl324w5              [e
+CAGGL     to  :Gl324w6              de]
+
+OAGGLS    from:Gl329w4              [l
+CAGGL     to  :Gl329w6              rent]
+
+OAGGLS    from:Gl330w4              [la
+CAGGL     to  :Gl330w5              main]
+
+OAGGLS    from:Gl338w4              [e
+CAGGL     to  :Gl338w5              por]
+
+OAGGLS    from:Gl339w5              [en
+CAGGL     to  :Gl339w6              tait]
+
+OAGGLS    from:Gl340w2              [a
+CAGGL     to  :Gl340w3              tozs]
+
+OAGGLS    from:Gl341w4              [a
+CAGGL     to  :Gl341w5              son]
+
+OAGGLS    from:Gl344w3              [en
+ ERROR missing ]
+
+OAGGLS    from:Gl355w3              [deue
+CAGGL     to  :Gl355w4              uos]
+
+OAGGLS    from:Gl356w4              [a
+CAGGL     to  :Gl356w5              folie]
+
+OAGGLS    from:Gl359w4              [mon
+CAGGL     to  :Gl359w5              don]
+
+OAGGLS    from:Gl363w2              [l
+CAGGL     to  :Gl363w4              uait]
+
+OAGGLS    from:Gl367w3              [i
+CAGGL     to  :Gl367w4              uint]
+
+OAGGLS    from:Gl370w1              [Ce
+CAGGL     to  :Gl370w2              que]
+
+OAGGLS    from:Gl371w1              [Si
+CAGGL     to  :Gl371w2              ne]
+
+OAGGLS    from:Gl374w2              [a
+CAGGL     to  :Gl374w3              putain]
+
+OAGGLS    from:Gl375w2              [so
+CAGGL     to  :Gl375w3              a]
+
+OAGGLS    from:Gl376w2              [li
+CAGGL     to  :Gl376w3              unt]
+
+OAGGLS    from:Gl377w4              [en
+CAGGL     to  :Gl377w5              sospirant]
+
+OAGGLS    from:Gl382w3              [au
+CAGGL     to  :Gl382w4              roi]
+
+OAGGLS    from:Gl383w4              [l
+CAGGL     to  :Gl383w6              a]
+
+OAGGLS    from:Gl388w1              [E
+CAGGL     to  :Gl388w2              de]
+
+OAGGLS    from:Gl391w5              [non
+CAGGL     to  :Gl391w6              iert]
+
+OAGGLS    from:Gl395w7              [as
+CAGGL     to  :Gl395w8              nes]
+
+OAGGLS    from:Gl397w1              [Ou
+CAGGL     to  :Gl397w2              lui]
+
+OAGGLS    from:Gl397w3              [s
+CAGGL     to  :Gl397w5              ua]
+
+OAGGLS    from:Gl399w7              [li
+CAGGL     to  :Gl399w8              tens]
+
+OAGGLS    from:Gl401w3              [a
+CAGGL     to  :Gl401w4              pris]
+
+OAGGLS    from:Gl403w3              [se
+CAGGL     to  :Gl403w4              depart]
+
+OAGGLS    from:Gl403w5              [en
+CAGGL     to  :Gl403w7              nef]
+
+OAGGLS    from:Gl405w3              [i
+CAGGL     to  :Gl405w4              uunt]
+
+OAGGLS    from:Gl406w4              [par
+CAGGL     to  :Gl406w5              le]
+
+OAGGLS    from:Gl414w5              [en
+CAGGL     to  :Gl414w6              ales]
+
+OAGGLS    from:Gl419w1              [N
+CAGGL     to  :Gl419w3              a]
+
+OAGGLS    from:Gl419w4              [un
+CAGGL     to  :Gl419w6              uos]
+
+OAGGLS    from:Gl422w2              [doi
+CAGGL     to  :Gl422w3              ge]
+
+OAGGLS    from:Gl425w4              [en
+CAGGL     to  :Gl425w5              uoi]
+
+OAGGLS    from:Gl429w7              [en
+CAGGL     to  :Gl429w8              mer]
+
+OAGGLS    from:Gl432w1              [E
+CAGGL     to  :Gl432w2              le]
+
+OAGGLS    from:Gl438w1              [En
+CAGGL     to  :Gl438w2              plorant]
+
+OAGGLS    from:Gl438w4              [a
+CAGGL     to  :Gl438w5              dit]
+
+OAGGLS    from:Gl438w6              {[a
+ ERROR missing ]
+
+OAGGLS    from:Gl440w3              [e
+CAGGL     to  :Gl440w4              trestoit]
+
+OAGGLS    from:Gl443w1              [LEs
+CAGGL     to  :Gl443w2              nes]
+
+OAGGLS    from:Gl445w4              [au
+CAGGL     to  :Gl445w5              uent]
+
+OAGGLS    from:Gl449w2              [ne
+CAGGL     to  :Gl449w3              unt]
+
+OAGGLS    from:Gl451w4              [a
+CAGGL     to  :Gl451w5              si]
+
+OAGGLS    from:Gl454w5              [a
+CAGGL     to  :Gl454w6              une]
+
+OAGGLS    from:Gl458w1              [Por
+CAGGL     to  :Gl458w2              poi]
+
+OAGGLS    from:Gl461w1              [La
+CAGGL     to  :Gl461w2              cite]
+
+OAGGLS    from:Gl462w2              [a
+CAGGL     to  :Gl462w4              ce]
+
+OAGGLS    from:Gl464w6              [en
+CAGGL     to  :Gl464w7              mer]
+
+OAGGLS    from:Gl468w2              [les
+CAGGL     to  :Gl468w3              cuidoit]
+
+OAGGLS    from:Gl471w1              [LJ
+CAGGL     to  :Gl471w2              rois]
+
+OAGGLS    from:Gl472w4              [au
+CAGGL     to  :Gl472w5              port]
+
+OAGGLS    from:Gl479w2              [en
+ ERROR missing ]
+
+OAGGLS    from:Gl480w4              [a
+ ERROR missing ]
+
+OAGGLU    from:Gl482w3              [_a
+CAGGL     to  :Gl482w4              sun]
+
+OAGGLS    from:Gl486w1              [Se
+CAGGL     to  :Gl486w2              li]
+
+
+Controllo damage
+

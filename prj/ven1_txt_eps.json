@@ -8,7 +8,7 @@
       [
         "teimxml.py",
         "-i txt/ven1/eps/$F.txt",
-        "-t fl_teimed_tags.csv",
+        "-t cfg/fl_teimed_tags.csv",
         " -o txt/ven1/x_$F.txt"
       ]
     ]

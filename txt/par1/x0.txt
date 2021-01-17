@@ -1,0 +1,158 @@
+<div type="prologue" ref="#prol1">
+
+<pb n="1r"/>
+<cb n="a"/>
+
+<lg>
+Cil qi a cuer de <c ana="#lram-c">u</c>asalage
+[E <c ana="#lram-c">u</c>elt] amer [de fin] corage<pc resp="#ed">,</pc>
+Si doit o<c ana="#hiat">i</c>r <expan corresp="#ab-tir-7"><ex>et</ex></expan> escouter
+Ce que <persName ref="#AYM"><forename><w>aimes</w></forename></persName> <c ana="#lram-c">u</c>ealt reconter<pc resp="#ed">:</pc>
+Assez [i puet] [de bien] entendre
+[Si de] buen cuer <c ana="#lram-c">u</c>ealt entendre<pc resp="#ed">.</pc>
+</lg>
+
+<lg>
+<hi rend="init-flour">O</hi>R oez<pc resp="#ed">,</pc> seignors<pc resp="#ed">,</pc> [_que <c ana="#lram-c">i</c>e di]<pc resp="#ed">.</pc>
+<persName ref="#AYM"><forename><w>Aimes</w></forename></persName> por <persName ref="#ANA"><forename><w>anali</w></forename></persName>
+Fist le romains tant saige<expan corresp="#ab-ctr-mt">m<ex>en</ex>t</expan>
+Que teus 'l o<c ana="#hiat">i</c>ra que [ne 'l intent]
+Por_quoi [il fu] [_<expan corresp="#ab-tir-7"><ex>et</ex></expan> feiz] [_<expan corresp="#ab-tir-7"><ex>et</ex></expan> diz]<pc resp="#ed">.</pc>
+Por <persName ref="#ANA"><forename><w>analin</w></forename></persName> fu [en escriz]<pc resp="#ed">.</pc>
+Toz <c ana="#lram-c">i</c>ors iert mais [en remenbrance]<pc resp="#ed">.</pc>
+<c ana="#lram-v">J</c>l ne fu mie faiz [en <placeName type="region" ref="#FRA"><name><w>france]</w></name></placeName>
+Mais [en la lengue] de françois
+[Le fist] <persName ref="#AYM"><forename><w>aimes</w></forename></persName> [_en <placeName type="city" ref="#LIO"><name><w>lionois]</w></name></placeName><pc resp="#ed">.</pc>
+</lg>
+
+<lg>
+<persName ref="#AYM"><forename><w><hi rend="init-flour">A</hi><c ana="#lram-v">J</c>mes</w></forename></persName> <add place="marg">mist</add> 's entencion<pc resp="#ed">.</pc>
+Le romains fist [<c ana= "#diacr-desamb">a</c> <placeName type="city" ref="#CHA"><name><w>chastilon]</w></name></placeName>
+[De <persName ref="#FIL"><forename><w>filipon]</w></forename><w>de</w><placeName type="region" ref="#MAC"><name><w>macedoine</w></name></placeName></persName>
+Qui fu noriz [en <placeName type="city" ref="#BAB"><name><w>babilone]</w></name></placeName><pc resp="#ed">,</pc>
+Et del [fil au <persName ref="#MAT"><roleName><w>duc]</w></roleName><forename><w>mataquaz</w></forename></persName>
+[_Qui estoit] sire de <placeName type="city" ref="#DUR"><name><w>duraz</w></name></placeName><pc resp="#ed">:</pc>
+<persName ref="#FLO"><forename><w>Floriemont</w></forename></persName> ot nom [en françois]<pc resp="#ed">,</pc>
+<persName ref="#FLO"><forename><w>Elleneos</w></forename></persName> dit [en greçois]<pc resp="#ed">.</pc>
+Rois fu <expan corresp="#ab-tir-7"><ex>et</ex></expan> si conquist assez<pc resp="#ed">,</pc>
+Dirai <c ana="#lram-c">u</c>os en si 'm escotez
+</lg>
+
+<lg>
+<hi rend="init-flour">P</hi>Or assiege [<c ana= "#diacr-desamb">a</c> <placeName type="city" ref="#CHA"><name><w>chastillon]</w></name></placeName>
+Estoit <persName ref="#AYM"><forename><w>aimes</w></forename></persName> une saison
+E porpensa soi del estoire
+'Qu il a<c ana="#lram-c">u</c>oit [en sa] memoire<pc resp="#ed">.</pc>
+<c ana="#lram-v">J</c>l 'l a<c ana="#lram-c">u</c>oit [en <placeName type="region" ref="#GRE"><name><w>grece]</w></name></placeName> <c ana="#lram-c">u</c>e<c ana="#hiat">u</c>e
+Mes 'n est pas par tot se<c ana="#hiat">u</c>e<pc resp="#ed">;</pc>
+<c ana="#diacr-desamb">A</c> <placeName type="city" ref="#FIP"><name><w>filipoble</w></name></placeName> la tro<c ana="#lram-c">u</c>a<pc resp="#ed">,</pc>
+<c ana="#diacr-desamb">A</c> <placeName type="city" ref="#CHA"><name><w>chastillon</w></name></placeName> 'l [en aporta]<pc resp="#ed">;</pc>
+Ensi come il 'l a<c ana="#lram-c">u</c>oit aprise
+'L [a de latin] [en roman] mise<pc resp="#ed">.</pc>
+</lg>
+
+<lg>
+<persName ref="#AYM"><forename><w><hi rend="init-flour">A</hi><c ana="#lram-v">J</c>mes</w></forename><w>de</w><placeName type="city" ref="#VAR"><name><w><c ana="#lram-c">u</c>arienes</w></name></placeName></persName> retrait
+Dels anc<c ana="#hiat">i</c>ens ce 'qu il ont fait<pc resp="#ed">.</pc>
+Les faiz conte [des anc<c ana="#hiat">i</c>ens]
+<cb n="b"/>
+Que toz cels [_qui ont] les cuers <c ana="#lram-c">u</c>eins
+Aient [de lor] pro<c ana="#hiat">e</c>che en<c ana="#lram-c">u</c>ie
+Por amender lor fause <c ana="#lram-c">u</c>ie<pc resp="#ed">.</pc>
+</lg>
+
+<lg>
+<hi rend="init-flour">P</hi>Or [les anc<c ana="#hiat">i</c>ens] remenbrer
+<c ana="#lram-c">V</c>os <c ana="#lram-c">u</c>ueil dire <expan corresp="#ab-tir-7"><ex>et</ex></expan> raconter
+Einsi com ai [en escriz] tro<c ana="#lram-c">u</c><c ana="#e-ton">e</c>
+'D une stoire [la <c ana="#lram-c">u</c>erit<c ana="#e-ton">e</c>]<pc resp="#ed">.</pc>
+<c ana="#diacr-desamb">A</c> ceus qui firent li buen_faiz
+Por quoi li conte sont retraiz
+De<c ana="#lram-c">u</c>ons nos toz <c ana="#lram-c">i</c>orz entendre<pc resp="#ed">,</pc>
+Car ad<c ana="#e-ton">e</c>s [i puet] hom aprendre
+Que cil mantenoient henor<pc resp="#ed">,</pc>
+Pro<c ana="#hiat">e</c>che<pc resp="#ed">,</pc> foi <expan corresp="#ab-tir-7"><ex>et</ex></expan> amor<pc resp="#ed">.</pc>
+<c ana="#diacr-desamb">A</c> cels tens estoit amors <c ana="#lram-c">u</c>i<c ana="#lram-c">u</c>er
+Qui or est morte <expan corresp="#ab-tir-7"><ex>et</ex></expan> chaiti<c ana="#lram-c">u</c>er<pc resp="#ed">;</pc>
+De <c ana="#lram-c">i</c>oie [_fu dame] [_<expan corresp="#ab-tir-7"><ex>et</ex></expan> ro<c ana="#hiat">i</c>ne]<pc resp="#ed">,</pc>
+Or est a<c ana="#lram-c">u</c>aire <expan corresp="#ab-tir-7"><ex>et</ex></expan> frarine<pc resp="#ed">;</pc>
+Lors estoit 'd onor coronee<pc resp="#ed">,</pc>
+Or est por con<c ana="#lram-c">u</c>oitisie tuee<pc resp="#ed">;</pc>
+Ne a<c ana="#lram-c">u</c>oit pas en<c ana="#lram-c">i</c>an ne <c ana="#lram-c">u</c>ice<pc resp="#ed">,</pc>
+Mais or [se muert] par a<c ana="#lram-c">u</c>arice<pc resp="#ed">.</pc>
+</lg>
+
+<lg>
+[<hi rend="init-flour">O</hi>R ne] <c ana="#lram-c">u</c>uelt pas amor noblece<pc resp="#ed">,</pc>
+Mais celui <c ana="#lram-c">u</c>ealt [qui a] richece<pc resp="#ed">,</pc>
+[O soit] gentils [o soit] <c ana="#lram-c">u</c>ilains<pc resp="#ed">;</pc>
+Amors tint [par toz] leus sez mais<pc resp="#ed">.</pc>
+'S il est <c ana="#lram-c">u</c>illains cul<c ana="#lram-c">u</c>erz pro<c ana="#lram-c">u</c><c ana="#e-ton">e</c>z<pc resp="#ed">,</pc>
+Sol 'qu il ait 'd a<c ana="#lram-c">u</c>oir assez
+Bien est ser<c ana="#lram-c">u</c>iz <expan corresp="#ab-tir-7"><ex>et</ex></expan> <gap reason="damage"/><pc resp="#ed">.</pc>
+Meis [il 'n est] <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan> tost dece<c ana="#hiat">u</c>z
+Quar il [ne set] ne il [ne <c ana="#lram-c">u</c>oit]
+Comant li a<c ana="#lram-c">u</c>oir le dechoit<pc resp="#ed">:</pc>
+Quant il conquiert 'n [a <c ana="#lram-c">i</c>oie] <c ana="#lram-c">u</c>aine
+Et quant [le pert] dolor certaine<pc resp="#ed">;</pc>
+Ne \l puet pas garder longement
+'Qu il ne \l perde <expan corresp="#ab-tir-7"><ex>et</ex></expan> 'qu il ne \l <gap reason="damage"/><pc resp="#ed">.</pc>
+A<c ana="#lram-c">u</c>oir<expan corresp="#ab-tild-ap"><ex>s</ex></expan> est perduz mainte part<pc resp="#ed">:</pc>
+A<c ana="#lram-c">u</c>oir<expan corresp="#ab-tild-ap"><ex>s</ex></expan> 'n est <c ana="#lram-c">i</c>a sanz regart<pc resp="#ed">,</pc>
+Por robeor [<expan corresp="#ab-tir-7"><ex>et</ex></expan> por] enbler<pc resp="#ed">,</pc>
+'Qu il pert [en terre] <expan corresp="#ab-tir-7"><ex>et</ex></expan> pert [en mer]<pc resp="#ed">;</pc>
+Por mal seignor pert [<expan corresp="#ab-tir-7"><ex>et</ex></expan> por gerre]<pc resp="#ed">;</pc>
+Quant muert pert 'l a<c ana="#lram-c">u</c>oir [<expan corresp="#ab-tir-7"><ex>et</ex></expan> la t<expan corresp="#ab-tild-ang-hor"><ex>er</ex></expan>re]<pc resp="#ed">,</pc>
+Lors lasse tot [_<expan corresp="#ab-tir-7"><ex>et</ex></expan> le gerpist]<pc resp="#ed">.</pc>
+Teuz li despent qui ne \l <expan corresp="#ab-tir-9"><ex>con</ex></expan>quist<pc resp="#ed">.</pc>
+<pb n="1v"/>
+<cb n="a"/>
+Ne \l [_di pas] por ce que doner
+[_Ne puet] 'l en <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan> sanz conquister<pc resp="#ed">:</pc>
+Qui <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan> despent [<expan corresp="#ab-tir-7"><ex>et</ex></expan> poi] amasse
+Tost pert son pris<pc resp="#ed">,</pc> [_la honte] lasse<pc resp="#ed">;</pc>
+Et qui conquiert <expan corresp="#ab-tir-7"><ex>et</ex></expan> ne despent
+<c ana="#lram-v">J</c>l est a<c ana="#hiat">i</c>z [_da toute] gent<pc resp="#ed">.</pc>
+[Li uns] sans 'l autre 'n [a mestiers]<pc resp="#ed">:</pc>
+Poi <c ana="#lram-c">u</c>aut conquerre sanz doners<pc resp="#ed">,</pc>
+Quar [_li uns] [<c ana= "#diacr-desamb">a</c> 'l autre] aidier<pc resp="#ed">.</pc>
+Et qui despent sanz conquistier<pc resp="#ed">,</pc>
+Om 'l a <c ana="#lram-c">u</c>e<c ana="#hiat">u</c> [de mainte] gent
+Que 'd auques <c ana="#lram-c">u</c>ienent [<c ana= "#diacr-desamb">a</c> noient]<pc resp="#ed">.</pc>
+Buen princes doit toz <c ana="#lram-c">i</c>orz despe<expan corresp="#ab-tild-nas"><ex>n</ex></expan>dre
+Et conquister<pc resp="#ed">,</pc> doner <expan corresp="#ab-tir-7"><ex>et</ex></expan> prendre<pc resp="#ed">,</pc>
+Car largeche est mere 'd onor
+Et de pro<c ana="#hiat">e</c>che <expan corresp="#ab-tir-7"><ex>et</ex></expan> 'd amor<pc resp="#ed">.</pc>
+Einsi puet del segle <c ana="#lram-c">i</c>oir<pc resp="#ed">,</pc>
+Amor [<expan corresp="#ab-tir-7"><ex>et</ex></expan> henor] mantenir
+Dont il ert del segle lo<c ana="#e-ton">e</c>z
+Et apr<c ana="#e-ton">e</c>s [sa mort] remenbr<c ana="#e-ton">e</c>z<pc resp="#ed">.</pc>
+</lg>
+
+<lg>
+[<hi rend="init-flour">D</hi>E ce] me <c ana="#lram-c">u</c>ueil atant laissir<pc resp="#ed">,</pc>
+[<c ana="#diacr-desamb">A</c> mon] conte doi repairer<pc resp="#ed">.</pc>
+Seignor<pc resp="#ed">,</pc> [_<c ana="#lram-c">i</c>e sai assez] de fi
+Que 'd <persName ref="#ALE"><forename><w>alixandre</w></forename></persName> a<c ana="#lram-c">u</c>ez o<c ana="#hiat">i</c><pc resp="#ed">,</pc>
+Mais [_ne sa<c ana="#lram-c">u</c>ez] encore pas
+Dont fu [sa mere] <persName ref="#OLI"><forename><w>olinpias</w></forename></persName><pc resp="#ed">;</pc>
+Del <persName ref="#FIL"><roleName><w>roi</w></roleName><forename><w>filipon</w></forename></persName> [ne sa<c ana="#lram-c">u</c>ez]
+Qui fu son pere <expan corresp="#ab-tir-7"><ex>et</ex></expan> dont [fu n<c ana="#e-ton">e</c>z]<pc resp="#ed">.</pc>
+Je \l dirai<pc resp="#ed">,</pc> que 'l ai [en memoire]<pc resp="#ed">.</pc>
+Or eschoutez <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan> riche estoire
+Des rois<pc resp="#ed">,</pc> des princes qui [i sont]<pc resp="#ed">,</pc>
+Li plus est del <persName ref="#FLO"><roleName><w>roi</w></roleName><forename><w>floriemont</w></forename></persName><pc resp="#ed">.</pc>
+</lg>
+
+<lg>
+<hi rend="init-flour">C</hi>E dit <persName ref="#AYM"><forename><w>aimes</w></forename></persName><pc resp="#ed">,</pc> or escoutez
+<c ana="#lram-c">V</c>os qu<subst><del rend="transf">i</del><add place="sup">e</add></subst> [li belz] diz entendez
+<choice><sic>Qua</sic><corr>quar</corr></choice> ici porons tro<c ana="#lram-c">u</c>er +la flor
+De contes li buen conteor<pc resp="#ed">,</pc>
+'D amor [<expan corresp="#ab-tir-7"><ex>et</ex></expan> de] che<c ana="#lram-c">u</c>aleries<pc resp="#ed">,</pc>
+'D a<c ana="#lram-c">u</c>entures <expan corresp="#ab-tir-7"><ex>et</ex></expan> de cortesies<pc resp="#ed">,</pc>
+Et de largece <expan corresp="#ab-tir-7"><ex>et</ex></expan> 'd onor<pc resp="#ed">.</pc>
+Or faites pais<pc resp="#ed">,</pc> o<c ana="#hiat">i</c>ez seignor<pc resp="#ed">.</pc>
+</lg>
+
+</div>

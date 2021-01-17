@@ -1,0 +1,398 @@
+Controllo direct./monolog
+
+
+Controllo agglutination
+
+OAGGLS    from:Gl1w2                [qui
+CAGGL     to  :Gl1w4                cuer]
+
+OAGGLU    from:Gl2w4                [_de
+CAGGL     to  :Gl2w6                corage]
+
+OAGGLS    from:Gl3w1                [Si
+CAGGL     to  :Gl3w2                doit]
+
+OAGGLS    from:Gl4w1                [Ce
+CAGGL     to  :Gl4w2                que]
+
+OAGGLS    from:Gl5w2                [j
+CAGGL     to  :Gl5w3                puet]
+
+OAGGLS    from:Gl6w1                [Si
+CAGGL     to  :Gl6w2                de]
+
+OAGGLS    from:Gl6w5                [j
+CAGGL     to  :Gl6w6                ueut]
+
+OAGGLS    from:Gl7w5                [ie
+CAGGL     to  :Gl7w6                di]
+
+OAGGLS    from:Gl8w6                [en
+CAGGL     to  :Gl8w7                li]
+
+OAGGLU    from:Gl9w2                [_le
+CAGGL     to  :Gl9w3                romanz]
+
+OAGGLS    from:Gl11w2               [il
+CAGGL     to  :Gl11w3               fu]
+
+OAGGLS    from:Gl14w1               [Jl
+CAGGL     to  :Gl14w2               ne]
+
+OAGGLS    from:Gl14w6               [en
+CAGGL     to  :Gl14w7               france]
+
+OAGGLU    from:Gl15w1               [_Mais
+CAGGL     to  :Gl15w4               lengue]
+
+OAGGLS    from:Gl16w1               [Le
+CAGGL     to  :Gl16w2               fit]
+
+OAGGLS    from:Gl16w4               [en
+CAGGL     to  :Gl16w5               leonois]
+
+OAGGLS    from:Gl17w2               [j
+CAGGL     to  :Gl17w3               mit]
+
+OAGGLS    from:Gl18w1               [Le
+CAGGL     to  :Gl18w2               romanz]
+
+OAGGLS    from:Gl18w4               [a
+CAGGL     to  :Gl18w5               chastellon]
+
+OAGGLS    from:Gl19w1               [De
+CAGGL     to  :Gl19w2               felipon]
+
+OAGGLS    from:Gl19w3               [de
+CAGGL     to  :Gl19w4               macedoine]
+
+OAGGLS    from:Gl20w1               [Qui
+CAGGL     to  :Gl20w3               noriz]
+
+OAGGLS    from:Gl20w4               [en
+CAGGL     to  :Gl20w5               babiloine]
+
+OAGGLU    from:Gl21w1               [_et
+CAGGL     to  :Gl21w3               fil]
+
+OAGGLS    from:Gl21w4               [al
+CAGGL     to  :Gl21w5               duc]
+
+OAGGLS    from:Gl22w4               [de
+CAGGL     to  :Gl22w5               duraz]
+
+OAGGLS    from:Gl23w4               [en
+CAGGL     to  :Gl23w5               francois]
+
+OAGGLS    from:Gl24w3               [en
+CAGGL     to  :Gl24w4               grezeois]
+
+OAGGLS    from:Gl25w4               [si
+CAGGL     to  :Gl25w5               conquist]
+
+OAGGLS    from:Gl26w4               [si
+CAGGL     to  :Gl26w5               me]
+
+OAGGLS    from:Gl27w3               [a
+CAGGL     to  :Gl27w4               chastellon]
+
+OAGGLS    from:Gl29w4               [de
+CAGGL     to  :Gl29w6               estoire]
+
+OAGGLS    from:Gl30w4               [en
+CAGGL     to  :Gl30w6               memoire]
+
+OAGGLS    from:Gl31w4               [en
+CAGGL     to  :Gl31w5               greze]
+
+OAGGLS    from:Gl32w5               [par
+CAGGL     to  :Gl32w6               tot]
+
+OAGGLS    from:Gl33w1               [A
+CAGGL     to  :Gl33w2               felipople]
+
+OAGGLS    from:Gl33w3               [la
+CAGGL     to  :Gl33w4               troua]
+
+OAGGLS    from:Gl34w1               [A
+CAGGL     to  :Gl34w2               chastellon]
+
+OAGGLS    from:Gl35w2               [com
+CAGGL     to  :Gl35w3               il]
+
+OAGGLS    from:Gl36w3               [de
+CAGGL     to  :Gl36w4               latin]
+
+OAGGLS    from:Gl36w5               [en
+CAGGL     to  :Gl36w6               romanz]
+
+OAGGLS    from:Gl37w2               [de
+CAGGL     to  :Gl37w3               uarenes]
+
+OAGGLS    from:Gl39w1               [Le
+CAGGL     to  :Gl39w2               fait]
+
+OAGGLS    from:Gl40w1               [Que
+CAGGL     to  :Gl40w2               tuit]
+
+OAGGLS    from:Gl41w2               [de
+CAGGL     to  :Gl41w3               lor]
+
+OAGGLU    from:Gl42w3               [_lor
+CAGGL     to  :Gl42w4               fause]
+
+OAGGLU    from:Gl44w1               [_Vos
+CAGGL     to  :Gl44w3               dire]
+
+OAGGLS    from:Gl45w1               [Si
+CAGGL     to  :Gl45w2               con]
+
+OAGGLS    from:Gl45w5               [en
+CAGGL     to  :Gl45w6               escrit]
+
+OAGGLS    from:Gl46w4               [la
+CAGGL     to  :Gl46w5               uerite]
+
+OAGGLS    from:Gl47w3               [qui
+CAGGL     to  :Gl47w4               firont]
+
+OAGGLU    from:Gl48w1               [_Porcoi
+CAGGL     to  :Gl48w3               conte]
+
+OAGGLU    from:Gl49w1               [_Deuomes
+CAGGL     to  :Gl49w3               toz]
+
+OAGGLS    from:Gl50w3               [j
+CAGGL     to  :Gl50w4               puet]
+
+OAGGLS    from:Gl51w1               [Que
+CAGGL     to  :Gl51w2               cil]
+
+OAGGLU    from:Gl54w1               [_Qui
+CAGGL     to  :Gl54w3               est]
+
+OAGGLS    from:Gl55w1               [De
+CAGGL     to  :Gl55w2               ioie]
+
+OAGGLU    from:Gl56w1               [_Or
+CAGGL     to  :Gl56w2               est]
+
+OAGGLU    from:Gl57w1               [_Non
+CAGGL     to  :Gl57w2               auoit]
+
+OAGGLS    from:Gl57w5               [ne
+CAGGL     to  :Gl57w6               uice]
+
+OAGGLS    from:Gl58w3               [se
+CAGGL     to  :Gl58w4               muert]
+
+OAGGLS    from:Gl59w1               [Or
+CAGGL     to  :Gl59w3               ueut]
+
+OAGGLS    from:Gl61w1               [Ou
+CAGGL     to  :Gl61w2               soit]
+
+OAGGLS    from:Gl61w4               [ou
+CAGGL     to  :Gl61w5               soit]
+
+OAGGLS    from:Gl62w3               [par
+CAGGL     to  :Gl62w4               toz]
+
+OAGGLS    from:Gl62w6               [se
+CAGGL     to  :Gl62w7               mains]
+
+OAGGLS    from:Gl63w2               [il
+CAGGL     to  :Gl63w3               est]
+
+OAGGLS    from:Gl64w1               [Sol
+CAGGL     to  :Gl64w2               que]
+
+OAGGLU    from:Gl67w1               [_Quar
+CAGGL     to  :Gl67w4               set]
+
+OAGGLS    from:Gl67w5               [ne
+CAGGL     to  :Gl67w6               il]
+
+OAGGLS    from:Gl68w2               [li
+CAGGL     to  :Gl68w3               auoirs]
+
+OAGGLS    from:Gl68w4               [le
+CAGGL     to  :Gl68w5               decoit]
+
+OAGGLS    from:Gl69w2               [lo
+CAGGL     to  :Gl69w3               conquiert]
+
+OAGGLU    from:Gl69w5               [_a
+CAGGL     to  :Gl69w6               ioie]
+
+OAGGLS    from:Gl70w3               [lo
+CAGGL     to  :Gl70w4               pert]
+
+OAGGLS    from:Gl71w1               [Ne
+CAGGL     to  :Gl71w3               puet]
+
+OAGGLS    from:Gl71w4               [pas
+CAGGL     to  :Gl71w5               garder]
+
+OAGGLS    from:Gl72w1               [Que
+CAGGL     to  :Gl72w4               perde]
+
+OAGGLS    from:Gl73w4               [maintes
+CAGGL     to  :Gl73w5               parz]
+
+OAGGLS    from:Gl75w4               [en
+CAGGL     to  :Gl75w5               terre]
+
+OAGGLS    from:Gl75w6               [et
+CAGGL     to  :Gl75w7               pert]
+
+OAGGLS    from:Gl75w8               [en
+CAGGL     to  :Gl75w9               mer]
+
+OAGGLS    from:Gl77w1               [Por
+CAGGL     to  :Gl77w2               mal]
+
+OAGGLS    from:Gl77w5               [et
+CAGGL     to  :Gl77w7               guera]
+
+OAGGLS    from:Gl78w7               [la
+CAGGL     to  :Gl78w8               terra]
+
+OAGGLU    from:Gl79w3               [_il
+CAGGL     to  :Gl79w4               treitot]
+
+OAGGLS    from:Gl79w5               [et
+CAGGL     to  :Gl79w6               grepit]
+
+OAGGLS    from:Gl82w1               [Ne
+CAGGL     to  :Gl82w2               puet]
+
+OAGGLS    from:Gl83w4               [et
+CAGGL     to  :Gl83w5               poi]
+
+OAGGLS    from:Gl84w3               [son
+CAGGL     to  :Gl84w4               pris]
+
+OAGGLS    from:Gl84w7               [il
+CAGGL     to  :Gl84w8               laise]
+
+OAGGLS    from:Gl85w2               [qui
+CAGGL     to  :Gl85w3               conquiert]
+
+OAGGLS    from:Gl86w4               [de
+CAGGL     to  :Gl86w5               mainte]
+
+OAGGLS    from:Gl87w1               [Li
+CAGGL     to  :Gl87w2               uns]
+
+OAGGLS    from:Gl88w2               [li
+CAGGL     to  :Gl88w3               uns]
+
+OAGGLU    from:Gl90w2               [_qui
+CAGGL     to  :Gl90w3               despent]
+
+OAGGLS    from:Gl91w1               [Hon
+CAGGL     to  :Gl91w4               ueu]
+
+OAGGLS    from:Gl91w5               [de
+CAGGL     to  :Gl91w6               mainte]
+
+OAGGLS    from:Gl92w5               [a
+CAGGL     to  :Gl92w6               noient]
+
+OAGGLS    from:Gl93w1               [Bons
+CAGGL     to  :Gl93w2               princes]
+
+OAGGLS    from:Gl96w2               [de
+CAGGL     to  :Gl96w3               prohece]
+
+OAGGLS    from:Gl96w5               [de
+CAGGL     to  :Gl96w6               honor]
+
+OAGGLS    from:Gl97w1               [Ainsi
+CAGGL     to  :Gl97w2               puet]
+
+OAGGLS    from:Gl97w3               [del
+CAGGL     to  :Gl97w4               segle]
+
+OAGGLS    from:Gl98w2               [et
+CAGGL     to  :Gl98w3               henor]
+
+OAGGLS    from:Gl99w2               [il
+CAGGL     to  :Gl99w3               ert]
+
+OAGGLS    from:Gl100w3              [sa
+CAGGL     to  :Gl100w4              mort]
+
+OAGGLS    from:Gl101w1              [De
+CAGGL     to  :Gl101w2              ce]
+
+OAGGLS    from:Gl102w1              [A
+CAGGL     to  :Gl102w2              mon]
+
+OAGGLS    from:Gl103w2              [ie
+CAGGL     to  :Gl103w4              sai]
+
+OAGGLS    from:Gl103w6              [de
+CAGGL     to  :Gl103w7              fi]
+
+OAGGLS    from:Gl104w1              [Que
+CAGGL     to  :Gl104w3              alixandre]
+
+OAGGLS    from:Gl105w2              [ne
+CAGGL     to  :Gl105w3              sauez]
+
+OAGGLS    from:Gl106w3              [sa
+CAGGL     to  :Gl106w4              mere]
+
+OAGGLS    from:Gl107w1              [Je
+CAGGL     to  :Gl107w3              dirai]
+
+OAGGLS    from:Gl107w4              [qui
+CAGGL     to  :Gl107w6              ai]
+
+OAGGLS    from:Gl108w1              [Or
+CAGGL     to  :Gl108w2              escustez]escutez
+
+OAGGLS    from:Gl109w2              [rois
+CAGGL     to  :Gl109w4              princes]
+
+OAGGLS    from:Gl109w6              [j
+CAGGL     to  :Gl109w7              sont]
+
+OAGGLS    from:Gl110w1              [Li
+CAGGL     to  :Gl110w2              pluis]
+
+OAGGLS    from:Gl110w4              [del
+CAGGL     to  :Gl110w5              roi]
+
+OAGGLS    from:Gl111w1              [Ce
+CAGGL     to  :Gl111w2              dist]
+
+OAGGLS    from:Gl111w4              [or
+CAGGL     to  :Gl111w5              escoutez]
+
+OAGGLS    from:Gl112w1              [Vos
+CAGGL     to  :Gl112w5              diz]
+
+OAGGLS    from:Gl113w2              [ci
+CAGGL     to  :Gl113w3              poront]
+
+OAGGLS    from:Gl113w5              [la
+CAGGL     to  :Gl113w6              flor]
+
+OAGGLS    from:Gl114w3              [li
+CAGGL     to  :Gl114w4              bon]
+
+OAGGLS    from:Gl116w3              [de
+CAGGL     to  :Gl116w4              cortoisies]
+
+OAGGLU    from:Gl117w1              [_et
+CAGGL     to  :Gl117w3              largesce]
+
+OAGGLU    from:Gl117w4              [_et
+CAGGL     to  :Gl117w6              onor]
+
+
+Controllo damage
+

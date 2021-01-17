@@ -1,0 +1,761 @@
+
+1) &div-proB;(prol1)
+&div-proB;(prol1)                       : <div type="prologue" ref="#prol1">
+=>  <div type="prologue" ref="#prol1">
+
+2) 
+=>  
+
+3) &pb;(1r)
+&pb;(1r)                                : <pb n="1r"/>
+=>  <pb n="1r"/>
+
+4) &cb-a;
+&cb-a;                                  : <cb n="a"/>
+=>  <cb n="a"/>
+
+5) 
+=>  
+
+6) &lgB;
+&lgB;                                   : <lg>
+=>  <lg>
+
+7) Cil qi a cuer de *uasalage
+*u                                      : <c ana="#lram-c">u</c>
+=>  Cil qi a cuer de <c ana="#lram-c">u</c>asalage
+
+8) [E *uelt] amer [de fin] corage,
+*u                                      : <c ana="#lram-c">u</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  [E <c ana="#lram-c">u</c>elt] amer [de fin] corage<pc resp="#ed">,</pc>
+
+9) Si doit o~ir &7; escouter
+~i                                      : <c ana="#hiat">i</c>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+=>  Si doit o<c ana="#hiat">i</c>r <expan corresp="#ab-tir-7"><ex>et</ex></expan> escouter
+
+10) Ce que &pers;(AYM,aimes) *uealt reconter:
+&pers;(AYM,aimes)                       : <persName ref="#AYM"><forename><w>aimes</w></forename></persName>
+*u                                      : <c ana="#lram-c">u</c>
+:                                       : <pc resp="#ed">:</pc>
+=>  Ce que <persName ref="#AYM"><forename><w>aimes</w></forename></persName> <c ana="#lram-c">u</c>ealt reconter<pc resp="#ed">:</pc>
+
+11) Assez [i puet] [de bien] entendre
+=>  Assez [i puet] [de bien] entendre
+
+12) [Si de] buen cuer *uealt entendre.
+*u                                      : <c ana="#lram-c">u</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  [Si de] buen cuer <c ana="#lram-c">u</c>ealt entendre<pc resp="#ed">.</pc>
+
+13) &lgE;
+&lgE;                                   : </lg>
+=>  </lg>
+
+14) 
+=>  
+
+15) &lgB;
+&lgB;                                   : <lg>
+=>  <lg>
+
+16) &hi-f;(O)R oez, seignors, [_que *ie di].
+&hi-f;(O)                               : <hi rend="init-flour">O</hi>
+,                                       : <pc resp="#ed">,</pc>
+,                                       : <pc resp="#ed">,</pc>
+*i                                      : <c ana="#lram-c">i</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  <hi rend="init-flour">O</hi>R oez<pc resp="#ed">,</pc> seignors<pc resp="#ed">,</pc> [_que <c ana="#lram-c">i</c>e di]<pc resp="#ed">.</pc>
+
+17) &pers;(AYM,Aimes) por &pers;(ANA,anali)
+&pers;(AYM,Aimes)                       : <persName ref="#AYM"><forename><w>Aimes</w></forename></persName>
+&pers;(ANA,anali)                       : <persName ref="#ANA"><forename><w>anali</w></forename></persName>
+=>  <persName ref="#AYM"><forename><w>Aimes</w></forename></persName> por <persName ref="#ANA"><forename><w>anali</w></forename></persName>
+
+18) Fist le romains tant saige&ment;
+&ment;                                  : <expan corresp="#ab-ctr-mt">m<ex>en</ex>t</expan>
+=>  Fist le romains tant saige<expan corresp="#ab-ctr-mt">m<ex>en</ex>t</expan>
+
+19) Que teus 'l o~ira que [ne 'l intent]
+~i                                      : <c ana="#hiat">i</c>
+=>  Que teus 'l o<c ana="#hiat">i</c>ra que [ne 'l intent]
+
+20) Por_quoi [il fu] [_&7; feiz] [_&7; diz].
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+.                                       : <pc resp="#ed">.</pc>
+=>  Por_quoi [il fu] [_<expan corresp="#ab-tir-7"><ex>et</ex></expan> feiz] [_<expan corresp="#ab-tir-7"><ex>et</ex></expan> diz]<pc resp="#ed">.</pc>
+
+21) Por &pers;(ANA,analin) fu [en escriz].
+&pers;(ANA,analin)                      : <persName ref="#ANA"><forename><w>analin</w></forename></persName>
+.                                       : <pc resp="#ed">.</pc>
+=>  Por <persName ref="#ANA"><forename><w>analin</w></forename></persName> fu [en escriz]<pc resp="#ed">.</pc>
+
+22) Toz *iors iert mais [en remenbrance].
+*i                                      : <c ana="#lram-c">i</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  Toz <c ana="#lram-c">i</c>ors iert mais [en remenbrance]<pc resp="#ed">.</pc>
+
+23) ^Jl ne fu mie faiz [en &pl-reg;(FRA,france])
+^J                                      : <c ana="#lram-v">J</c>
+&pl-reg;(FRA,france])                   : <placeName type="region" ref="#FRA"><name><w>france]</w></name></placeName>
+=>  <c ana="#lram-v">J</c>l ne fu mie faiz [en <placeName type="region" ref="#FRA"><name><w>france]</w></name></placeName>
+
+24) Mais [en la lengue] de françois
+=>  Mais [en la lengue] de françois
+
+25) [Le fist] &pers;(AYM,aimes) [_en &pl-cit;(LIO,lionois]).
+&pers;(AYM,aimes)                       : <persName ref="#AYM"><forename><w>aimes</w></forename></persName>
+&pl-cit;(LIO,lionois])                  : <placeName type="city" ref="#LIO"><name><w>lionois]</w></name></placeName>
+.                                       : <pc resp="#ed">.</pc>
+=>  [Le fist] <persName ref="#AYM"><forename><w>aimes</w></forename></persName> [_en <placeName type="city" ref="#LIO"><name><w>lionois]</w></name></placeName><pc resp="#ed">.</pc>
+
+26) &lgE;
+&lgE;                                   : </lg>
+=>  </lg>
+
+27) 
+=>  
+
+28) &lgB;
+&lgB;                                   : <lg>
+=>  <lg>
+
+29) &pers;(AYM,&hi-f;(A)^Jmes) &add-m;(mist) 's entencion.
+&pers;(AYM,&hi-f;(A)^Jmes)              : <persName ref="#AYM"><forename><w>&hi-f;(A)^Jmes</w></forename></persName>
+&add-m;(mist)                           : <add place="marg">mist</add>
+.                                       : <pc resp="#ed">.</pc>
+=>  <persName ref="#AYM"><forename><w>&hi-f;(A)^Jmes</w></forename></persName> <add place="marg">mist</add> 's entencion<pc resp="#ed">.</pc>
+29] <persName ref="#AYM"><forename><w>&hi-f;(A)^Jmes</w></forename></persName> <add place="marg">mist</add> 's entencion<pc resp="#ed">.</pc>
+&hi-f;(A)                               : <hi rend="init-flour">A</hi>
+^J                                      : <c ana="#lram-v">J</c>
+->  <persName ref="#AYM"><forename><w><hi rend="init-flour">A</hi><c ana="#lram-v">J</c>mes</w></forename></persName> <add place="marg">mist</add> 's entencion<pc resp="#ed">.</pc>
+
+30) Le romains fist [à &pl-cit;(CHA,chastilon])
+à                                       : <c ana= "#diacr-desamb">a</c>
+&pl-cit;(CHA,chastilon])                : <placeName type="city" ref="#CHA"><name><w>chastilon]</w></name></placeName>
+=>  Le romains fist [<c ana= "#diacr-desamb">a</c> <placeName type="city" ref="#CHA"><name><w>chastilon]</w></name></placeName>
+
+31) [De &pers-reg;(FIL,filipon],de,MAC,macedoine)
+&pers-reg;(FIL,filipon],de,MAC,macedoine): <persName ref="#FIL"><forename><w>filipon]</w></forename><w>de</w><placeName type="region" ref="#MAC"><name><w>macedoine</w></name></placeName></persName>
+=>  [De <persName ref="#FIL"><forename><w>filipon]</w></forename><w>de</w><placeName type="region" ref="#MAC"><name><w>macedoine</w></name></placeName></persName>
+
+32) Qui fu noriz [en &pl-cit;(BAB,babilone]),
+&pl-cit;(BAB,babilone])                 : <placeName type="city" ref="#BAB"><name><w>babilone]</w></name></placeName>
+,                                       : <pc resp="#ed">,</pc>
+=>  Qui fu noriz [en <placeName type="city" ref="#BAB"><name><w>babilone]</w></name></placeName><pc resp="#ed">,</pc>
+
+33) Et del [fil au &rol-pers;(MAT,duc],mataquaz)
+&rol-pers;(MAT,duc],mataquaz)           : <persName ref="#MAT"><roleName><w>duc]</w></roleName><forename><w>mataquaz</w></forename></persName>
+=>  Et del [fil au <persName ref="#MAT"><roleName><w>duc]</w></roleName><forename><w>mataquaz</w></forename></persName>
+
+34) [_Qui estoit] sire de &pl-cit;(DUR,duraz):
+&pl-cit;(DUR,duraz)                     : <placeName type="city" ref="#DUR"><name><w>duraz</w></name></placeName>
+:                                       : <pc resp="#ed">:</pc>
+=>  [_Qui estoit] sire de <placeName type="city" ref="#DUR"><name><w>duraz</w></name></placeName><pc resp="#ed">:</pc>
+
+35) &pers;(FLO,Floriemont) ot nom [en françois],
+&pers;(FLO,Floriemont)                  : <persName ref="#FLO"><forename><w>Floriemont</w></forename></persName>
+,                                       : <pc resp="#ed">,</pc>
+=>  <persName ref="#FLO"><forename><w>Floriemont</w></forename></persName> ot nom [en françois]<pc resp="#ed">,</pc>
+
+36) &pers;(FLO,Elleneos) dit [en greçois].
+&pers;(FLO,Elleneos)                    : <persName ref="#FLO"><forename><w>Elleneos</w></forename></persName>
+.                                       : <pc resp="#ed">.</pc>
+=>  <persName ref="#FLO"><forename><w>Elleneos</w></forename></persName> dit [en greçois]<pc resp="#ed">.</pc>
+
+37) Rois fu &7; si conquist assez,
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+,                                       : <pc resp="#ed">,</pc>
+=>  Rois fu <expan corresp="#ab-tir-7"><ex>et</ex></expan> si conquist assez<pc resp="#ed">,</pc>
+
+38) Dirai *uos en si 'm escotez
+*u                                      : <c ana="#lram-c">u</c>
+=>  Dirai <c ana="#lram-c">u</c>os en si 'm escotez
+
+39) &lgE;
+&lgE;                                   : </lg>
+=>  </lg>
+
+40) 
+=>  
+
+41) &lgB;
+&lgB;                                   : <lg>
+=>  <lg>
+
+42) &hi-f;(P)Or assiege [à &pl-cit;(CHA,chastillon])
+&hi-f;(P)                               : <hi rend="init-flour">P</hi>
+à                                       : <c ana= "#diacr-desamb">a</c>
+&pl-cit;(CHA,chastillon])               : <placeName type="city" ref="#CHA"><name><w>chastillon]</w></name></placeName>
+=>  <hi rend="init-flour">P</hi>Or assiege [<c ana= "#diacr-desamb">a</c> <placeName type="city" ref="#CHA"><name><w>chastillon]</w></name></placeName>
+
+43) Estoit &pers;(AYM,aimes) une saison
+&pers;(AYM,aimes)                       : <persName ref="#AYM"><forename><w>aimes</w></forename></persName>
+=>  Estoit <persName ref="#AYM"><forename><w>aimes</w></forename></persName> une saison
+
+44) E porpensa soi del estoire
+=>  E porpensa soi del estoire
+
+45) 'Qu il a*uoit [en sa] memoire.
+*u                                      : <c ana="#lram-c">u</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  'Qu il a<c ana="#lram-c">u</c>oit [en sa] memoire<pc resp="#ed">.</pc>
+
+46) ^Jl 'l a*uoit [en &pl-reg;(GRE,grece]) *ue~ue
+^J                                      : <c ana="#lram-v">J</c>
+*u                                      : <c ana="#lram-c">u</c>
+&pl-reg;(GRE,grece])                    : <placeName type="region" ref="#GRE"><name><w>grece]</w></name></placeName>
+*u                                      : <c ana="#lram-c">u</c>
+~u                                      : <c ana="#hiat">u</c>
+=>  <c ana="#lram-v">J</c>l 'l a<c ana="#lram-c">u</c>oit [en <placeName type="region" ref="#GRE"><name><w>grece]</w></name></placeName> <c ana="#lram-c">u</c>e<c ana="#hiat">u</c>e
+
+47) Mes 'n est pas par tot se~ue;
+~u                                      : <c ana="#hiat">u</c>
+;                                       : <pc resp="#ed">;</pc>
+=>  Mes 'n est pas par tot se<c ana="#hiat">u</c>e<pc resp="#ed">;</pc>
+
+48) À &pl-cit;(FIP,filipoble) la tro*ua,
+À                                       : <c ana="#diacr-desamb">A</c>
+&pl-cit;(FIP,filipoble)                 : <placeName type="city" ref="#FIP"><name><w>filipoble</w></name></placeName>
+*u                                      : <c ana="#lram-c">u</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  <c ana="#diacr-desamb">A</c> <placeName type="city" ref="#FIP"><name><w>filipoble</w></name></placeName> la tro<c ana="#lram-c">u</c>a<pc resp="#ed">,</pc>
+
+49) À &pl-cit;(CHA,chastillon) 'l [en aporta];
+À                                       : <c ana="#diacr-desamb">A</c>
+&pl-cit;(CHA,chastillon)                : <placeName type="city" ref="#CHA"><name><w>chastillon</w></name></placeName>
+;                                       : <pc resp="#ed">;</pc>
+=>  <c ana="#diacr-desamb">A</c> <placeName type="city" ref="#CHA"><name><w>chastillon</w></name></placeName> 'l [en aporta]<pc resp="#ed">;</pc>
+
+50) Ensi come il 'l a*uoit aprise
+*u                                      : <c ana="#lram-c">u</c>
+=>  Ensi come il 'l a<c ana="#lram-c">u</c>oit aprise
+
+51) 'L [a de latin] [en roman] mise.
+.                                       : <pc resp="#ed">.</pc>
+=>  'L [a de latin] [en roman] mise<pc resp="#ed">.</pc>
+
+52) &lgE;
+&lgE;                                   : </lg>
+=>  </lg>
+
+53) 
+=>  
+
+54) &lgB;
+&lgB;                                   : <lg>
+=>  <lg>
+
+55) &pers-cit;(AYM,&hi-f;(A)^Jmes,de,VAR,*uarienes) retrait
+&pers-cit;(AYM,&hi-f;(A)^Jmes,de,VAR,*uarienes): <persName ref="#AYM"><forename><w>&hi-f;(A)^Jmes</w></forename><w>de</w><placeName type="city" ref="#VAR"><name><w>*uarienes</w></name></placeName></persName>
+=>  <persName ref="#AYM"><forename><w>&hi-f;(A)^Jmes</w></forename><w>de</w><placeName type="city" ref="#VAR"><name><w>*uarienes</w></name></placeName></persName> retrait
+55] <persName ref="#AYM"><forename><w>&hi-f;(A)^Jmes</w></forename><w>de</w><placeName type="city" ref="#VAR"><name><w>*uarienes</w></name></placeName></persName> retrait
+&hi-f;(A)                               : <hi rend="init-flour">A</hi>
+^J                                      : <c ana="#lram-v">J</c>
+*u                                      : <c ana="#lram-c">u</c>
+->  <persName ref="#AYM"><forename><w><hi rend="init-flour">A</hi><c ana="#lram-v">J</c>mes</w></forename><w>de</w><placeName type="city" ref="#VAR"><name><w><c ana="#lram-c">u</c>arienes</w></name></placeName></persName> retrait
+
+56) Dels anc~iens ce 'qu il ont fait.
+~i                                      : <c ana="#hiat">i</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  Dels anc<c ana="#hiat">i</c>ens ce 'qu il ont fait<pc resp="#ed">.</pc>
+
+57) Les faiz conte [des anc~iens]
+~i                                      : <c ana="#hiat">i</c>
+=>  Les faiz conte [des anc<c ana="#hiat">i</c>ens]
+
+58) &cb-b;
+&cb-b;                                  : <cb n="b"/>
+=>  <cb n="b"/>
+
+59) Que toz cels [_qui ont] les cuers *ueins
+*u                                      : <c ana="#lram-c">u</c>
+=>  Que toz cels [_qui ont] les cuers <c ana="#lram-c">u</c>eins
+
+60) Aient [de lor] pro~eche en*uie
+~e                                      : <c ana="#hiat">e</c>
+*u                                      : <c ana="#lram-c">u</c>
+=>  Aient [de lor] pro<c ana="#hiat">e</c>che en<c ana="#lram-c">u</c>ie
+
+61) Por amender lor fause *uie.
+*u                                      : <c ana="#lram-c">u</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  Por amender lor fause <c ana="#lram-c">u</c>ie<pc resp="#ed">.</pc>
+
+62) &lgE;
+&lgE;                                   : </lg>
+=>  </lg>
+
+63) 
+=>  
+
+64) &lgB;
+&lgB;                                   : <lg>
+=>  <lg>
+
+65) &hi-f;(P)Or [les anc~iens] remenbrer
+&hi-f;(P)                               : <hi rend="init-flour">P</hi>
+~i                                      : <c ana="#hiat">i</c>
+=>  <hi rend="init-flour">P</hi>Or [les anc<c ana="#hiat">i</c>ens] remenbrer
+
+66) *Vos *uueil dire &7; raconter
+*V                                      : <c ana="#lram-c">V</c>
+*u                                      : <c ana="#lram-c">u</c>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+=>  <c ana="#lram-c">V</c>os <c ana="#lram-c">u</c>ueil dire <expan corresp="#ab-tir-7"><ex>et</ex></expan> raconter
+
+67) Einsi com ai [en escriz] tro*ué
+*u                                      : <c ana="#lram-c">u</c>
+é                                       : <c ana="#e-ton">e</c>
+=>  Einsi com ai [en escriz] tro<c ana="#lram-c">u</c><c ana="#e-ton">e</c>
+
+68) 'D une stoire [la *uerité].
+*u                                      : <c ana="#lram-c">u</c>
+é                                       : <c ana="#e-ton">e</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  'D une stoire [la <c ana="#lram-c">u</c>erit<c ana="#e-ton">e</c>]<pc resp="#ed">.</pc>
+
+69) À ceus qui firent li buen_faiz
+À                                       : <c ana="#diacr-desamb">A</c>
+=>  <c ana="#diacr-desamb">A</c> ceus qui firent li buen_faiz
+
+70) Por quoi li conte sont retraiz
+=>  Por quoi li conte sont retraiz
+
+71) De*uons nos toz *iorz entendre,
+*u                                      : <c ana="#lram-c">u</c>
+*i                                      : <c ana="#lram-c">i</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  De<c ana="#lram-c">u</c>ons nos toz <c ana="#lram-c">i</c>orz entendre<pc resp="#ed">,</pc>
+
+72) Car adés [i puet] hom aprendre
+é                                       : <c ana="#e-ton">e</c>
+=>  Car ad<c ana="#e-ton">e</c>s [i puet] hom aprendre
+
+73) Que cil mantenoient henor,
+,                                       : <pc resp="#ed">,</pc>
+=>  Que cil mantenoient henor<pc resp="#ed">,</pc>
+
+74) Pro~eche, foi &7; amor.
+~e                                      : <c ana="#hiat">e</c>
+,                                       : <pc resp="#ed">,</pc>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+.                                       : <pc resp="#ed">.</pc>
+=>  Pro<c ana="#hiat">e</c>che<pc resp="#ed">,</pc> foi <expan corresp="#ab-tir-7"><ex>et</ex></expan> amor<pc resp="#ed">.</pc>
+
+75) À cels tens estoit amors *ui*uer
+À                                       : <c ana="#diacr-desamb">A</c>
+*u                                      : <c ana="#lram-c">u</c>
+*u                                      : <c ana="#lram-c">u</c>
+=>  <c ana="#diacr-desamb">A</c> cels tens estoit amors <c ana="#lram-c">u</c>i<c ana="#lram-c">u</c>er
+
+76) Qui or est morte &7; chaiti*uer;
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+*u                                      : <c ana="#lram-c">u</c>
+;                                       : <pc resp="#ed">;</pc>
+=>  Qui or est morte <expan corresp="#ab-tir-7"><ex>et</ex></expan> chaiti<c ana="#lram-c">u</c>er<pc resp="#ed">;</pc>
+
+77) De *ioie [_fu dame] [_&7; ro~ine],
+*i                                      : <c ana="#lram-c">i</c>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+~i                                      : <c ana="#hiat">i</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  De <c ana="#lram-c">i</c>oie [_fu dame] [_<expan corresp="#ab-tir-7"><ex>et</ex></expan> ro<c ana="#hiat">i</c>ne]<pc resp="#ed">,</pc>
+
+78) Or est a*uaire &7; frarine;
+*u                                      : <c ana="#lram-c">u</c>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+;                                       : <pc resp="#ed">;</pc>
+=>  Or est a<c ana="#lram-c">u</c>aire <expan corresp="#ab-tir-7"><ex>et</ex></expan> frarine<pc resp="#ed">;</pc>
+
+79) Lors estoit 'd onor coronee,
+,                                       : <pc resp="#ed">,</pc>
+=>  Lors estoit 'd onor coronee<pc resp="#ed">,</pc>
+
+80) Or est por con*uoitisie tuee;
+*u                                      : <c ana="#lram-c">u</c>
+;                                       : <pc resp="#ed">;</pc>
+=>  Or est por con<c ana="#lram-c">u</c>oitisie tuee<pc resp="#ed">;</pc>
+
+81) Ne a*uoit pas en*ian ne *uice,
+*u                                      : <c ana="#lram-c">u</c>
+*i                                      : <c ana="#lram-c">i</c>
+*u                                      : <c ana="#lram-c">u</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  Ne a<c ana="#lram-c">u</c>oit pas en<c ana="#lram-c">i</c>an ne <c ana="#lram-c">u</c>ice<pc resp="#ed">,</pc>
+
+82) Mais or [se muert] par a*uarice.
+*u                                      : <c ana="#lram-c">u</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  Mais or [se muert] par a<c ana="#lram-c">u</c>arice<pc resp="#ed">.</pc>
+
+83) &lgE;
+&lgE;                                   : </lg>
+=>  </lg>
+
+84) 
+=>  
+
+85) &lgB;
+&lgB;                                   : <lg>
+=>  <lg>
+
+86) [&hi-f;(O)R ne] *uuelt pas amor noblece,
+&hi-f;(O)                               : <hi rend="init-flour">O</hi>
+*u                                      : <c ana="#lram-c">u</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  [<hi rend="init-flour">O</hi>R ne] <c ana="#lram-c">u</c>uelt pas amor noblece<pc resp="#ed">,</pc>
+
+87) Mais celui *uealt [qui a] richece,
+*u                                      : <c ana="#lram-c">u</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  Mais celui <c ana="#lram-c">u</c>ealt [qui a] richece<pc resp="#ed">,</pc>
+
+88) [O soit] gentils [o soit] *uilains;
+*u                                      : <c ana="#lram-c">u</c>
+;                                       : <pc resp="#ed">;</pc>
+=>  [O soit] gentils [o soit] <c ana="#lram-c">u</c>ilains<pc resp="#ed">;</pc>
+
+89) Amors tint [par toz] leus sez mais.
+.                                       : <pc resp="#ed">.</pc>
+=>  Amors tint [par toz] leus sez mais<pc resp="#ed">.</pc>
+
+90) 'S il est *uillains cul*uerz pro*uéz,
+*u                                      : <c ana="#lram-c">u</c>
+*u                                      : <c ana="#lram-c">u</c>
+*u                                      : <c ana="#lram-c">u</c>
+é                                       : <c ana="#e-ton">e</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  'S il est <c ana="#lram-c">u</c>illains cul<c ana="#lram-c">u</c>erz pro<c ana="#lram-c">u</c><c ana="#e-ton">e</c>z<pc resp="#ed">,</pc>
+
+91) Sol 'qu il ait 'd a*uoir assez
+*u                                      : <c ana="#lram-c">u</c>
+=>  Sol 'qu il ait 'd a<c ana="#lram-c">u</c>oir assez
+
+92) Bien est ser*uiz &7; &gap-d;.
+*u                                      : <c ana="#lram-c">u</c>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+&gap-d;                                 : <gap reason="damage"/>
+.                                       : <pc resp="#ed">.</pc>
+=>  Bien est ser<c ana="#lram-c">u</c>iz <expan corresp="#ab-tir-7"><ex>et</ex></expan> <gap reason="damage"/><pc resp="#ed">.</pc>
+
+93) Meis [il 'n est] &mlt; tost dece~uz
+&mlt;                                   : <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+~u                                      : <c ana="#hiat">u</c>
+=>  Meis [il 'n est] <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan> tost dece<c ana="#hiat">u</c>z
+
+94) Quar il [ne set] ne il [ne *uoit]
+*u                                      : <c ana="#lram-c">u</c>
+=>  Quar il [ne set] ne il [ne <c ana="#lram-c">u</c>oit]
+
+95) Comant li a*uoir le dechoit:
+*u                                      : <c ana="#lram-c">u</c>
+:                                       : <pc resp="#ed">:</pc>
+=>  Comant li a<c ana="#lram-c">u</c>oir le dechoit<pc resp="#ed">:</pc>
+
+96) Quant il conquiert 'n [a *ioie] *uaine
+*i                                      : <c ana="#lram-c">i</c>
+*u                                      : <c ana="#lram-c">u</c>
+=>  Quant il conquiert 'n [a <c ana="#lram-c">i</c>oie] <c ana="#lram-c">u</c>aine
+
+97) Et quant [le pert] dolor certaine;
+;                                       : <pc resp="#ed">;</pc>
+=>  Et quant [le pert] dolor certaine<pc resp="#ed">;</pc>
+
+98) Ne \l puet pas garder longement
+=>  Ne \l puet pas garder longement
+
+99) 'Qu il ne \l perde &7; 'qu il ne \l &gap-d;.
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+&gap-d;                                 : <gap reason="damage"/>
+.                                       : <pc resp="#ed">.</pc>
+=>  'Qu il ne \l perde <expan corresp="#ab-tir-7"><ex>et</ex></expan> 'qu il ne \l <gap reason="damage"/><pc resp="#ed">.</pc>
+
+100) A*uoir&s; est perduz mainte part:
+*u                                      : <c ana="#lram-c">u</c>
+&s;                                     : <expan corresp="#ab-tild-ap"><ex>s</ex></expan>
+:                                       : <pc resp="#ed">:</pc>
+=>  A<c ana="#lram-c">u</c>oir<expan corresp="#ab-tild-ap"><ex>s</ex></expan> est perduz mainte part<pc resp="#ed">:</pc>
+
+101) A*uoir&s; 'n est *ia sanz regart,
+*u                                      : <c ana="#lram-c">u</c>
+&s;                                     : <expan corresp="#ab-tild-ap"><ex>s</ex></expan>
+*i                                      : <c ana="#lram-c">i</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  A<c ana="#lram-c">u</c>oir<expan corresp="#ab-tild-ap"><ex>s</ex></expan> 'n est <c ana="#lram-c">i</c>a sanz regart<pc resp="#ed">,</pc>
+
+102) Por robeor [&7; por] enbler,
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+,                                       : <pc resp="#ed">,</pc>
+=>  Por robeor [<expan corresp="#ab-tir-7"><ex>et</ex></expan> por] enbler<pc resp="#ed">,</pc>
+
+103) 'Qu il pert [en terre] &7; pert [en mer];
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+;                                       : <pc resp="#ed">;</pc>
+=>  'Qu il pert [en terre] <expan corresp="#ab-tir-7"><ex>et</ex></expan> pert [en mer]<pc resp="#ed">;</pc>
+
+104) Por mal seignor pert [&7; por gerre];
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+;                                       : <pc resp="#ed">;</pc>
+=>  Por mal seignor pert [<expan corresp="#ab-tir-7"><ex>et</ex></expan> por gerre]<pc resp="#ed">;</pc>
+
+105) Quant muert pert 'l a*uoir [&7; la t&er;re],
+*u                                      : <c ana="#lram-c">u</c>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+&er;                                    : <expan corresp="#ab-tild-ang-hor"><ex>er</ex></expan>
+,                                       : <pc resp="#ed">,</pc>
+=>  Quant muert pert 'l a<c ana="#lram-c">u</c>oir [<expan corresp="#ab-tir-7"><ex>et</ex></expan> la t<expan corresp="#ab-tild-ang-hor"><ex>er</ex></expan>re]<pc resp="#ed">,</pc>
+
+106) Lors lasse tot [_&7; le gerpist].
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+.                                       : <pc resp="#ed">.</pc>
+=>  Lors lasse tot [_<expan corresp="#ab-tir-7"><ex>et</ex></expan> le gerpist]<pc resp="#ed">.</pc>
+
+107) Teuz li despent qui ne \l &9;quist.
+&9;                                     : <expan corresp="#ab-tir-9"><ex>con</ex></expan>
+.                                       : <pc resp="#ed">.</pc>
+=>  Teuz li despent qui ne \l <expan corresp="#ab-tir-9"><ex>con</ex></expan>quist<pc resp="#ed">.</pc>
+
+108) &pb;(1v)
+&pb;(1v)                                : <pb n="1v"/>
+=>  <pb n="1v"/>
+
+109) &cb-a;
+&cb-a;                                  : <cb n="a"/>
+=>  <cb n="a"/>
+
+110) Ne \l [_di pas] por ce que doner
+=>  Ne \l [_di pas] por ce que doner
+
+111) [_Ne puet] 'l en &mlt; sanz conquister:
+&mlt;                                   : <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+:                                       : <pc resp="#ed">:</pc>
+=>  [_Ne puet] 'l en <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan> sanz conquister<pc resp="#ed">:</pc>
+
+112) Qui &mlt; despent [&7; poi] amasse
+&mlt;                                   : <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+=>  Qui <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan> despent [<expan corresp="#ab-tir-7"><ex>et</ex></expan> poi] amasse
+
+113) Tost pert son pris, [_la honte] lasse;
+,                                       : <pc resp="#ed">,</pc>
+;                                       : <pc resp="#ed">;</pc>
+=>  Tost pert son pris<pc resp="#ed">,</pc> [_la honte] lasse<pc resp="#ed">;</pc>
+
+114) Et qui conquiert &7; ne despent
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+=>  Et qui conquiert <expan corresp="#ab-tir-7"><ex>et</ex></expan> ne despent
+
+115) ^Jl est a~iz [_da toute] gent.
+^J                                      : <c ana="#lram-v">J</c>
+~i                                      : <c ana="#hiat">i</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  <c ana="#lram-v">J</c>l est a<c ana="#hiat">i</c>z [_da toute] gent<pc resp="#ed">.</pc>
+
+116) [Li uns] sans 'l autre 'n [a mestiers]:
+:                                       : <pc resp="#ed">:</pc>
+=>  [Li uns] sans 'l autre 'n [a mestiers]<pc resp="#ed">:</pc>
+
+117) Poi *uaut conquerre sanz doners,
+*u                                      : <c ana="#lram-c">u</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  Poi <c ana="#lram-c">u</c>aut conquerre sanz doners<pc resp="#ed">,</pc>
+
+118) Quar [_li uns] [à 'l autre] aidier.
+à                                       : <c ana= "#diacr-desamb">a</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  Quar [_li uns] [<c ana= "#diacr-desamb">a</c> 'l autre] aidier<pc resp="#ed">.</pc>
+
+119) Et qui despent sanz conquistier,
+,                                       : <pc resp="#ed">,</pc>
+=>  Et qui despent sanz conquistier<pc resp="#ed">,</pc>
+
+120) Om 'l a *ue~u [de mainte] gent
+*u                                      : <c ana="#lram-c">u</c>
+~u                                      : <c ana="#hiat">u</c>
+=>  Om 'l a <c ana="#lram-c">u</c>e<c ana="#hiat">u</c> [de mainte] gent
+
+121) Que 'd auques *uienent [à noient].
+*u                                      : <c ana="#lram-c">u</c>
+à                                       : <c ana= "#diacr-desamb">a</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  Que 'd auques <c ana="#lram-c">u</c>ienent [<c ana= "#diacr-desamb">a</c> noient]<pc resp="#ed">.</pc>
+
+122) Buen princes doit toz *iorz despe&n;dre
+*i                                      : <c ana="#lram-c">i</c>
+&n;                                     : <expan corresp="#ab-tild-nas"><ex>n</ex></expan>
+=>  Buen princes doit toz <c ana="#lram-c">i</c>orz despe<expan corresp="#ab-tild-nas"><ex>n</ex></expan>dre
+
+123) Et conquister, doner &7; prendre,
+,                                       : <pc resp="#ed">,</pc>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+,                                       : <pc resp="#ed">,</pc>
+=>  Et conquister<pc resp="#ed">,</pc> doner <expan corresp="#ab-tir-7"><ex>et</ex></expan> prendre<pc resp="#ed">,</pc>
+
+124) Car largeche est mere 'd onor
+=>  Car largeche est mere 'd onor
+
+125) Et de pro~eche &7; 'd amor.
+~e                                      : <c ana="#hiat">e</c>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+.                                       : <pc resp="#ed">.</pc>
+=>  Et de pro<c ana="#hiat">e</c>che <expan corresp="#ab-tir-7"><ex>et</ex></expan> 'd amor<pc resp="#ed">.</pc>
+
+126) Einsi puet del segle *ioir,
+*i                                      : <c ana="#lram-c">i</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  Einsi puet del segle <c ana="#lram-c">i</c>oir<pc resp="#ed">,</pc>
+
+127) Amor [&7; henor] mantenir
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+=>  Amor [<expan corresp="#ab-tir-7"><ex>et</ex></expan> henor] mantenir
+
+128) Dont il ert del segle loéz
+é                                       : <c ana="#e-ton">e</c>
+=>  Dont il ert del segle lo<c ana="#e-ton">e</c>z
+
+129) Et aprés [sa mort] remenbréz.
+é                                       : <c ana="#e-ton">e</c>
+é                                       : <c ana="#e-ton">e</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  Et apr<c ana="#e-ton">e</c>s [sa mort] remenbr<c ana="#e-ton">e</c>z<pc resp="#ed">.</pc>
+
+130) &lgE;
+&lgE;                                   : </lg>
+=>  </lg>
+
+131) 
+=>  
+
+132) &lgB;
+&lgB;                                   : <lg>
+=>  <lg>
+
+133) [&hi-f;(D)E ce] me *uueil atant laissir,
+&hi-f;(D)                               : <hi rend="init-flour">D</hi>
+*u                                      : <c ana="#lram-c">u</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  [<hi rend="init-flour">D</hi>E ce] me <c ana="#lram-c">u</c>ueil atant laissir<pc resp="#ed">,</pc>
+
+134) [À mon] conte doi repairer.
+À                                       : <c ana="#diacr-desamb">A</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  [<c ana="#diacr-desamb">A</c> mon] conte doi repairer<pc resp="#ed">.</pc>
+
+135) Seignor, [_*ie sai assez] de fi
+,                                       : <pc resp="#ed">,</pc>
+*i                                      : <c ana="#lram-c">i</c>
+=>  Seignor<pc resp="#ed">,</pc> [_<c ana="#lram-c">i</c>e sai assez] de fi
+
+136) Que 'd &pers;(ALE,alixandre) a*uez o~i,
+&pers;(ALE,alixandre)                   : <persName ref="#ALE"><forename><w>alixandre</w></forename></persName>
+*u                                      : <c ana="#lram-c">u</c>
+~i                                      : <c ana="#hiat">i</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  Que 'd <persName ref="#ALE"><forename><w>alixandre</w></forename></persName> a<c ana="#lram-c">u</c>ez o<c ana="#hiat">i</c><pc resp="#ed">,</pc>
+
+137) Mais [_ne sa*uez] encore pas
+*u                                      : <c ana="#lram-c">u</c>
+=>  Mais [_ne sa<c ana="#lram-c">u</c>ez] encore pas
+
+138) Dont fu [sa mere] &pers;(OLI,olinpias);
+&pers;(OLI,olinpias)                    : <persName ref="#OLI"><forename><w>olinpias</w></forename></persName>
+;                                       : <pc resp="#ed">;</pc>
+=>  Dont fu [sa mere] <persName ref="#OLI"><forename><w>olinpias</w></forename></persName><pc resp="#ed">;</pc>
+
+139) Del &rol-pers;(FIL,roi,filipon) [ne sa*uez]
+&rol-pers;(FIL,roi,filipon)             : <persName ref="#FIL"><roleName><w>roi</w></roleName><forename><w>filipon</w></forename></persName>
+*u                                      : <c ana="#lram-c">u</c>
+=>  Del <persName ref="#FIL"><roleName><w>roi</w></roleName><forename><w>filipon</w></forename></persName> [ne sa<c ana="#lram-c">u</c>ez]
+
+140) Qui fu son pere &7; dont [fu néz].
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+é                                       : <c ana="#e-ton">e</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  Qui fu son pere <expan corresp="#ab-tir-7"><ex>et</ex></expan> dont [fu n<c ana="#e-ton">e</c>z]<pc resp="#ed">.</pc>
+
+141) Je \l dirai, que 'l ai [en memoire].
+,                                       : <pc resp="#ed">,</pc>
+.                                       : <pc resp="#ed">.</pc>
+=>  Je \l dirai<pc resp="#ed">,</pc> que 'l ai [en memoire]<pc resp="#ed">.</pc>
+
+142) Or eschoutez &mlt; riche estoire
+&mlt;                                   : <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan>
+=>  Or eschoutez <expan corresp="#ab-ctr-mlt">m<ex>u</ex>lt</expan> riche estoire
+
+143) Des rois, des princes qui [i sont],
+,                                       : <pc resp="#ed">,</pc>
+,                                       : <pc resp="#ed">,</pc>
+=>  Des rois<pc resp="#ed">,</pc> des princes qui [i sont]<pc resp="#ed">,</pc>
+
+144) Li plus est del &rol-pers;(FLO,roi,floriemont).
+&rol-pers;(FLO,roi,floriemont)          : <persName ref="#FLO"><roleName><w>roi</w></roleName><forename><w>floriemont</w></forename></persName>
+.                                       : <pc resp="#ed">.</pc>
+=>  Li plus est del <persName ref="#FLO"><roleName><w>roi</w></roleName><forename><w>floriemont</w></forename></persName><pc resp="#ed">.</pc>
+
+145) &lgE;
+&lgE;                                   : </lg>
+=>  </lg>
+
+146) 
+=>  
+
+147) &lgB;
+&lgB;                                   : <lg>
+=>  <lg>
+
+148) &hi-f;(C)E dit &pers;(AYM,aimes), or escoutez
+&hi-f;(C)                               : <hi rend="init-flour">C</hi>
+&pers;(AYM,aimes)                       : <persName ref="#AYM"><forename><w>aimes</w></forename></persName>
+,                                       : <pc resp="#ed">,</pc>
+=>  <hi rend="init-flour">C</hi>E dit <persName ref="#AYM"><forename><w>aimes</w></forename></persName><pc resp="#ed">,</pc> or escoutez
+
+149) *Vos qu&sub-tr-sup;(i,e) [li belz] diz entendez
+*V                                      : <c ana="#lram-c">V</c>
+&sub-tr-sup;(i,e)                       : <subst><del rend="transf">i</del><add place="sup">e</add></subst>
+=>  <c ana="#lram-c">V</c>os qu<subst><del rend="transf">i</del><add place="sup">e</add></subst> [li belz] diz entendez
+
+150) &corr;(Qua,quar) ici porons tro*uer +la flor
+&corr;(Qua,quar)                        : <choice><sic>Qua</sic><corr>quar</corr></choice>
+*u                                      : <c ana="#lram-c">u</c>
+=>  <choice><sic>Qua</sic><corr>quar</corr></choice> ici porons tro<c ana="#lram-c">u</c>er +la flor
+
+151) De contes li buen conteor,
+,                                       : <pc resp="#ed">,</pc>
+=>  De contes li buen conteor<pc resp="#ed">,</pc>
+
+152) 'D amor [&7; de] che*ualeries,
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+*u                                      : <c ana="#lram-c">u</c>
+,                                       : <pc resp="#ed">,</pc>
+=>  'D amor [<expan corresp="#ab-tir-7"><ex>et</ex></expan> de] che<c ana="#lram-c">u</c>aleries<pc resp="#ed">,</pc>
+
+153) 'D a*uentures &7; de cortesies,
+*u                                      : <c ana="#lram-c">u</c>
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+,                                       : <pc resp="#ed">,</pc>
+=>  'D a<c ana="#lram-c">u</c>entures <expan corresp="#ab-tir-7"><ex>et</ex></expan> de cortesies<pc resp="#ed">,</pc>
+
+154) Et de largece &7; 'd onor.
+&7;                                     : <expan corresp="#ab-tir-7"><ex>et</ex></expan>
+.                                       : <pc resp="#ed">.</pc>
+=>  Et de largece <expan corresp="#ab-tir-7"><ex>et</ex></expan> 'd onor<pc resp="#ed">.</pc>
+
+155) Or faites pais, o~iez seignor.
+,                                       : <pc resp="#ed">,</pc>
+~i                                      : <c ana="#hiat">i</c>
+.                                       : <pc resp="#ed">.</pc>
+=>  Or faites pais<pc resp="#ed">,</pc> o<c ana="#hiat">i</c>ez seignor<pc resp="#ed">.</pc>
+
+156) &lgE;
+&lgE;                                   : </lg>
+=>  </lg>
+
+157) 
+=>  
+
+158) &divE;
+&divE;                                  : </div>
+=>  </div>

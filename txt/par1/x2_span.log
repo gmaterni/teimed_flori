@@ -1,245 +1,151 @@
-Controllo direct./monolog
+>>>     directspeech     <<<
 
+ODRD  from:Gl3w3     {nom           <w xml:id="Gl3w3">{nom</w>
+CDRD  to  :Gl5w5     fu]}           <w xml:id="Gl5w5">fu]}</w>
 
-Controllo agglutination
+ODRD  from:Gl44w1    {Estoit        <w xml:id="Gl44w1">{Estoit</w>
+CDRD  to  :Gl48w6    paser}         <w xml:id="Gl48w6">paser}</w>
 
-OAGGLS    from:Gl2w1                [E
-CAGGL     to  :Gl2w2                uelt]
+>>>     monologue     <<<
 
-OAGGLS    from:Gl2w4                [de
-CAGGL     to  :Gl2w5                fin]
+OMON  from:Gl18w3    {_fu           <w xml:id="Gl18w3">{_fu</w>
+CMON  to  :Gl22w4    mariee_}       <w xml:id="Gl22w4">mar<c ana="#hiat">i</c>ee_}</w>
 
-OAGGLS    from:Gl5w2                [i
-CAGGL     to  :Gl5w3                puet]
+OMON  from:Gl70w2    {_icel         <w xml:id="Gl70w2">{_icel</w>
+CMON  to  :Gl76w3    fist_}         <w xml:id="Gl76w3">fis<add place="inl">t</add>_}</w>
 
-OAGGLS    from:Gl5w4                [de
-CAGGL     to  :Gl5w5                bien]
+>>>     agglutination     <<<
 
-OAGGLS    from:Gl6w1                [Si
-CAGGL     to  :Gl6w2                de]
+OAGLS from:Gl2w2     [ne            <w xml:id="Gl2w2">[ne</w>
+CAGLS to  :Gl2w4     enpire]        <w xml:id="Gl2w4">enpire]</w>
 
-OAGGLU    from:Gl7w4                [_que
-CAGGL     to  :Gl7w6                di]
+OAGLS from:Gl5w4     [i             <w xml:id="Gl5w4">[i</w>
+CAGLS to  :Gl5w5     fu]}           <w xml:id="Gl5w5">fu]}</w>
 
-OAGGLS    from:Gl10w6               [ne
-CAGGL     to  :Gl10w8               intent]
+OAGLS from:Gl8w6     [ne            <w xml:id="Gl8w6">[ne</w>
+CAGLS to  :Gl8w9     oist]          <w xml:id="Gl8w9">o<c ana="#hiat">i</c>st]</w>
 
-OAGGLS    from:Gl11w2               [il
-CAGGL     to  :Gl11w3               fu]
+OAGLS from:Gl9w2     [de            <w xml:id="Gl9w2">[de</w>
+CAGLS to  :Gl9w4     estorie]       <w xml:id="Gl9w4">estorie]</w>
 
-OAGGLU    from:Gl11w4               [_et
-CAGGL     to  :Gl11w5               feiz]
+OAGLS from:Gl10w3    [la            <w xml:id="Gl10w3">[la</w>
+CAGLS to  :Gl10w4    fin]           <w xml:id="Gl10w4">fin]</w>
 
-OAGGLU    from:Gl11w6               [_et
-CAGGL     to  :Gl11w7               diz]
+OAGLS from:Gl13w2    [en            <w xml:id="Gl13w2">[en</w>
+CAGLS to  :Gl13w3    gre]Grece      <w xml:id="Gl13w3">   <choice>     <sic>gre]</sic>     <corr>Grece</corr>   </choice> </w>
 
-OAGGLS    from:Gl12w4               [en
-CAGGL     to  :Gl12w5               escriz]
+OAGLS from:Gl14w5    [de            <w xml:id="Gl14w5">[de</w>
+CAGLS to  :Gl14w6    sa]            <w xml:id="Gl14w6">sa]</w>
 
-OAGGLS    from:Gl13w5               [en
-CAGGL     to  :Gl13w6               remenbrance]
+OAGLS from:Gl21w1    [Sa            <w xml:id="Gl21w1">[Sa</w>
+CAGLS to  :Gl21w2    mere]          <w xml:id="Gl21w2">mere]</w>
 
-OAGGLS    from:Gl14w6               [en
-CAGGL     to  :Gl14w7               france]
+OAGLS from:Gl25w3    [a             <w xml:id="Gl25w3">[<c ana="#diacr-desamb">a</c></w>
+CAGLS to  :Gl25w4    feme]          <w xml:id="Gl25w4">feme]</w>
 
-OAGGLS    from:Gl15w2               [en
-CAGGL     to  :Gl15w4               lengue]
+OAGLS from:Gl27w6    [de            <w xml:id="Gl27w6">[de</w>
+CAGLS to  :Gl27w8    tere]          <w xml:id="Gl27w8">tere]</w>
 
-OAGGLS    from:Gl16w1               [Le
-CAGGL     to  :Gl16w2               fist]
+OAGLS from:Gl29w3    [i             <w xml:id="Gl29w3">[i</w>
+CAGLS to  :Gl29w4    osa]           <w xml:id="Gl29w4">osa]</w>
 
-OAGGLU    from:Gl16w4               [_en
-CAGGL     to  :Gl16w5               lionois]
+OAGLS from:Gl31w1    [Jl            <w xml:id="Gl31w1">[<c ana="#lram-v">J</c>l</w>
+CAGLS to  :Gl31w2    e]             <w xml:id="Gl31w2">e]</w>
 
-OAGGLS    from:Gl18w4               [a
-CAGGL     to  :Gl18w5               chastilon]
+OAGLS from:Gl36w1    [Le            <w xml:id="Gl36w1">[Le</w>
+CAGLS to  :Gl36w2    uoir]          <w xml:id="Gl36w2"><c ana="#lram-c">u</c>oir]</w>
 
-OAGGLS    from:Gl19w1               [De
-CAGGL     to  :Gl19w2               filipon]
+OAGLS from:Gl38w4    [de            <w xml:id="Gl38w4">[de</w>
+CAGLS to  :Gl38w5    ses]           <w xml:id="Gl38w5">ses]</w>
 
-OAGGLS    from:Gl20w4               [en
-CAGGL     to  :Gl20w5               babilone]
+OAGLS from:Gl39w4    [le            <w xml:id="Gl39w4" function="link">[le</w>
+CAGLS to  :Gl39w5    cortois]       <w xml:id="Gl39w5">cortois]</w>
 
-OAGGLS    from:Gl21w3               [fil
-CAGGL     to  :Gl21w5               duc]
+OAGLS from:Gl45w3    [i             <w xml:id="Gl45w3">[i</w>
+CAGLS to  :Gl45w4    mist]          <w xml:id="Gl45w4">mist]</w>
 
-OAGGLU    from:Gl22w1               [_Qui
-CAGGL     to  :Gl22w2               estoit]
+OAGLS from:Gl47w5    [en            <w xml:id="Gl47w5">[en</w>
+CAGLS to  :Gl47w6    grece]         <w xml:id="Gl47w6">grece]</w>
 
-OAGGLS    from:Gl23w4               [en
-CAGGL     to  :Gl23w5               françois]
+OAGLS from:Gl51w6    [de            <w xml:id="Gl51w6">[de</w>
+CAGLS to  :Gl51w7    mer]           <w xml:id="Gl51w7">mer]</w>
 
-OAGGLS    from:Gl24w3               [en
-CAGGL     to  :Gl24w4               greçois]
+OAGLS from:Gl52w4    [en            <w xml:id="Gl52w4">[en</w>
+CAGLS to  :Gl52w5    grece]         <w xml:id="Gl52w5">grece]</w>
 
-OAGGLS    from:Gl27w3               [a
-CAGGL     to  :Gl27w4               chastillon]
+OAGLS from:Gl54w1    [Ja            <w xml:id="Gl54w1">[<c ana="#lram-c">J</c>a</w>
+CAGLS to  :Gl54w2    plus]          <w xml:id="Gl54w2">plus]</w>
 
-OAGGLS    from:Gl30w4               [en
-CAGGL     to  :Gl30w5               sa]
+OAGLS from:Gl56w3    [a             <w xml:id="Gl56w3">[a</w>
+CAGLS to  :Gl56w4    mant]          <w xml:id="Gl56w4">ma<expan corresp="#ab-tild-nas"><ex>n</ex></expan>t]</w>
 
-OAGGLS    from:Gl31w4               [en
-CAGGL     to  :Gl31w5               grece]
+OAGLS from:Gl59w6    [au            <w xml:id="Gl59w6">[au</w>
+CAGLS to  :Gl59w7    retor]         <w xml:id="Gl59w7">retor]</w>
 
-OAGGLS    from:Gl34w4               [en
-CAGGL     to  :Gl34w5               aporta]
+OAGLS from:Gl62w1    [Vn            <w xml:id="Gl62w1">[<c ana="#lram-v">V</c>n</w>
+CAGLS to  :Gl62w2    ore]           <w xml:id="Gl62w2">ore]</w>
 
-OAGGLS    from:Gl36w2               [a
-CAGGL     to  :Gl36w4               latin]
+OAGLS from:Gl62w3    [en            <w xml:id="Gl62w3">[en</w>
+CAGLS to  :Gl62w4    pais]          <w xml:id="Gl62w4">pais]</w>
 
-OAGGLS    from:Gl36w5               [en
-CAGGL     to  :Gl36w6               roman]
+OAGLS from:Gl62w7    [en            <w xml:id="Gl62w7">[en</w>
+CAGLS to  :Gl62w8    guere]         <w xml:id="Gl62w8">guere]</w>
 
-OAGGLS    from:Gl39w4               [des
-CAGGL     to  :Gl39w5               anciens]
+OAGLS from:Gl63w4    [de            <w xml:id="Gl63w4">[de</w>
+CAGLS to  :Gl63w5    sa]            <w xml:id="Gl63w5">sa]</w>
 
-OAGGLU    from:Gl40w4               [_qui
-CAGGL     to  :Gl40w5               ont]
+OAGLS from:Gl73w3    {3%[de         <w xml:id="Gl73w3">{3%[de</w>
+CAGLS to  :Gl73w4    sa]            <w xml:id="Gl73w4">sa]</w>
 
-OAGGLS    from:Gl41w2               [de
-CAGGL     to  :Gl41w3               lor]
+OAGLS from:Gl85w5    [en            <w xml:id="Gl85w5">[en</w>
+CAGLS to  :Gl85w6    geste]         <w xml:id="Gl85w6">geste]</w>
 
-OAGGLS    from:Gl43w2               [les
-CAGGL     to  :Gl43w3               anciens]
+OAGLS from:Gl86w3    [a             <w xml:id="Gl86w3">[<c ana="#diacr-desamb">a</c></w>
+CAGLS to  :Gl86w4    cele]          <w xml:id="Gl86w4">cele]</w>
 
-OAGGLS    from:Gl45w4               [en
-CAGGL     to  :Gl45w5               escriz]
+OAGLS from:Gl87w3    [i             <w xml:id="Gl87w3">[i</w>
+CAGLS to  :Gl87w4    dona]          <w xml:id="Gl87w4">dona]</w>
 
-OAGGLS    from:Gl46w4               [la
-CAGGL     to  :Gl46w5               uerite]
+OAGLS from:Gl87w5    [a             <w xml:id="Gl87w5">[<c ana="#diacr-desamb">a</c></w>
+CAGLS to  :Gl87w7    gent]          <w xml:id="Gl87w7">gent]</w>
 
-OAGGLS    from:Gl50w3               [i
-CAGGL     to  :Gl50w4               puet]
+OAGLS from:Gl88w4    [e             <w xml:id="Gl88w4">[e</w>
+CAGLS to  :Gl88w5    de]            <w xml:id="Gl88w5">de]</w>
 
-OAGGLU    from:Gl55w3               [_fu
-CAGGL     to  :Gl55w4               dame]
+>>>     agglutination_uncert     <<<
 
-OAGGLU    from:Gl55w5               [_et
-CAGGL     to  :Gl55w6               roine]
+OAGLU from:Gl7w5     [_ne           <w xml:id="Gl7w5">[_ne</w>
+CAGLU to  :Gl7w6     uos_]          <w xml:id="Gl7w6"><c ana="#lram-c">u</c>os_]</w>
 
-OAGGLS    from:Gl60w3               [se
-CAGGL     to  :Gl60w4               muert]
+OAGLU from:Gl11w4    [_que          <w xml:id="Gl11w4">[_<expan corresp="#ab-tild-q">q<ex>ue</ex></expan></w>
+CAGLU to  :Gl11w5    ie_]           <w xml:id="Gl11w5"><c ana="#lram-c">i</c>e_]</w>
 
-OAGGLS    from:Gl61w1               [OR
-CAGGL     to  :Gl61w2               ne]
+OAGLU from:Gl20w2    [_il           <w xml:id="Gl20w2">[_il</w>
+CAGLU to  :Gl20w4    nes_]          <w xml:id="Gl20w4">n<c ana="#e-ton">e</c>s_]</w>
 
-OAGGLS    from:Gl62w4               [qui
-CAGGL     to  :Gl62w5               a]
+OAGLU from:Gl52w1    [_Pora         <w xml:id="Gl52w1">[_Pora</w>
+CAGLU to  :Gl52w2    il_]           <w xml:id="Gl52w2">il_]</w>
 
-OAGGLS    from:Gl63w1               [O
-CAGGL     to  :Gl63w2               soit]
+OAGLU from:Gl59w2    [_a            <w xml:id="Gl59w2">[_<c ana="#diacr-desamb">a</c></w>
+CAGLU to  :Gl59w4    aler_]         <w xml:id="Gl59w4">aler_]</w>
 
-OAGGLS    from:Gl63w4               [o
-CAGGL     to  :Gl63w5               soit]
+>>>     damage     <<<
 
-OAGGLS    from:Gl64w3               [par
-CAGGL     to  :Gl64w4               toz]
+>>>     damagel_low     <<<
 
-OAGGLS    from:Gl68w2               [il
-CAGGL     to  :Gl68w4               est]
+ODAML from:Gl21w4    {1%de          <w xml:id="Gl21w4">{1%de</w>
+CDAML to  :Gl30w4    auoitavoir%1}  <w xml:id="Gl30w4">   <choice>     <sic>auoit</sic>     <corr>avoir%1}</corr>   </choice> </w>
 
-OAGGLS    from:Gl69w3               [ne
-CAGGL     to  :Gl69w4               set]
+>>>     damage_medium     <<<
 
-OAGGLS    from:Gl69w7               [ne
-CAGGL     to  :Gl69w8               uoit]
+ODAMM from:Gl7w3     {2%pois        <w xml:id="Gl7w3">{2%pois</w>
+CDAMM to  :Gl14w7    loi%2}         <w xml:id="Gl14w7">loi%2}</w>
 
-OAGGLS    from:Gl71w5               [a
-CAGGL     to  :Gl71w6               ioie]
+>>>     damage_high     <<<
 
-OAGGLS    from:Gl72w3               [le
-CAGGL     to  :Gl72w4               pert]
+ODAMH from:Gl1w3     {3%romullus    <w xml:id="Gl1w3">{3%romullus</w>
+CDAMH to  :Gl6w7     tort%3}        <w xml:id="Gl6w7">tort%3}</w>
 
-OAGGLS    from:Gl77w3               [et
-CAGGL     to  :Gl77w4               por]
-
-OAGGLS    from:Gl78w4               [en
-CAGGL     to  :Gl78w5               terre]
-
-OAGGLS    from:Gl78w8               [en
-CAGGL     to  :Gl78w9               mer]
-
-OAGGLS    from:Gl79w5               [et
-CAGGL     to  :Gl79w7               gerre]
-
-OAGGLS    from:Gl80w6               [et
-CAGGL     to  :Gl80w8               terre]
-
-OAGGLU    from:Gl81w4               [_et
-CAGGL     to  :Gl81w6               gerpist]
-
-OAGGLU    from:Gl83w3               [_di
-CAGGL     to  :Gl83w4               pas]
-
-OAGGLU    from:Gl84w1               [_Ne
-CAGGL     to  :Gl84w2               puet]
-
-OAGGLS    from:Gl85w4               [et
-CAGGL     to  :Gl85w5               poi]
-
-OAGGLU    from:Gl86w5               [_la
-CAGGL     to  :Gl86w6               honte]
-
-OAGGLU    from:Gl88w4               [_da
-CAGGL     to  :Gl88w5               toute]
-
-OAGGLS    from:Gl89w1               [Li
-CAGGL     to  :Gl89w2               uns]
-
-OAGGLS    from:Gl89w7               [a
-CAGGL     to  :Gl89w8               mestiers]
-
-OAGGLU    from:Gl91w2               [_li
-CAGGL     to  :Gl91w3               uns]
-
-OAGGLS    from:Gl91w4               [a
-CAGGL     to  :Gl91w6               autre]
-
-OAGGLS    from:Gl93w5               [de
-CAGGL     to  :Gl93w6               mainte]
-
-OAGGLS    from:Gl94w5               [a
-CAGGL     to  :Gl94w6               noient]
-
-OAGGLS    from:Gl100w2              [et
-CAGGL     to  :Gl100w3              henor]
-
-OAGGLS    from:Gl102w3              [sa
-CAGGL     to  :Gl102w4              mort]
-
-OAGGLS    from:Gl103w1              [DE
-CAGGL     to  :Gl103w2              ce]
-
-OAGGLS    from:Gl104w1              [A
-CAGGL     to  :Gl104w2              mon]
-
-OAGGLU    from:Gl105w2              [_ie
-CAGGL     to  :Gl105w4              assez]
-
-OAGGLU    from:Gl107w2              [_ne
-CAGGL     to  :Gl107w3              sauez]
-
-OAGGLS    from:Gl108w3              [sa
-CAGGL     to  :Gl108w4              mere]
-
-OAGGLS    from:Gl109w4              [ne
-CAGGL     to  :Gl109w5              sauez]
-
-OAGGLS    from:Gl110w7              [fu
-CAGGL     to  :Gl110w8              nez]
-
-OAGGLS    from:Gl111w7              [en
-CAGGL     to  :Gl111w8              memoire]
-
-OAGGLS    from:Gl113w6              [i
-CAGGL     to  :Gl113w7              sont]
-
-OAGGLS    from:Gl116w3              [li
-CAGGL     to  :Gl116w4              belz]
-
-OAGGLS    from:Gl119w3              [et
-CAGGL     to  :Gl119w4              de]
-
-
-Controllo damage
+ODAMH from:Gl73w3    {3%[de         <w xml:id="Gl73w3">{3%[de</w>
+CDAMH to  :Gl75w7    cher%3}        <w xml:id="Gl75w7">cher%3}</w>
 

@@ -4,22 +4,22 @@
 &cb-a;
 
 &lgB;
-&hi-i;(C)^Jl [qui a] %0cuer &de; *uaselage
+&hi-i;(C)^Jl [qui a] {0_cuer &de; *uaselage
 [E *uuelt] amer &de; bon corage,
 'S il *uueut o~ir [e escolter]
-Ce que &pers;(AYM,aymes) *uelt recunter0%
+Ce que &pers;(AYM,aymes) *uelt recunter_0}
 Assez puet &de; biez aprendre,
 Se de buez cuer il *uuelt intendre.
 Or o~iez, seignors, che ge di.
-&pers;(AYM,Aymes) %0por &pers;(JUL,analui)
+&pers;(AYM,Aymes) {0_por &pers;(JUL,analui)
 Fist le romai&n;s ta&n; se*iema&n;t
 Que &corr;(tens,teus) 'l ora &que; ne entent		<!-- CORR n/u -->
-Por_quoi il fu fais et dis.0%
+Por_quoi il fu fais et dis._0}
 [Por &pers;(ANA,anal&add-int;(u)ina]) fu escris.
 Toz &corr;(io&r;sr,jors) mais [en iert] rame&n;bra&n;`çe.
-[_^Jl ne fu] mie fais +en &pl-reg;(FRA,fran`çe)
-Mais [_en la] %0lengue des francois
-Le fist &pers;(AYM,Aymes) [en0% &pl-cit;(LIO,lionors]).		<!-- SIC o NOTA per lionors>lionois? -->
+[_^Jl ne fu_] mie fais +en &pl-reg;(FRA,fran`çe)
+Mais [_en la] {0_lengue des francois
+Le fist &pers;(AYM,Aymes) [en_0} &pl-cit;(LIO,lionors]).		<!-- SIC o NOTA per lionors>lionois? -->
 &pers;(AYM,Aymes) &add-inl;(i) mist 's ente&n;ciuz.
 Le romay&n;&sub-tr-sup;(z,s) fist [à &pl-cit;(CHA,chastelluz])		<!-- SUB z,s -->
 De &pers-reg;(FIL,felipon,de,MAC,macedoine)
@@ -66,7 +66,7 @@ De *ioie fu dame [e ro~ine],
 Or est &del-cr;(al) a*uere&del-ex;(re) e frarine;
 Lors estoit 'd oner coronee,				<!-- SIC? doner>donor o NOTA -->
 Por co*uoitise est or tuee;
-Non a*uoit pas [_en li] nul *uice
+Non a*uoit pas [_en li_] nul *uice
 Mais or se mue&r;t por a*uarice.
 &lgE;
 

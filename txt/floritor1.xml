@@ -8,11 +8,11 @@
         <title>Title</title>
       </titleStmt>
       <publicationStmt>
-        <p>Publication Information</p>
-      </publicationStmt>
+            Publication Information
+         </publicationStmt>
       <sourceDesc>
-        <p>Information about the source</p>
-      </sourceDesc>
+            Information about the source
+         </sourceDesc>
     </fileDesc>
   </teiHeader>
   <text>
@@ -26,7 +26,7 @@
               <w xml:id="Gl1w1"><hi rend="init-ill">C</hi><c ana="#lram-v">J</c>l</w>
               <w xml:id="Gl1w2">qui</w>
               <w xml:id="Gl1w3">a</w>
-              <w xml:id="Gl1w4">cuer</w>
+              <w xml:id="Gl1w4">0 cuer</w>
               <w xml:id="Gl1w5">
                 <expan corresp="#ab-lm-dbarr">d<ex>e</ex></expan>
               </w>
@@ -60,7 +60,7 @@
                 </forename>
               </persName>
               <w xml:id="Gl4w4"><c ana="#lram-c">u</c>elt</w>
-              <w xml:id="Gl4w5">recunter</w>
+              <w xml:id="Gl4w5">recunter 0</w>
             </l>
             <l n="5" xml:id="Gl5">
               <w xml:id="Gl5w1">Assez</w>
@@ -99,7 +99,7 @@
                   <w xml:id="Gl8w1">Aymes</w>
                 </forename>
               </persName>
-              <w xml:id="Gl8w2">por</w>
+              <w xml:id="Gl8w2">0 por</w>
               <persName ref="#JUL">
                 <forename>
                   <w xml:id="Gl8w3">analui</w>
@@ -137,7 +137,7 @@
               <w xml:id="Gl11w5">et</w>
               <w xml:id="Gl11w6">dis</w>
               <pc xml:id="Gl11pc1" resp="#ed">.</pc>
-              <w xml:id="Gl11w7"/>
+              <w xml:id="Gl11w7"> 0</w>
             </l>
             <l n="12" xml:id="Gl12">
               <w xml:id="Gl12w1">Por</w>
@@ -165,9 +165,9 @@
               <pc xml:id="Gl13pc1" resp="#ed">.</pc>
             </l>
             <l n="14" xml:id="Gl14">
-              <w xml:id="Gl14w1"><c ana="#lram-v">J</c>l</w>
+              <w xml:id="Gl14w1">_<c ana="#lram-v">J</c>l</w>
               <w xml:id="Gl14w2">ne</w>
-              <w xml:id="Gl14w3">fu</w>
+              <w xml:id="Gl14w3">fu_</w>
               <w xml:id="Gl14w4">mie</w>
               <w xml:id="Gl14w5">fais</w>
               <w xml:id="Gl14w6">+en</w>
@@ -179,9 +179,9 @@
             </l>
             <l n="15" xml:id="Gl15">
               <w xml:id="Gl15w1">Mais</w>
-              <w xml:id="Gl15w2">en</w>
+              <w xml:id="Gl15w2">_en</w>
               <w xml:id="Gl15w3">la</w>
-              <w xml:id="Gl15w4">lengue</w>
+              <w xml:id="Gl15w4">0 lengue</w>
               <w xml:id="Gl15w5">des</w>
               <w xml:id="Gl15w6">francois</w>
             </l>
@@ -193,7 +193,7 @@
                   <w xml:id="Gl16w3">Aymes</w>
                 </forename>
               </persName>
-              <w xml:id="Gl16w4">en</w>
+              <w xml:id="Gl16w4">en 0</w>
               <placeName type="city" ref="#LIO">
                 <name>
                   <w xml:id="Gl16w5">lionors</w>
@@ -256,7 +256,7 @@
             </l>
             <l n="21" xml:id="Gl21">
               <w xml:id="Gl21w1">E</w>
-              <w xml:id="Gl21w2">del</w>
+              <w xml:id="Gl21w2">_del</w>
               <w xml:id="Gl21w3">fis</w>
               <w xml:id="Gl21w4">au</w>
               <persName ref="#MAT">
@@ -627,8 +627,8 @@
               <w xml:id="Gl59w1">Non</w>
               <w xml:id="Gl59w2">a<c ana="#lram-c">u</c>oit</w>
               <w xml:id="Gl59w3">pas</w>
-              <w xml:id="Gl59w4">en</w>
-              <w xml:id="Gl59w5">li</w>
+              <w xml:id="Gl59w4">_en</w>
+              <w xml:id="Gl59w5">li_</w>
               <w xml:id="Gl59w6">nul</w>
               <w xml:id="Gl59w7"><c ana="#lram-c">u</c>ice</w>
             </l>
@@ -1140,7 +1140,7 @@
               <w xml:id="Gl109w5">sa<c ana="#lram-c">u</c><c ana="#e-ton">e</c>s</w>
             </l>
             <l n="110" xml:id="Gl110">
-              <w xml:id="Gl110w1">Qui</w>
+              <w xml:id="Gl110w1">_Qui</w>
               <w xml:id="Gl110w2">fu</w>
               <w xml:id="Gl110w3">ses</w>
               <w xml:id="Gl110w4">peres</w>
@@ -1236,7 +1236,7 @@
             <l n="119" xml:id="Gl119">
               <w xml:id="Gl119w1" ana="#elis">D</w>
               <w xml:id="Gl119w2">amors</w>
-              <w xml:id="Gl119w3">e</w>
+              <w xml:id="Gl119w3">_e</w>
               <w xml:id="Gl119w4">de</w>
               <w xml:id="Gl119w5">chi<c ana="#lram-c">u</c>alaries</w>
               <pc xml:id="Gl119pc1" resp="#ed">,</pc>
@@ -1250,7 +1250,7 @@
               <pc xml:id="Gl120pc2" resp="#ed">.</pc>
             </l>
             <l n="121" xml:id="Gl121">
-              <w xml:id="Gl121w1">Or</w>
+              <w xml:id="Gl121w1">_Or</w>
               <w xml:id="Gl121w2">faites</w>
               <w xml:id="Gl121w3">pais</w>
               <pc xml:id="Gl121pc1" resp="#ed">,</pc>
@@ -1268,16 +1268,16 @@
               <pc xml:id="Gl122pc1" resp="#ed">.</pc>
             </l>
           </lg>
+          <span from="Gl1w4" to="Gl4w5" type="directspeech"/>
+          <span from="Gl8w2" to="Gl11w7" type="directspeech"/>
+          <span from="Gl15w4" to="Gl16w4" type="directspeech"/>
           <span from="Gl1w2" to="Gl1w3" type="agglutination"/>
           <span from="Gl2w1" to="Gl2w2" type="agglutination"/>
           <span from="Gl3w5" to="Gl3w6" type="agglutination"/>
           <span from="Gl12w1" to="Gl12w2" type="agglutination"/>
-          <span from="Gl13w4" to="Gl13w5" type="agglutination"/>
-          <span from="Gl14w1" to="Gl14w3" type="agglutination_uncert"/>
-          <span from="Gl15w2" to="Gl15w3" type="agglutination_uncert"/>
+          <span from="Gl13w4" to="Gl15w3" type="agglutination"/>
           <span from="Gl16w4" to="Gl16w5" type="agglutination"/>
-          <span from="Gl18w4" to="Gl18w5" type="agglutination"/>
-          <span from="Gl21w2" to="Gl21w3" type="agglutination_uncert"/>
+          <span from="Gl18w4" to="Gl21w3" type="agglutination"/>
           <span from="Gl21w4" to="Gl21w5" type="agglutination"/>
           <span from="Gl23w4" to="Gl23w5" type="agglutination"/>
           <span from="Gl24w3" to="Gl24w4" type="agglutination"/>
@@ -1292,7 +1292,6 @@
           <span from="Gl50w3" to="Gl50w4" type="agglutination"/>
           <span from="Gl53w2" to="Gl53w3" type="agglutination"/>
           <span from="Gl55w5" to="Gl55w6" type="agglutination"/>
-          <span from="Gl59w4" to="Gl59w5" type="agglutination_uncert"/>
           <span from="Gl61w1" to="Gl61w2" type="agglutination"/>
           <span from="Gl62w4" to="Gl62w5" type="agglutination"/>
           <span from="Gl63w1" to="Gl63w2" type="agglutination"/>
@@ -1306,16 +1305,17 @@
           <span from="Gl87w4" to="Gl87w5" type="agglutination"/>
           <span from="Gl90w5" to="Gl90w7" type="agglutination"/>
           <span from="Gl94w5" to="Gl94w6" type="agglutination"/>
-          <span from="Gl103w1" to="Gl103w2" type="agglutination"/>
-          <span from="Gl110w1" to="Gl110w3" type="agglutination_uncert"/>
+          <span from="Gl103w1" to="Gl110w3" type="agglutination"/>
           <span from="Gl111w4" to="Gl111w6" type="agglutination"/>
           <span from="Gl111w7" to="Gl111w8" type="agglutination"/>
-          <span from="Gl113w6" to="Gl113w7" type="agglutination"/>
-          <span from="Gl119w3" to="Gl119w4" type="agglutination_uncert"/>
-          <span from="Gl121w1" to="Gl121w2" type="agglutination_uncert"/>
-          <span from="Gl1w4" to="Gl4w5" type="damage"/>
-          <span from="Gl8w2" to="Gl11pc1" type="damage"/>
-          <span from="Gl15w4" to="Gl16w4" type="damage"/>
+          <span from="Gl113w6" to="Gl121w2" type="agglutination"/>
+          <span from="Gl14w1" to="Gl14w3" type="agglutination_uncert"/>
+          <span from="Gl15w2" to="" type="agglutination_uncert"/>
+          <span from="Gl21w2" to="" type="agglutination_uncert"/>
+          <span from="Gl59w4" to="Gl59w5" type="agglutination_uncert"/>
+          <span from="Gl110w1" to="" type="agglutination_uncert"/>
+          <span from="Gl119w3" to="" type="agglutination_uncert"/>
+          <span from="Gl121w1" to="" type="agglutination_uncert"/>
         </div>
         <div type="episode" ref="#ep1">
           <lg xml:id="Glg6">
@@ -1395,7 +1395,7 @@
               <w xml:id="Gl129w2"><c ana="#lram-c">u</c>os</w>
               <w xml:id="Gl129w3">pois</w>
               <w xml:id="Gl129w4">dire</w>
-              <w xml:id="Gl129w5">ne</w>
+              <w xml:id="Gl129w5">_ne</w>
               <w xml:id="Gl129w6"><c ana="#lram-c">u</c>os</w>
               <w xml:id="Gl129w7">poist</w>
             </l>
@@ -1440,9 +1440,7 @@
               <w xml:id="Gl133w1"><choice><sic><hi rend="init-flour">Q</hi></sic><corr>D</corr></choice>E<c ana="#lram-c">u</c>ant</w>
               <w xml:id="Gl133w2">le</w>
               <w xml:id="Gl133w3">tens</w>
-              <w xml:id="Gl133w4">
-                <expan corresp="#ab-tild-q">q<ex>ue</ex></expan>
-              </w>
+              <w xml:id="Gl133w4">_<expan corresp="#ab-tild-q">q<ex>ue</ex></expan></w>
               <w xml:id="Gl133w5"><c ana="#lram-c">i</c>e</w>
               <w xml:id="Gl133w6"><c ana="#lram-c">u</c>os</w>
               <w xml:id="Gl133w7">di</w>
@@ -1540,7 +1538,7 @@
             </l>
             <l n="142" xml:id="Gl142">
               <w xml:id="Gl142w1">Mais</w>
-              <w xml:id="Gl142w2">il</w>
+              <w xml:id="Gl142w2">_il</w>
               <w xml:id="Gl142w3">fu</w>
               <w xml:id="Gl142w4">n<c ana="#e-ton">e</c>s</w>
               <w xml:id="Gl142w5">de</w>
@@ -2327,7 +2325,7 @@
               <w xml:id="Gl211w5"><c ana="#lram-c">i</c>or</w>
             </l>
             <l n="212" xml:id="Gl212">
-              <w xml:id="Gl212w1">E</w>
+              <w xml:id="Gl212w1">_E</w>
               <w xml:id="Gl212w2">par</w>
               <w xml:id="Gl212w3">pro<c ana="#hiat">e</c>çe</w>
               <w xml:id="Gl212w4">e</w>
@@ -2916,7 +2914,7 @@
                   <w xml:id="Gl266w3">gipte</w>
                 </name>
               </placeName>
-              <w xml:id="Gl266w4">e</w>
+              <w xml:id="Gl266w4">_e</w>
               <w xml:id="Gl266w5">de</w>
               <placeName type="region" ref="#NUN">
                 <name>
@@ -3259,7 +3257,7 @@
                   <w xml:id="Gl302w2">damiate</w>
                 </name>
               </placeName>
-              <w xml:id="Gl302w3">la</w>
+              <w xml:id="Gl302w3">_la</w>
               <w xml:id="Gl302w4">cit<c ana="#e-ton">e</c></w>
               <pc xml:id="Gl302pc1" resp="#ed">.</pc>
             </l>
@@ -3447,7 +3445,7 @@
               <pc xml:id="Gl319pc1" resp="#ed">:</pc>
             </l>
             <l n="320" xml:id="Gl320">
-              <w xml:id="Gl320w1"><c ana="#lram-v">J</c>l</w>
+              <w xml:id="Gl320w1">_<c ana="#lram-v">J</c>l</w>
               <w xml:id="Gl320w2" ana="#elis">t</w>
               <w xml:id="Gl320w3">a<c ana="#lram-c">u</c>ra</w>
               <w xml:id="Gl320w4">buen</w>
@@ -5098,7 +5096,7 @@
             <l n="482" xml:id="Gl482">
               <w xml:id="Gl482w1"><c ana="#lram-v">J</c>l</w>
               <w xml:id="Gl482w2">lor</w>
-              <w xml:id="Gl482w3">a</w>
+              <w xml:id="Gl482w3">_a</w>
               <w xml:id="Gl482w4">sun</w>
               <w xml:id="Gl482w5">a<c ana="#lram-c">u</c>oir</w>
               <w xml:id="Gl482w6">don<c ana="#e-ton">e</c></w>
@@ -5159,15 +5157,14 @@
           <span from="Gl407w4" to="Gl410w5" type="directspeech"/>
           <span from="Gl413w4" to="Gl416w6" type="directspeech"/>
           <span from="Gl417w3" to="Gl426pc1" type="directspeech"/>
+          <span from="Gl438w6" to="" type="directspeech"/>
           <span from="Gl124w2" to="Gl124w4" type="agglutination"/>
-          <span from="Gl127w4" to="Gl127w5" type="agglutination"/>
-          <span from="Gl129w5" to="Gl129w6" type="agglutination_uncert"/>
+          <span from="Gl127w4" to="Gl129w6" type="agglutination"/>
           <span from="Gl130w6" to="Gl130w9" type="agglutination"/>
           <span from="Gl131w2" to="Gl131w4" type="agglutination"/>
-          <span from="Gl132w3" to="Gl132w4" type="agglutination"/>
-          <span from="Gl133w4" to="Gl133w5" type="agglutination_uncert"/>
-          <span from="Gl136w5" to="Gl136w6" type="agglutination"/>
-          <span from="Gl142w2" to="Gl142w4" type="agglutination_uncert"/>
+          <span from="Gl132w3" to="Gl133w5" type="agglutination"/>
+          <span from="Gl135w2" to="" type="agglutination"/>
+          <span from="Gl136w5" to="Gl142w4" type="agglutination"/>
           <span from="Gl143w1" to="Gl143w2" type="agglutination"/>
           <span from="Gl147w3" to="Gl147w4" type="agglutination"/>
           <span from="Gl149w6" to="Gl149w8" type="agglutination"/>
@@ -5177,8 +5174,10 @@
           <span from="Gl160w4" to="Gl160w5" type="agglutination"/>
           <span from="Gl161w4" to="Gl161w5" type="agglutination"/>
           <span from="Gl167w3" to="Gl167w4" type="agglutination"/>
+          <span from="Gl169w5" to="" type="agglutination"/>
           <span from="Gl173w6" to="Gl173w7" type="agglutination"/>
           <span from="Gl174w1" to="Gl174w2" type="agglutination"/>
+          <span from="Gl174w4" to="" type="agglutination"/>
           <span from="Gl176w1" to="Gl176w2" type="agglutination"/>
           <span from="Gl178w3" to="Gl178w4" type="agglutination"/>
           <span from="Gl181w2" to="Gl181w4" type="agglutination"/>
@@ -5192,8 +5191,7 @@
           <span from="Gl208w3" to="Gl208w4" type="agglutination"/>
           <span from="Gl209w3" to="Gl209w4" type="agglutination"/>
           <span from="Gl209w5" to="Gl209w7" type="agglutination"/>
-          <span from="Gl210w4" to="Gl210w5" type="agglutination"/>
-          <span from="Gl212w1" to="Gl212w2" type="agglutination_uncert"/>
+          <span from="Gl210w4" to="Gl212w2" type="agglutination"/>
           <span from="Gl212w4" to="Gl212w5" type="agglutination"/>
           <span from="Gl214w4" to="Gl214w5" type="agglutination"/>
           <span from="Gl219w1" to="Gl219w2" type="agglutination"/>
@@ -5210,11 +5208,11 @@
           <span from="Gl254w3" to="Gl254w5" type="agglutination"/>
           <span from="Gl259w3" to="Gl259w4" type="agglutination"/>
           <span from="Gl261w4" to="Gl261w5" type="agglutination"/>
-          <span from="Gl263w6" to="Gl263w7" type="agglutination"/>
-          <span from="Gl266w4" to="Gl266w5" type="agglutination_uncert"/>
+          <span from="Gl263w6" to="Gl266w5" type="agglutination"/>
           <span from="Gl271w3" to="Gl271w4" type="agglutination"/>
           <span from="Gl272w2" to="Gl272w3" type="agglutination"/>
           <span from="Gl274w3" to="Gl274w4" type="agglutination"/>
+          <span from="Gl275w3" to="" type="agglutination"/>
           <span from="Gl276w2" to="Gl276w3" type="agglutination"/>
           <span from="Gl281w2" to="Gl281w3" type="agglutination"/>
           <span from="Gl284w1" to="Gl284w2" type="agglutination"/>
@@ -5225,15 +5223,14 @@
           <span from="Gl297w6" to="Gl297w7" type="agglutination"/>
           <span from="Gl298w1" to="Gl298w2" type="agglutination"/>
           <span from="Gl300w3" to="Gl300w4" type="agglutination"/>
-          <span from="Gl300w6" to="Gl300w7" type="agglutination"/>
-          <span from="Gl302w3" to="Gl302w4" type="agglutination_uncert"/>
+          <span from="Gl300w6" to="Gl302w4" type="agglutination"/>
           <span from="Gl309w1" to="Gl309w2" type="agglutination"/>
           <span from="Gl310w2" to="Gl310w3" type="agglutination"/>
           <span from="Gl310w4" to="Gl310w5" type="agglutination"/>
+          <span from="Gl313w2" to="" type="agglutination"/>
           <span from="Gl315w6" to="Gl315w7" type="agglutination"/>
           <span from="Gl319w1" to="Gl319w2" type="agglutination"/>
-          <span from="Gl319w5" to="Gl319w6" type="agglutination"/>
-          <span from="Gl320w1" to="Gl320w3" type="agglutination_uncert"/>
+          <span from="Gl319w5" to="Gl320w3" type="agglutination"/>
           <span from="Gl320w6" to="Gl320w7" type="agglutination"/>
           <span from="Gl321w4" to="Gl321w5" type="agglutination"/>
           <span from="Gl323w5" to="Gl323w7" type="agglutination"/>
@@ -5244,6 +5241,7 @@
           <span from="Gl339w5" to="Gl339w6" type="agglutination"/>
           <span from="Gl340w2" to="Gl340w3" type="agglutination"/>
           <span from="Gl341w4" to="Gl341w5" type="agglutination"/>
+          <span from="Gl344w3" to="" type="agglutination"/>
           <span from="Gl355w3" to="Gl355w4" type="agglutination"/>
           <span from="Gl356w4" to="Gl356w5" type="agglutination"/>
           <span from="Gl359w4" to="Gl359w5" type="agglutination"/>
@@ -5277,6 +5275,7 @@
           <span from="Gl432w1" to="Gl432w2" type="agglutination"/>
           <span from="Gl438w1" to="Gl438w2" type="agglutination"/>
           <span from="Gl438w4" to="Gl438w5" type="agglutination"/>
+          <span from="Gl438w6" to="" type="agglutination"/>
           <span from="Gl440w3" to="Gl440w4" type="agglutination"/>
           <span from="Gl443w1" to="Gl443w2" type="agglutination"/>
           <span from="Gl445w4" to="Gl445w5" type="agglutination"/>
@@ -5290,8 +5289,17 @@
           <span from="Gl468w2" to="Gl468w3" type="agglutination"/>
           <span from="Gl471w1" to="Gl471w2" type="agglutination"/>
           <span from="Gl472w4" to="Gl472w5" type="agglutination"/>
-          <span from="Gl482w3" to="Gl482w4" type="agglutination_uncert"/>
+          <span from="Gl479w2" to="" type="agglutination"/>
+          <span from="Gl480w4" to="Gl482w4" type="agglutination"/>
           <span from="Gl486w1" to="Gl486w2" type="agglutination"/>
+          <span from="Gl129w5" to="" type="agglutination_uncert"/>
+          <span from="Gl133w4" to="" type="agglutination_uncert"/>
+          <span from="Gl142w2" to="" type="agglutination_uncert"/>
+          <span from="Gl212w1" to="" type="agglutination_uncert"/>
+          <span from="Gl266w4" to="" type="agglutination_uncert"/>
+          <span from="Gl302w3" to="" type="agglutination_uncert"/>
+          <span from="Gl320w1" to="" type="agglutination_uncert"/>
+          <span from="Gl482w3" to="" type="agglutination_uncert"/>
         </div>
       </body>
       <back>

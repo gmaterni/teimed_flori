@@ -9,7 +9,8 @@
         [
             "teimspan.py",
             "-i txt/tou1/x1.xml",
-            "-o txt/tou1/x2.xml"
+            "-o txt/tou1/x2.xml",
+            "-c cfg/fromtotag.csv"
         ],
         [
             "teimnote.py",

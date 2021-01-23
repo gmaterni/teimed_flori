@@ -1,11 +1,12 @@
 &div-epB;(ep1)
 
 &lgB;									
-De*uant     que &pers;(ROM,{3%romullus) fuist
+YYYDe*uant  que &pers;(ROM,{3%romullus) fuist
+AAA questa &sub-ex-int;(esame,prova)%3}
 &pl-cit;(ROE,Rome) [ne 'l enpire] tenist,
 De*uant a*uoit {nom &pl-cit;(ROE,pelantee);
 De    &pers;(ROM,romol&sub-tr-sup;(e,o)) &pl-cit;(ROE,rome) \st nomee.
-Ses freres &pers;(REM,remus) [i fu]} mors
+Ses freres &pers;(REM,{3%remus) [i fu]} mors
 Dunt il fu gra&n;s pechiés e tort%3}.
 Ne *uos {2%pois dire [_ne *uos_] poist
 Com il fu mors, &que; [ne me 'l o~ist],

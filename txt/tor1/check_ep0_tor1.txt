@@ -1,0 +1,33 @@
+
+** txt/tor1/eps/ep0_tor1.txt  **
+
+>>>  damage_medium  {2%  %2}    
+
+{2%Quan do l'a mata valle into
+o l'a mata valle intorno a me %2}
+
+>>>  directspeech  {  }   Missing (1) } 
+
+{ qu este belle mattinate di m
+o {  che se mbra esser creato }
+
+{ egro di vivere in questo luo ** { Internal
+così felic e , mio caro, così }
+
+{  che se mbra esser creato }  ** { Internal
+mmerso nel sentimento della m }
+
+{ così felic e , mio caro, cos ** { Internal
+                                ** } Missing
+
+>>>  agglutination  [  ]   Missing (1) ] 
+
+[si mili] alla mia.  Sono  cos
+a esser creato  anime [si mili]
+
+[isegna re nulla] ora, ne ppur
+  Non p otrei [isegna re nulla]
+
+[tracci  are;  eppure ma i son
+                                ** ] Missing
+

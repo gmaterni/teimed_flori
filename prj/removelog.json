@@ -1,4 +1,5 @@
 {
+    "log":"1",
   "remove_dir": [
     {
       "dir": "txt/par1",

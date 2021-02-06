@@ -1,22 +1,24 @@
 &div-epB;(ep1)
-
-&lgB;									
-YYYDe*uant  que &pers;(ROM,{3%romullus) fuist
-AAA questa &sub-ex-int;(esame,prova)%3}
+&pb;(1r)
+&lgB;	
+riga di &corr;(preva,prova) &corr12;(difficile,molto,difficile)
+e 'un altra. riga &corr21;(un,po,meno) difficile
+De*uant.  que &pers;(ROM,{3%romullus) fuist
+A questa. &sub-ex-int;(esame,prova)%3}
 &pl-cit;(ROE,Rome) [ne 'l enpire] tenist,
-De*uant a*uoit {nom &pl-cit;(ROE,pelantee);
+De*uant a*uoit. {nom &pl-cit;(ROE,pelantee);
 De    &pers;(ROM,romol&sub-tr-sup;(e,o)) &pl-cit;(ROE,rome) \st nomee.
 Ses freres &pers;(REM,{3%remus) [i fu]} mors
 Dunt il fu gra&n;s pechiés e tort%3}.
 Ne *uos {2%pois dire [_ne *uos_] poist
-Com il fu mors, &que; [ne me 'l o~ist],
+AAAA [Com [_il] fu mors_], &que; [ne me 'l o~ist],
 Quar [de 'l estorie] *uuel traiter:
 Long est [la fin] del come`çer.
 &lgE;
 
-&lgB;
 &pb;(2r)
 &cb-a;
+&lgB;
 &corr;(&hi-f;(Q),D)E*uant le tens [_&que; *ie_] *uos di,
 Ensi con *uos aués o~i,
 Ot [en &pl-reg;(GRE,&corr;(gre],Grece)) un getil Roi
@@ -51,7 +53,7 @@ De &pl-cit;(BAB,babiloine) iert amirans,
 E de &pl-reg;(GRE,grece) fu roi posans.
 De tote le tere aus gregois
 {Estoit il por feme Rois,
-&cb-b;
+&cb-b;{  {
 Mais il [i mist] mont grant eso~ine
 Quar &pl-reg;(GRE,grece) est loins de &pl-cit;(BAB,babiloine).
 Qui *uuelt de &pl-reg;(EGI,gipte) [en &pl-reg;(GRE,grece]) aler
@@ -94,7 +96,7 @@ Norir le fis&add-inl;(t)_} e ensegner;
 &pers;(SEL,Seloc) fist norir enseme&n;t.
 Le &num;(dous) &app1;(enfans,enfan&sub-tr-sup;(t,s),enfant) &app1;(amoiz,amoi&sub-tr-sup;(z,t),amoit) forme&n;t.								
 &lgE;
-
+{
 &lgB;
 &hi-f;(L)^J &num;(dui) enfant iere&n;t &mlt; be&sub-tr-sup;(r,l),
 De lor aage damoisel.
@@ -107,5 +109,7 @@ Fure&n;t man&dé; [à cele] feste;
 Li R)is [i dona] [à sa gent]
 De sum or [e de] su&m; argent.
 &lgE;
+[     [
 
+]
 &divE;

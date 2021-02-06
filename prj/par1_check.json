@@ -1,0 +1,17 @@
+{
+    "log":"0",
+    "exe_dir": {
+        "dir": "txt/par1/eps",
+        "pattern": "*.txt",
+        "par_subst": ".txt|",
+        "par_name": "$F",
+        "exe_file": [
+            [
+                "teimcheckoverflow.py",
+                "-i txt/par1/eps/$F.txt",
+                "-c cfg/fromtotag.csv",
+                "-o txt/par1/check_$F.txt"
+            ]
+        ]
+    }
+}

@@ -213,19 +213,23 @@ mod|^j|<c ana="#lram-v">j</c>
 
 
 
-corr|sic|<sic>$</sic>
-corr|corr|<choice><sic>$</sic><corr>$</corr></choice>
+corr|sic|<sic><w>$</w></sic>
+
+corr|corr|<choice><sic><w>$</w></sic><corr><w>$</w></corr></choice>
+corr|corr12|<choice><sic><w>$</w></sic><corr><w>$</w><w>$</w></corr></choice>
+corr|corr21|<choice><sic><w>$</w><w>$</w></sic><corr><w>$</w></corr></choice>
+
 corr|corr-ditt|<choice><sic ana="#ditt">$</sic><corr>$</corr></choice>
 corr|corr-hapl|<choice><sic ana="#hapl">$</sic><corr>$</corr></choice>
 corr|corr-int|<choice><sic ana="#interv">$</sic><corr>$</corr></choice>
 corr|corr-met|<choice><sic ana="#metath">$</sic><corr>$</corr></choice>
 corr|corr-mis|<choice><sic ana="#misdiv">$</sic><corr>$</corr></choice>
 corr|corr-eye|<choice><sic ana="#eye">$</sic><corr>$</corr></choice>
+
 corr|supl-eo|<supplied reason="evident-omission">$</supplied>
 corr|supl-dy|<supplied reason="damage" cert="yes">$</supplied>
 corr|supl-dn|<supplied reason="damage" cert="no">$</supplied>
-corr|corr12|<choice><sic><w>$</w></sic><corr><w>$</w><w>$</w></corr></choice>
-corr|corr21|<choice><sic><w>$</w><w>$</w></sic><corr><w>$</w></corr></choice>
+
 
 
 

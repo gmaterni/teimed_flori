@@ -9,7 +9,7 @@
         "teimxml.py",
         "-i txt/tor1/eps/$F.txt",
         "-t cfg/fl_teimed_tags.csv",
-        " -o txt/tor1/x_$F.txt"
+        "-o txt/tor1/x_$F.txt"
       ]
     ]
   }

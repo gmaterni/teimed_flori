@@ -144,7 +144,7 @@ Meus *uodroie estre mort &que; *uis}.
 Li &num;(dui) enfant fure&n;t mout saçe,					<!-- ç/g -->
 Si 's amoie&n;t par bien corage;
 &corr;(^Ji,il) 's amoie&n;t de tel amor						<!-- CORR -->
-^Vnque nus hons [ne *uit] &app1;(peior,&sub-ex-int;(peior,gregnor),gregnor)	<!-- APP -->
+^Vnque nus hons [ne *uit] &app1;(peior,&sub-ex-int;(peior,gregnor,gregnor)	<!-- APP -->
 Quar [li uns] &9;cel ne &app1;(sauoient,sa*uoi&del-ex;(e&n;)t,sa*uoit)		<!-- APP -->
 [De ci] que 'l autre ne *uoit.
 &lgE;

@@ -1,0 +1,11 @@
+
+============================
+txt/ven1/eps/ven1_02ep01.txt
+============================
+=======================================================
+.106
+Li R)is [i dona] [à sa gent]
+....)  -1(
+.147
+^Vnque nus hons [ne *uit] &app1;(peior,&sub-ex-int;(peior,gregnor,gregnor)
+................................(peior,&sub-ex-int;(peior,gregnor,gregnor)  -1)

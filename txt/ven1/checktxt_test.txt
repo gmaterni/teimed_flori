@@ -1,0 +1,40 @@
+
+=====================
+txt/ven1/eps/test.txt
+=====================
+1
+[Por &pers(ANA,anal&add-int;u)ina]) fu escris.
+     &pers(A
+3
+&pers(AYM,Aymes) por &pers(JUL,analui)
+&pers(A
+                     &pers(J
+7
+&pb(1r)
+&pb(1
+11
+&hi-i;(C^Jl [qui a] &cuer &de; *uaselage
+                    &cuer 
+14
+Ce que &pers(AYM,aymes *uelt recunter
+       &pers(A
+18
+&pers;(AYM,Aymes) por &pers(JUL,analui)
+                      &pers(J
+20
+Que &corr(tens,teus) 'l ora &que ne entent
+    &corr(t
+                            &que 
+23
+Toz &corr;(io&rsr,jors) mais [en iert] rame&n;bra&n;`çe.
+             &rsr,
+=======================================================
+.1
+[Por &pers(ANA,anal&add-int;u)ina]) fu escris.
+..........(ANA,anal&add-int;u)ina])  -1(
+.11
+&hi-i;(C^Jl [qui a] &cuer &de; *uaselage
+......(  -1)
+.14
+Ce que &pers(AYM,aymes *uelt recunter
+............(  -1)
